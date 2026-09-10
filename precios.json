@@ -1339,7 +1339,7 @@
   {
     "producto": "CARBON VEGETAL AL CAMPO X4,5KG",
     "marca": "AL CAMPO",
-    "precio": 13.0,
+    "precio": 13,
     "stock": 14,
     "id": 192
   },
@@ -1570,7 +1570,7 @@
   {
     "producto": "CHOCOLATES BIANCHI SNACKS",
     "marca": "GUDS SUPPLY",
-    "precio": 1.0,
+    "precio": 1,
     "stock": 3,
     "id": 225
   },
@@ -2053,7 +2053,7 @@
   {
     "producto": "CREYON LEVO 24 COLORES",
     "marca": "LEVO",
-    "precio": 4.0,
+    "precio": 4,
     "stock": 47,
     "id": 294
   },
@@ -3250,7 +3250,7 @@
   {
     "producto": "HARINA BLANCA FLOR TODO USO 1 KG (E)",
     "marca": "GRUPO MIMESA",
-    "precio": 1.0,
+    "precio": 1,
     "stock": 31,
     "id": 465
   },
@@ -3530,21 +3530,21 @@
   {
     "producto": "HUESITO AVENA UNT40X200ML",
     "marca": "CARABOBO",
-    "precio": 1.0,
+    "precio": 1,
     "stock": 64,
     "id": 505
   },
   {
     "producto": "HUESITO FRESA UHT 40X200",
     "marca": "CARABOBO",
-    "precio": 1.0,
+    "precio": 1,
     "stock": 436,
     "id": 506
   },
   {
     "producto": "HUESITO VAINILLA UHT 40X200ML",
     "marca": "CARABOBO",
-    "precio": 1.0,
+    "precio": 1,
     "stock": 263,
     "id": 507
   },
@@ -4307,7 +4307,7 @@
   {
     "producto": "PEGA LOCA BIC UND",
     "marca": "DISTRIBUIDORA BIGOTT",
-    "precio": 1.0,
+    "precio": 1,
     "stock": 1408,
     "id": 616
   },
@@ -4349,7 +4349,7 @@
   {
     "producto": "BASE P/COCINAR OSOLE CARNE MECHADA 300 GR",
     "marca": "INVERSIONES GOA 7, C",
-    "precio": 2.0,
+    "precio": 2,
     "stock": 2,
     "id": 622
   },
@@ -4615,7 +4615,7 @@
   {
     "producto": "CREMA KEN PRESTO CHANTILLY 1L",
     "marca": "KEMCO",
-    "precio": 6.0,
+    "precio": 6,
     "stock": 6,
     "id": 660
   },
@@ -4636,7 +4636,7 @@
   {
     "producto": "CARAMELO REVOLCON 50 UND",
     "marca": "HAI SANGO",
-    "precio": 3.0,
+    "precio": 3,
     "stock": 24,
     "id": 663
   },
@@ -4755,7 +4755,7 @@
   {
     "producto": "POP 35",
     "marca": "BIC",
-    "precio": 0.0,
+    "precio": 0,
     "stock": 959,
     "id": 680
   },
@@ -4888,7 +4888,7 @@
   {
     "producto": "SALSA PARA PIZZA KIERO 12 X 500G",
     "marca": "PROCESADORA NATURALYST",
-    "precio": 0.0,
+    "precio": 0,
     "stock": 24,
     "id": 699
   },
