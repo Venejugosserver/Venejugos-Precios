@@ -1,6050 +1,6226 @@
 [
   {
-    "id": 1,
+    "id": 1789655333964,
     "producto": "4C AMARILLO VELON 1X35 UNIDADES",
     "marca": "3N",
     "precio": 2.22,
     "stock": 30,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 2,
+    "id": 1789655333615,
     "producto": "4C AZUL VELON 1X35 UNIDADES",
     "marca": "3N",
     "precio": 2.22,
     "stock": 1,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 3,
-    "producto": "7UP LATA 355 ML X 24UN",
-    "marca": "PEPSI-COLA",
-    "precio": 22.99,
-    "stock": 1,
-    "modulo": "MobilVendor"
-  },
-  {
-    "id": 4,
-    "producto": "7UP PET 1,5L X 6UN",
-    "marca": "PEPSI-COLA",
-    "precio": 5.85,
-    "stock": 2,
-    "modulo": "Modulo B"
-  },
-  {
-    "id": 5,
+    "id": 1789655333219,
     "producto": "ACEITE DE GIRASOL VATEL PRO TOBO 18LT",
     "marca": "GRUPO MIMESA",
     "precio": 84.36,
     "stock": 5,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 6,
+    "id": 1789655333468,
+    "producto": "ACEITE DE SOYA BRANCA 18 LT (E)",
+    "marca": "GRUPO MIMESA",
+    "precio": 62.3,
+    "stock": 43,
+    "modulo": ""
+  },
+  {
+    "id": 1789655333661,
     "producto": "ACEITE DE SOYA VATEL 12X800ML",
     "marca": "GRUPO MIMESA",
-    "precio": 2.87,
-    "stock": 703,
-    "modulo": "MobilVendor"
+    "precio": 2.75,
+    "stock": 1165,
+    "modulo": ""
   },
   {
-    "id": 7,
+    "id": 1789655333160,
     "producto": "ACEITE LA COMADRE VEGETAL 828ML",
     "marca": "MONACA",
     "precio": 2.66,
-    "stock": 83,
-    "modulo": "MobilVendor"
+    "stock": 76,
+    "modulo": ""
   },
   {
-    "id": 8,
+    "id": 1789655333531,
     "producto": "ACEITE SOYA PORTUMESA 12 X 850 ML",
     "marca": "PORTUMESA",
     "precio": 2.59,
-    "stock": 2114,
-    "modulo": "MobilVendor"
+    "stock": 1497,
+    "modulo": ""
   },
   {
-    "id": 9,
+    "id": 1789655334004,
+    "producto": "ACEITE VEGETAL EL REY 1X18 LTS",
+    "marca": "GRUPO MIMESA",
+    "precio": 63.55,
+    "stock": 8,
+    "modulo": ""
+  },
+  {
+    "id": 1789655334065,
     "producto": "AGUA BONAO CAJA 20 UND 355ML",
     "marca": "GLUP",
     "precio": 4.31,
     "stock": 146,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 10,
+    "id": 1789655333938,
+    "producto": "AGUA CANAIMA DE 06/ 1500 PET PREMIER",
+    "marca": "CANAIMA",
+    "precio": 2.95,
+    "stock": 271,
+    "modulo": ""
+  },
+  {
+    "id": 1789655333809,
     "producto": "AGUA CANAIMA DE 24/330 PET PREMIER",
     "marca": "CANAIMA",
-    "precio": 6.32,
-    "stock": 33,
-    "modulo": "Modulo B"
+    "precio": 6.13,
+    "stock": 32,
+    "modulo": ""
   },
   {
-    "id": 11,
+    "id": 1789655333446,
     "producto": "AGUA CANAIMA SABOR COCO 12/600 ML",
     "marca": "CANAIMA",
     "precio": 8.79,
     "stock": 3,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 12,
+    "id": 1789655333892,
     "producto": "AGUA CANAIMA SABOR COCO 6/1500 ML",
     "marca": "CANAIMA",
     "precio": 7.12,
     "stock": 9,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 13,
+    "id": 1789655333547,
     "producto": "AGUA CANAIMA SABOR FLOR DE JAMAICA 12/600",
     "marca": "CANAIMA",
     "precio": 8.79,
     "stock": 9,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 14,
+    "id": 1789655333140,
     "producto": "AGUA CANAIMA SABOR FLOR DE JAMAICA 6/1500",
     "marca": "CANAIMA",
     "precio": 7.11,
     "stock": 3,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 15,
+    "id": 1789655334032,
     "producto": "AGUA CANAIMA SABOR MANDARINA 6/1500 ML",
     "marca": "CANAIMA",
     "precio": 7.28,
     "stock": 9,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 16,
+    "id": 1789655333208,
     "producto": "AGUA CANAIMA SABOR MORA 6/ 1500ML",
     "marca": "CANAIMA",
     "precio": 7.28,
-    "stock": 6,
-    "modulo": "Modulo B"
+    "stock": 3,
+    "modulo": ""
   },
   {
-    "id": 17,
+    "id": 1789655333547,
     "producto": "AGUA CANAIMA SABOR NARANJA 6/1500 ML",
     "marca": "CANAIMA",
     "precio": 7.28,
     "stock": 6,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 18,
+    "id": 1789655333367,
     "producto": "AGUA CANAIMA SABOR TORONJA 12/600 ML",
     "marca": "CANAIMA",
     "precio": 8.79,
     "stock": 9,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 19,
+    "id": 1789655333149,
     "producto": "AGUA CANAIMA SABOR TORONJA 6/1500",
     "marca": "CANAIMA",
     "precio": 7.11,
     "stock": 14,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 20,
+    "id": 1789655333295,
+    "producto": "AGUA MINERAL CANAIMA 12/500 PET PREMIER",
+    "marca": "CANAIMA",
+    "precio": 3.33,
+    "stock": 1,
+    "modulo": ""
+  },
+  {
+    "id": 1789655333637,
     "producto": "AGUA MINERAL CANAIMA 2/5000",
     "marca": "CANAIMA",
-    "precio": 3.87,
-    "stock": 100,
-    "modulo": "Modulo B"
+    "precio": 4.3,
+    "stock": 137,
+    "modulo": ""
   },
   {
-    "id": 21,
+    "id": 1789655333573,
     "producto": "AGUA MINERAL CANAIMA 2/8000 PET",
     "marca": "CANAIMA",
     "precio": 8.96,
-    "stock": 99,
-    "modulo": "Modulo B"
+    "stock": 95,
+    "modulo": ""
   },
   {
-    "id": 22,
+    "id": 1789655333355,
+    "producto": "AGUA MINERAL CANAIMA 24/500 PREMIER",
+    "marca": "CANAIMA",
+    "precio": 6.47,
+    "stock": 166,
+    "modulo": ""
+  },
+  {
+    "id": 1789655333256,
     "producto": "AGUA MINERAL MIBRISA 330ML 24UND",
     "marca": "MI BRISA",
     "precio": 6.55,
-    "stock": 89,
-    "modulo": "Modulo B"
+    "stock": 85,
+    "modulo": ""
   },
   {
-    "id": 23,
+    "id": 1789655333389,
     "producto": "AGUA MINERAL MIBRISA 500ML 24UND",
     "marca": "MI BRISA",
     "precio": 9.28,
-    "stock": 22,
-    "modulo": "Modulo B"
+    "stock": 18,
+    "modulo": ""
   },
   {
-    "id": 24,
+    "id": 1789655333187,
     "producto": "AGUA MINERAL MIBRISA 5LTS 2UND",
     "marca": "MI BRISA",
     "precio": 3.8,
-    "stock": 30,
-    "modulo": "Modulo B"
+    "stock": 14,
+    "modulo": ""
   },
   {
-    "id": 25,
+    "id": 1789655333509,
+    "producto": "AGUAFIEL 1,5LTS 6UND",
+    "marca": "AGUAFIEL",
+    "precio": 4.9,
+    "stock": 2,
+    "modulo": ""
+  },
+  {
+    "id": 1789655333362,
     "producto": "AGUAFIEL 5LTS 2UND",
     "marca": "AGUAFIEL",
     "precio": 4.67,
-    "stock": 20,
-    "modulo": "Modulo B"
+    "stock": 1,
+    "modulo": ""
   },
   {
-    "id": 26,
+    "id": 1789655333866,
     "producto": "AIKAS PAN SANDWICH AVENA 420GR",
     "marca": "CRUSTISSIMO",
     "precio": 1.63,
     "stock": 1,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 27,
-    "producto": "AIKAS SANDWICH INTEGRAL 420G",
-    "marca": "CRUSTISSIMO",
-    "precio": 1.63,
-    "stock": 3,
-    "modulo": "MobilVendor"
-  },
-  {
-    "id": 28,
+    "id": 1789655333801,
     "producto": "AIKAS SANDWICH MANT 420G",
     "marca": "CRUSTISSIMO",
     "precio": 1.63,
-    "stock": 10,
-    "modulo": "MobilVendor"
+    "stock": 2,
+    "modulo": ""
   },
   {
-    "id": 29,
+    "id": 1789655333500,
     "producto": "ALEA TOALLAS HUMEDAS AVENA 72UND",
     "marca": "DIMASSI",
     "precio": 1.67,
-    "stock": 257,
-    "modulo": "MobilVendor"
+    "stock": 239,
+    "modulo": ""
   },
   {
-    "id": 30,
+    "id": 1789655333681,
     "producto": "ALEA TOALLAS HUMEDAS MANZANILLA 72 UND",
     "marca": "DIMASSI",
     "precio": 1.67,
-    "stock": 289,
-    "modulo": "MobilVendor"
+    "stock": 271,
+    "modulo": ""
   },
   {
-    "id": 31,
+    "id": 1789655333412,
     "producto": "ALPISTE PANTERA 250GRS",
     "marca": "PANTERA",
     "precio": 1.15,
     "stock": 5,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 32,
+    "id": 1789655333347,
     "producto": "ALWAYS PROTE DIARLARGOS 50 UND",
     "marca": "P&G",
     "precio": 4.28,
     "stock": 14,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 33,
+    "id": 1789655333589,
     "producto": "ALWAYS PROTEC DIAR C/PERF 80 UND",
     "marca": "P&G",
     "precio": 6.96,
     "stock": 8,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 34,
+    "id": 1789655333930,
     "producto": "ALWAYS PROTECT DIARIOS S/PERF 40 UND",
     "marca": "P&G",
     "precio": 3.65,
     "stock": 6,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 35,
+    "id": 1789655333613,
     "producto": "AREQUIPE SAN MIGUEL TOBO 5KG",
     "marca": "SAN MIGUEL",
     "precio": 32.15,
-    "stock": 7,
-    "modulo": "Modulo B"
+    "stock": 5,
+    "modulo": ""
   },
   {
-    "id": 36,
+    "id": 1789655333840,
     "producto": "ARROZ EL TITAN 500G TIPO II",
     "marca": "EL TITAN",
     "precio": 0.61,
     "stock": 43,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 37,
+    "id": 1789655333907,
     "producto": "ARROZ EL TITAN 900G TIPO II",
     "marca": "EL TITAN",
     "precio": 1.1,
-    "stock": 996,
-    "modulo": "MobilVendor"
+    "stock": 972,
+    "modulo": ""
   },
   {
-    "id": 38,
+    "id": 1789655333909,
     "producto": "ARROZ GRAN MARQUES GOURMET 900GRS TIPO I 24UND",
     "marca": "GRAN MARQUES",
     "precio": 1.73,
     "stock": 15,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 39,
+    "id": 1789655333285,
     "producto": "ARROZ GRAN MARQUES SELECTO 850GRS TIPO I 24 UND",
     "marca": "GRAN MARQUES",
     "precio": 1.45,
     "stock": 1,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 40,
+    "id": 1789655333932,
     "producto": "ARROZ LA COMADRE 900 GR 24 UND",
     "marca": "MONACA",
     "precio": 0.97,
-    "stock": 1029,
-    "modulo": "MobilVendor"
+    "stock": 710,
+    "modulo": ""
   },
   {
-    "id": 41,
+    "id": 1789655333402,
     "producto": "ARROZ MONICA TIPO I 900G 24 UND",
     "marca": "MONACA",
     "precio": 1.15,
-    "stock": 49,
-    "modulo": "MobilVendor"
+    "stock": 2,
+    "modulo": ""
   },
   {
-    "id": 42,
+    "id": 1789655333894,
     "producto": "ARROZ PANTERA 24X908 GR",
     "marca": "PANTERA",
     "precio": 1.71,
     "stock": 4,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 43,
-    "producto": "ARVEJA VERDE PARTIDA PANTERA 400GRS",
-    "marca": "PANTERA",
-    "precio": 1.16,
-    "stock": 6,
-    "modulo": "MobilVendor"
-  },
-  {
-    "id": 44,
+    "id": 1789655333751,
     "producto": "ATUN ACEITE VEGETAL EL ANCLA 170G",
     "marca": "BUENAVENTURA",
     "precio": 1.86,
-    "stock": 110,
-    "modulo": "MobilVendor"
+    "stock": 58,
+    "modulo": ""
   },
   {
-    "id": 45,
-    "producto": "ATUN ACEITE VEGETAL LOS ROQUES 170G",
-    "marca": "BUENAVENTURA",
-    "precio": 2.32,
-    "stock": 22,
-    "modulo": "MobilVendor"
-  },
-  {
-    "id": 46,
+    "id": 1789655333707,
     "producto": "ATUN AREL ACEITE OLIVA 48X140G",
     "marca": "REPRESENTACIONES DIPROPAL",
     "precio": 2.86,
-    "stock": 748,
-    "modulo": "MobilVendor"
+    "stock": 746,
+    "modulo": ""
   },
   {
-    "id": 47,
+    "id": 1789655334061,
     "producto": "ATUN AREL ACEITE PICANTE 48X140GR",
     "marca": "REPRESENTACIONES DIPROPAL",
     "precio": 2.53,
     "stock": 187,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 48,
+    "id": 1789655333810,
     "producto": "ATUN SOLIDO EN ACEITE ROBINSON CRUSOE 170G",
     "marca": "DISTRIBUIDORA EL HACENDADO",
     "precio": 2.14,
     "stock": 114,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 49,
+    "id": 1789655333728,
     "producto": "ATUN TROZOS AL NATURAL ROBINSON CRUSOE 170G",
     "marca": "DISTRIBUIDORA EL HACENDADO",
     "precio": 1.72,
     "stock": 234,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 50,
+    "id": 1789655333987,
     "producto": "ATUN TROZOS EN ACEITE ROBINSON CRUSOE 170G",
     "marca": "DISTRIBUIDORA EL HACENDADO",
     "precio": 1.89,
-    "stock": 220,
-    "modulo": "Modulo B"
+    "stock": 207,
+    "modulo": ""
   },
   {
-    "id": 51,
+    "id": 1789655333529,
     "producto": "AZUCAR LA PASTORA BULTO 20X 1KG",
     "marca": "IPT DISTRIBUCIONES",
-    "precio": 1.49,
-    "stock": 301,
-    "modulo": "MobilVendor"
+    "precio": 1.42,
+    "stock": 13241,
+    "modulo": ""
   },
   {
-    "id": 52,
+    "id": 1789655333459,
     "producto": "AZUCAR MILAGROSA BULTO 20 X 1KG",
     "marca": "IPT DISTRIBUCIONES",
     "precio": 1.38,
     "stock": 12,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 53,
+    "id": 1789655333844,
+    "producto": "AZUCAR REF LA NORMANDA SACO 50KG",
+    "marca": "NORMANDA",
+    "precio": 64.8,
+    "stock": 97,
+    "modulo": ""
+  },
+  {
+    "id": 1789655333868,
+    "producto": "B20",
+    "marca": "BIGOTT",
+    "precio": 25.4,
+    "stock": 2,
+    "modulo": ""
+  },
+  {
+    "id": 1789655334034,
     "producto": "BALSAMO STEFANY 350 GR",
     "marca": "COSMETICOS LARENSE",
     "precio": 2.54,
     "stock": 36,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 54,
+    "id": 1789655334042,
     "producto": "BASE P/COCINAR OSOLE CARNE MECHADA 300 GR",
     "marca": "INVERSIONES GOA 7, C",
     "precio": 2,
     "stock": 2,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 55,
+    "id": 1789655333494,
     "producto": "BATERIA PANASONIC AA RISTRA 12 UND",
     "marca": "DISTRIBUIDORA BIGOTT",
     "precio": 6.86,
     "stock": 14,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 56,
+    "id": 1789655333389,
     "producto": "BATERIAS PANASONIC AA 4 UND 1.5V",
     "marca": "DISTRIBUIDORA BIGOTT",
     "precio": 2.32,
     "stock": 135,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 57,
-    "producto": "BATERIAS PANASONIC AAA RISTRA 10UND",
-    "marca": "BIGOTT",
-    "precio": 6.54,
-    "stock": 1,
-    "modulo": "MobilVendor"
-  },
-  {
-    "id": 58,
+    "id": 1789655334127,
     "producto": "BEBIDA DE FRUTAS TROPICALES KAITO AKUITA 3X200ML",
     "marca": "PROCESADORA NATURALYST",
     "precio": 1.54,
-    "stock": 275,
-    "modulo": "MobilVendor"
+    "stock": 268,
+    "modulo": ""
   },
   {
-    "id": 59,
+    "id": 1789655333301,
     "producto": "BEBIDA MANZANA ALEGRE KAITO AKUITA",
     "marca": "PROCESADORA NATURALYST",
     "precio": 1.54,
-    "stock": 205,
-    "modulo": "MobilVendor"
+    "stock": 196,
+    "modulo": ""
   },
   {
-    "id": 60,
-    "producto": "BEBIDA SABOR LIMON 6/1500ML",
+    "id": 1789655333800,
+    "producto": "BEBIDA SABOR LIMON 6/1500ML CANAIMA",
     "marca": "CANAIMA",
     "precio": 5.31,
-    "stock": 50,
-    "modulo": "Modulo B"
+    "stock": 47,
+    "modulo": ""
   },
   {
-    "id": 61,
+    "id": 1789655334013,
     "producto": "BELMONT B10",
     "marca": "DISTRIBUIDORA BIGOTT",
     "precio": 1.28,
-    "stock": 3974,
-    "modulo": "Modulo B"
+    "stock": 2657,
+    "modulo": ""
   },
   {
-    "id": 62,
+    "id": 1789655333434,
     "producto": "BELMONT B20",
     "marca": "DISTRIBUIDORA BIGOTT",
     "precio": 2.54,
-    "stock": 12175,
-    "modulo": "Modulo B"
+    "stock": 8630,
+    "modulo": ""
   },
   {
-    "id": 63,
+    "id": 1789655333532,
     "producto": "BIN BIN ESTUCHE 18X30 GRS SURTIDOS",
     "marca": "CARAMELOS GULI",
     "precio": 10.28,
-    "stock": 6,
-    "modulo": "MobilVendor"
+    "stock": 3,
+    "modulo": ""
   },
   {
-    "id": 64,
+    "id": 1789655333853,
     "producto": "BIO CREAM ALOE VERA 240GR TC",
     "marca": "COSMETICOS LARENSE",
     "precio": 2.12,
     "stock": 47,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 65,
+    "id": 1789655334043,
     "producto": "BIO CREAM MILK 240 GR TC",
     "marca": "COSMETICOS LARENSE",
     "precio": 2.12,
-    "stock": 40,
-    "modulo": "Modulo B"
+    "stock": 38,
+    "modulo": ""
   },
   {
-    "id": 66,
+    "id": 1789655333756,
     "producto": "BIO CREAM VITAMINA E 240 GR TC",
     "marca": "COSMETICOS LARENSE",
     "precio": 2.12,
     "stock": 42,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 67,
+    "id": 1789655333356,
     "producto": "BOLIGRAFO AZUL BIC 12 UND",
     "marca": "DISTRIBUIDORA BIGOTT",
     "precio": 4.34,
-    "stock": 168,
-    "modulo": "Modulo B"
+    "stock": 167,
+    "modulo": ""
   },
   {
-    "id": 68,
+    "id": 1789655333776,
     "producto": "BOLIGRAFO NEGRO BIC 12UND",
     "marca": "DISTRIBUIDORA BIGOTT",
     "precio": 4.38,
-    "stock": 318,
-    "modulo": "Modulo B"
+    "stock": 317,
+    "modulo": ""
   },
   {
-    "id": 69,
+    "id": 1789655333291,
     "producto": "BOMBILLO LED 12W 6500K",
     "marca": "RICAMAR",
     "precio": 1.13,
-    "stock": 76,
-    "modulo": "Modulo B"
+    "stock": 75,
+    "modulo": ""
   },
   {
-    "id": 70,
+    "id": 1789655333977,
     "producto": "BOMBILLO LED 15W 6500K BASIC",
     "marca": "RICAMAR",
     "precio": 1.21,
-    "stock": 70,
-    "modulo": "Modulo B"
+    "stock": 41,
+    "modulo": ""
   },
   {
-    "id": 71,
+    "id": 1789655333303,
     "producto": "BOMBILLO LED 9W 6500K BASIC",
     "marca": "RICAMAR",
     "precio": 0.84,
-    "stock": 100,
-    "modulo": "Modulo B"
+    "stock": 94,
+    "modulo": ""
   },
   {
-    "id": 72,
+    "id": 1789655334122,
     "producto": "BOTECITO FUDGE 300GR X 6",
     "marca": "ONCE-ONCE",
     "precio": 5.02,
-    "stock": 41,
-    "modulo": "MobilVendor"
+    "stock": 14,
+    "modulo": ""
   },
   {
-    "id": 73,
+    "id": 1789655333252,
     "producto": "BOTECITOS CHOCOLATE PAQ 6UNDX210GR",
     "marca": "ONCE-ONCE",
     "precio": 4.38,
-    "stock": 76,
-    "modulo": "MobilVendor"
+    "stock": 52,
+    "modulo": ""
   },
   {
-    "id": 74,
+    "id": 1789655333854,
     "producto": "BOTECITOS FRESA PAQUETE 6X210GR",
     "marca": "ONCE-ONCE",
     "precio": 4.38,
-    "stock": 79,
-    "modulo": "MobilVendor"
+    "stock": 58,
+    "modulo": ""
   },
   {
-    "id": 75,
+    "id": 1789655333495,
     "producto": "BOTECITOS VAINILLA PAQUETE 6X210GR",
     "marca": "ONCE-ONCE",
     "precio": 4.38,
-    "stock": 64,
-    "modulo": "MobilVendor"
+    "stock": 28,
+    "modulo": ""
   },
   {
-    "id": 76,
+    "id": 1789655334181,
     "producto": "BRILLANTE LAVAPLATOS EN CREMA BRISAS DEL MAR 250GR",
     "marca": "CORVARA HOLDINGS",
     "precio": 1.01,
     "stock": 616,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 77,
+    "id": 1789655333873,
     "producto": "BRILLANTE LAVAPLATOS EN CREMA CITRICO 250GR",
     "marca": "CORVARA HOLDINGS",
     "precio": 1.01,
     "stock": 173,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 78,
+    "id": 1789655333289,
     "producto": "CABO MADERA PARA ESCOBAS ROSCA PLASTICA 1.25MTS",
     "marca": "GARBI",
     "precio": 0.86,
     "stock": 94,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 79,
+    "id": 1789655334056,
     "producto": "CAFE ARAUCA MOLIDO GOURMET 100GR",
     "marca": "ARAUCA",
     "precio": 1.35,
-    "stock": 2084,
-    "modulo": "MobilVendor"
+    "stock": 2039,
+    "modulo": ""
   },
   {
-    "id": 80,
+    "id": 1789655333582,
     "producto": "CAFE SAN DOMINGO GRANO GOURMET 5 X 1KG",
     "marca": "SAN DOMINGO",
     "precio": 12.88,
-    "stock": 27,
-    "modulo": "MobilVendor"
+    "stock": 67,
+    "modulo": ""
   },
   {
-    "id": 81,
+    "id": 1789655334139,
     "producto": "CAFE SAN DOMINGO MOLIDO GOURMET 10 X 500GR",
     "marca": "SAN DOMINGO",
     "precio": 6.44,
-    "stock": 256,
-    "modulo": "MobilVendor"
+    "stock": 273,
+    "modulo": ""
   },
   {
-    "id": 82,
+    "id": 1789655334188,
     "producto": "CAFE SAN DOMINGO MOLIDO GOURMET 25 X 200GR",
     "marca": "SAN DOMINGO",
     "precio": 2.62,
-    "stock": 5,
-    "modulo": "MobilVendor"
+    "stock": 717,
+    "modulo": ""
   },
   {
-    "id": 83,
+    "id": 1789655333649,
     "producto": "CAFE SAN DOMINGO MOLIDO GOURMET 50 X 100GR",
     "marca": "SAN DOMINGO",
     "precio": 1.31,
-    "stock": 635,
-    "modulo": "MobilVendor"
+    "stock": 980,
+    "modulo": ""
   },
   {
-    "id": 84,
+    "id": 1789655333501,
     "producto": "CAFE SAN DOMINGO MOLIDO PREMIUM NEGRO 10 X 500GR",
     "marca": "SAN DOMINGO",
     "precio": 5.67,
-    "stock": 327,
-    "modulo": "MobilVendor"
+    "stock": 307,
+    "modulo": ""
   },
   {
-    "id": 85,
+    "id": 1789655333606,
     "producto": "CAFE SAN DOMINGO PREMIUM NEGRO 25 X 200GR",
     "marca": "SAN DOMINGO",
     "precio": 2.31,
-    "stock": 597,
-    "modulo": "MobilVendor"
+    "stock": 389,
+    "modulo": ""
   },
   {
-    "id": 86,
+    "id": 1789655333945,
     "producto": "CAFE SAN DOMINGO PREMIUM NEGRO 50 X 100GR",
     "marca": "SAN DOMINGO",
     "precio": 1.16,
-    "stock": 883,
-    "modulo": "MobilVendor"
+    "stock": 818,
+    "modulo": ""
   },
   {
-    "id": 87,
+    "id": 1789655333682,
     "producto": "CAFE SAN SALVADOR EN GRANO GOURMET 1KG",
     "marca": "ARAUCA",
     "precio": 13.6,
-    "stock": 34,
-    "modulo": "MobilVendor"
+    "stock": 32,
+    "modulo": ""
   },
   {
-    "id": 88,
+    "id": 1789655334152,
     "producto": "CAFE SAN SALVADOR MOLIDO GOURMET 200G",
     "marca": "ARAUCA",
     "precio": 2.72,
-    "stock": 365,
-    "modulo": "MobilVendor"
+    "stock": 316,
+    "modulo": ""
   },
   {
-    "id": 89,
+    "id": 1789655333611,
     "producto": "CAFE SAN SALVADOR MOLIDO GOURMET 500G",
     "marca": "ARAUCA",
     "precio": 6.8,
-    "stock": 152,
-    "modulo": "MobilVendor"
+    "stock": 132,
+    "modulo": ""
   },
   {
-    "id": 90,
+    "id": 1789655333912,
     "producto": "CAJA ESTUCHE VAN ECKEL 100 GRS",
     "marca": "TANRICO",
     "precio": 2.63,
     "stock": 24,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 91,
+    "id": 1789655333738,
     "producto": "CALDO DE COSTILLA 48X88G VE",
     "marca": "NESTLE",
     "precio": 2.33,
-    "stock": 292,
-    "modulo": "MobilVendor"
+    "stock": 610,
+    "modulo": ""
   },
   {
-    "id": 92,
+    "id": 1789655333622,
     "producto": "CALDO POLLO 16 (184GR)",
     "marca": "NESTLE",
     "precio": 4.04,
-    "stock": 355,
-    "modulo": "MobilVendor"
+    "stock": 242,
+    "modulo": ""
   },
   {
-    "id": 93,
+    "id": 1789655333686,
     "producto": "CALDO POLLO 8 (92 GR)",
     "marca": "NESTLE",
     "precio": 2.33,
-    "stock": 1305,
-    "modulo": "MobilVendor"
+    "stock": 1269,
+    "modulo": ""
   },
   {
-    "id": 94,
+    "id": 1789655333861,
     "producto": "CARAMELO REVOLCON 50 UND",
     "marca": "HAI SANGO",
     "precio": 3,
-    "stock": 22,
-    "modulo": "Modulo B"
+    "stock": 21,
+    "modulo": ""
   },
   {
-    "id": 95,
+    "id": 1789655333330,
     "producto": "CARAMELOS BIANCHI BLANCO 4G-BOLSA",
     "marca": "GUDS SUPPLY",
     "precio": 3.75,
-    "stock": 29,
-    "modulo": "MobilVendor"
+    "stock": 20,
+    "modulo": ""
   },
   {
-    "id": 96,
+    "id": 1789655333359,
     "producto": "CARAMELOS BIANCHI CHOCOLATE 4G",
     "marca": "GUDS SUPPLY",
     "precio": 3.75,
-    "stock": 16,
-    "modulo": "MobilVendor"
+    "stock": 6,
+    "modulo": ""
   },
   {
-    "id": 97,
+    "id": 1789655333532,
     "producto": "CARAMELOS CAFE GURME X 50",
     "marca": "GUDS SUPPLY",
     "precio": 3.05,
-    "stock": 48,
-    "modulo": "MobilVendor"
+    "stock": 33,
+    "modulo": ""
   },
   {
-    "id": 98,
+    "id": 1789655333702,
     "producto": "CARAMELOS CHAO FRESA X 100",
     "marca": "GUDS SUPPLY",
     "precio": 3.28,
-    "stock": 48,
-    "modulo": "MobilVendor"
+    "stock": 38,
+    "modulo": ""
   },
   {
-    "id": 99,
+    "id": 1789655333748,
     "producto": "CARAMELOS CHAO LIMON BOLSA X100",
     "marca": "GUDS SUPPLY",
     "precio": 3.28,
-    "stock": 36,
-    "modulo": "MobilVendor"
+    "stock": 30,
+    "modulo": ""
   },
   {
-    "id": 100,
+    "id": 1789655333959,
     "producto": "CARAMELOS CHAO MENTA X 100",
     "marca": "GUDS SUPPLY",
     "precio": 3.28,
-    "stock": 37,
-    "modulo": "MobilVendor"
+    "stock": 14,
+    "modulo": ""
   },
   {
-    "id": 101,
+    "id": 1789655333894,
     "producto": "CARAMELOS CHAO MORA AZUL X 100",
     "marca": "GUDS SUPPLY",
     "precio": 3.49,
-    "stock": 39,
-    "modulo": "MobilVendor"
+    "stock": 32,
+    "modulo": ""
   },
   {
-    "id": 102,
+    "id": 1789655333778,
     "producto": "CARAMELOS CHAO PASTILLA CEREZA 16UND",
     "marca": "GUDS SUPPLY",
     "precio": 7.57,
-    "stock": 12,
-    "modulo": "MobilVendor"
+    "stock": 4,
+    "modulo": ""
   },
   {
-    "id": 103,
+    "id": 1789655333484,
     "producto": "CARAMELOS CHAO SANDIA X 100",
     "marca": "GUDS SUPPLY",
     "precio": 3.28,
-    "stock": 33,
-    "modulo": "MobilVendor"
+    "stock": 27,
+    "modulo": ""
   },
   {
-    "id": 104,
+    "id": 1789655333257,
     "producto": "CARAMELOS DE GOMA CUBIX SABORES SURTIDOS 100 GRS",
     "marca": "GOMBY",
     "precio": 0.93,
-    "stock": 185,
-    "modulo": "Modulo B"
+    "stock": 173,
+    "modulo": ""
   },
   {
-    "id": 105,
+    "id": 1789655334087,
     "producto": "CARAMELOS DOTZ ACIDITOS 30 GRS X 96 UND CAJA",
     "marca": "GOMBY",
     "precio": 10.73,
     "stock": 14,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 106,
+    "id": 1789655334216,
     "producto": "CARAMELOS FRUTIS 85 GRS X 20 UND",
     "marca": "GOMBY",
     "precio": 1.16,
     "stock": 21,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 107,
+    "id": 1789655333608,
     "producto": "CARAMELOS MASTICABLES LOKIÑOS",
     "marca": "GUDS SUPPLY",
     "precio": 3.68,
-    "stock": 21,
-    "modulo": "MobilVendor"
+    "stock": 13,
+    "modulo": ""
   },
   {
-    "id": 108,
+    "id": 1789655333925,
     "producto": "CARAMELOS MENTA HELADA BOLSA 100UND",
     "marca": "GUDS SUPPLY",
     "precio": 2.88,
-    "stock": 42,
-    "modulo": "MobilVendor"
+    "stock": 29,
+    "modulo": ""
   },
   {
-    "id": 109,
+    "id": 1789655334156,
     "producto": "CARAMELOS RICATO DE LECHE -BOLSA X",
     "marca": "GUDS SUPPLY",
     "precio": 3.05,
-    "stock": 16,
-    "modulo": "MobilVendor"
+    "stock": 10,
+    "modulo": ""
   },
   {
-    "id": 110,
+    "id": 1789655333938,
     "producto": "CARBON VEGETAL AL CAMPO X3KG",
     "marca": "AL CAMPO",
     "precio": 8.78,
-    "stock": 37,
-    "modulo": "Ambos Modulos"
+    "stock": 27,
+    "modulo": ""
   },
   {
-    "id": 111,
+    "id": 1789655334056,
     "producto": "CARBON VEGETAL AL CAMPO X4,5KG",
     "marca": "AL CAMPO",
     "precio": 13,
     "stock": 14,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 112,
+    "id": 1789655333813,
     "producto": "CARLOTINA ESTUCHE 24X15 GRS SURTIDOS",
     "marca": "CARAMELOS GULI",
     "precio": 7.6,
     "stock": 21,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 113,
+    "id": 1789655333575,
     "producto": "CARLOTINA EXHIBIDORA 10X15 GRS SURTIDOS",
     "marca": "CARAMELOS GULI",
     "precio": 3.17,
     "stock": 15,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 114,
+    "id": 1789655333994,
+    "producto": "CARNATION EVAPORATED MILK 4(10X290ML) DO",
+    "marca": "NESTLE",
+    "precio": 2.23,
+    "stock": 7,
+    "modulo": ""
+  },
+  {
+    "id": 1789655333971,
     "producto": "CARNATION LECHE EVAPORADA TARRO48X395GXW",
     "marca": "NESTLE",
     "precio": 3.18,
-    "stock": 120,
-    "modulo": "MobilVendor"
+    "stock": 300,
+    "modulo": ""
   },
   {
-    "id": 115,
+    "id": 1789655333970,
     "producto": "CEREAL AZUCARADO LONCHERA 25GRS 6UND",
     "marca": "HERMANOS FIGUEIRA",
     "precio": 1.81,
     "stock": 1,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 116,
+    "id": 1789655334062,
     "producto": "CERELAC SACHET 24X400G VE",
     "marca": "NESTLE",
     "precio": 6.35,
-    "stock": 523,
-    "modulo": "MobilVendor"
+    "stock": 624,
+    "modulo": ""
   },
   {
-    "id": 117,
+    "id": 1789655334102,
     "producto": "CERELAC SACHET 80X100G VE",
     "marca": "NESTLE",
     "precio": 2.02,
-    "stock": 1445,
-    "modulo": "MobilVendor"
+    "stock": 1059,
+    "modulo": ""
   },
   {
-    "id": 118,
+    "id": 1789655333558,
     "producto": "CERELAC SACHET 900G VE",
     "marca": "NESTLE",
     "precio": 12.56,
-    "stock": 167,
-    "modulo": "MobilVendor"
+    "stock": 181,
+    "modulo": ""
   },
   {
-    "id": 119,
+    "id": 1789655334088,
     "producto": "CHAMPIÑONES REB AREL 227GR X 24UND",
     "marca": "REPRESENTACIONES DIPROPAL",
     "precio": 2.12,
-    "stock": 123,
-    "modulo": "MobilVendor"
+    "stock": 120,
+    "modulo": ""
   },
   {
-    "id": 120,
+    "id": 1789655333764,
     "producto": "CHAMPIÑONES REB AREL 6 X 3KG",
     "marca": "REPRESENTACIONES DIPROPAL",
     "precio": 15.01,
     "stock": 30,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 121,
+    "id": 1789655333367,
     "producto": "CHAMPU HERBAL BESO GRANADA 413ML",
     "marca": "ALIVE",
     "precio": 4.8,
     "stock": 66,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 122,
+    "id": 1789655333634,
     "producto": "CHAMPU HERBAL COCO TROPICAL 413ML",
     "marca": "ALIVE",
     "precio": 3.93,
     "stock": 7,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 123,
+    "id": 1789655333745,
     "producto": "CHAMPU HERBAL FLOR DE LA PASION 413ML",
     "marca": "ALIVE",
     "precio": 3.93,
     "stock": 7,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 124,
+    "id": 1789655333590,
     "producto": "CHAMPU HERBAL FLOR DE MANZANA 413ML",
     "marca": "ALIVE",
     "precio": 4.8,
     "stock": 33,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 125,
+    "id": 1789655334081,
     "producto": "CHEESE TRIS 150 GRS",
     "marca": "PEPSICO",
-    "precio": 1.62,
-    "stock": 985,
-    "modulo": "Ambos Modulos"
+    "precio": 1.88,
+    "stock": 144,
+    "modulo": ""
   },
   {
-    "id": 126,
+    "id": 1789655333790,
     "producto": "CHEESE TRIS 450 GR",
     "marca": "PEPSICO",
     "precio": 4.33,
-    "stock": 49,
-    "modulo": "MobilVendor"
+    "stock": 36,
+    "modulo": ""
   },
   {
-    "id": 127,
+    "id": 1789655333836,
     "producto": "CHEESE TRIS 50G X 12UND",
     "marca": "PEPSICO",
     "precio": 0.73,
-    "stock": 1975,
-    "modulo": "Ambos Modulos"
+    "stock": 5727,
+    "modulo": ""
   },
   {
-    "id": 128,
+    "id": 1789655333975,
     "producto": "CHEETOS BOLIQUESO 25 GRS X 12 UND",
     "marca": "PEPSICO",
     "precio": 0.54,
-    "stock": 341,
-    "modulo": "Ambos Modulos"
+    "stock": 563,
+    "modulo": ""
   },
   {
-    "id": 129,
+    "id": 1789655334232,
     "producto": "CHEETOS BOLIQUESO 80 GRS",
     "marca": "PEPSICO",
     "precio": 1.07,
-    "stock": 416,
-    "modulo": "MobilVendor"
+    "stock": 381,
+    "modulo": ""
   },
   {
-    "id": 130,
+    "id": 1789655333264,
     "producto": "CHEETOS BOLIQUESO XXL 150 GRS",
     "marca": "PEPSICO",
     "precio": 2.2,
-    "stock": 58,
-    "modulo": "MobilVendor"
+    "stock": 49,
+    "modulo": ""
   },
   {
-    "id": 131,
+    "id": 1789655333275,
     "producto": "CHEETOS FLAMING HOT 12 UND X 38 GRS",
     "marca": "PEPSICO",
     "precio": 0.73,
-    "stock": 535,
-    "modulo": "MobilVendor"
+    "stock": 391,
+    "modulo": ""
   },
   {
-    "id": 132,
+    "id": 1789655333661,
     "producto": "CHEETOS FLAMING HOT 120 GRS",
     "marca": "PEPSICO",
     "precio": 1.7,
-    "stock": 146,
-    "modulo": "MobilVendor"
+    "stock": 245,
+    "modulo": ""
   },
   {
-    "id": 133,
+    "id": 1789655333252,
     "producto": "CHEETOS MEGA PUFF 110 GRS",
     "marca": "PEPSICO",
     "precio": 1.7,
-    "stock": 308,
-    "modulo": "MobilVendor"
+    "stock": 515,
+    "modulo": ""
   },
   {
-    "id": 134,
+    "id": 1789655333744,
     "producto": "CHEETOS MEGA PUFF 270 GRS",
     "marca": "PEPSICO",
     "precio": 3.95,
     "stock": 53,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 135,
+    "id": 1789655333427,
     "producto": "CHEETOS MEGA PUFF 28GR X 12 UND",
     "marca": "PEPSICO",
     "precio": 0.73,
-    "stock": 659,
-    "modulo": "MobilVendor"
+    "stock": 993,
+    "modulo": ""
   },
   {
-    "id": 136,
+    "id": 1789655333691,
     "producto": "CHICHARRON 180GRS XXL",
     "marca": "PEPSICO",
     "precio": 5.64,
     "stock": 44,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 137,
+    "id": 1789655333577,
     "producto": "CHICHARRON JACK PICANTE 20 GRS X 12 UND",
     "marca": "PEPSICO",
     "precio": 0.92,
-    "stock": 522,
-    "modulo": "Ambos Modulos"
+    "stock": 221,
+    "modulo": ""
   },
   {
-    "id": 138,
+    "id": 1789655334213,
     "producto": "CHICHARRON JACK PICANTE 60 GRS",
     "marca": "PEPSICO",
     "precio": 2.33,
-    "stock": 144,
-    "modulo": "MobilVendor"
+    "stock": 6,
+    "modulo": ""
   },
   {
-    "id": 139,
+    "id": 1789655333328,
     "producto": "CHOCO LATTE CRUJIENTE DISPLAY 12X32GR",
     "marca": "ST. MORITZ",
     "precio": 8.21,
     "stock": 30,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 140,
+    "id": 1789655334214,
     "producto": "CHOCO LATTE DISPLAY 12X32GR",
     "marca": "ST. MORITZ",
     "precio": 8.63,
     "stock": 38,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 141,
+    "id": 1789655333692,
     "producto": "CHOCO LATTE MANI DISPLAY 12 X 32GR",
     "marca": "ST. MORITZ",
     "precio": 8.21,
-    "stock": 17,
-    "modulo": "Modulo B"
+    "stock": 16,
+    "modulo": ""
   },
   {
-    "id": 142,
+    "id": 1789655333893,
     "producto": "CHOCOBIN 80GRS",
     "marca": "GOMBY",
     "precio": 1.3,
     "stock": 102,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 143,
+    "id": 1789655333706,
     "producto": "CHOCOCAO BOLSA 200GR",
     "marca": "CACAO REAL",
     "precio": 2.21,
     "stock": 59,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 144,
+    "id": 1789655333338,
     "producto": "CHOCOCAO BOLSA 400GR",
     "marca": "CACAO REAL",
     "precio": 3.77,
     "stock": 34,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 145,
+    "id": 1789655333352,
     "producto": "CHOCOLATE BIANCHI BARRA BLANCA DISPLAY",
     "marca": "GUDS SUPPLY",
     "precio": 6.85,
     "stock": 24,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 146,
+    "id": 1789655333634,
     "producto": "CHOCOLATE BIANCHI BARRA XL 40G",
     "marca": "GUDS SUPPLY",
     "precio": 6.85,
     "stock": 24,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 147,
+    "id": 1789655333761,
+    "producto": "CHOCOLATE TIPO A GALON 5KG PIOTELLO",
+    "marca": "PIOTELLO",
+    "precio": 36,
+    "stock": 40,
+    "modulo": ""
+  },
+  {
+    "id": 1789655333587,
     "producto": "CHOCOLATES BIANCHI SNACKS",
     "marca": "GUDS SUPPLY",
     "precio": 1,
     "stock": 3,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 148,
+    "id": 1789655333459,
     "producto": "CHOCOLATES BIANCHI SNACKS ENCANTO",
     "marca": "GUDS SUPPLY",
     "precio": 0.61,
     "stock": 1,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 149,
+    "id": 1789655333528,
     "producto": "CHORIZO AHUMADO BIG CERDY BANDEJA",
     "marca": "EMBUTIDOS BIGCERDY",
     "precio": 10.16,
-    "stock": 10,
-    "modulo": "MobilVendor"
+    "stock": 9,
+    "modulo": ""
   },
   {
-    "id": 150,
+    "id": 1789655333489,
     "producto": "CHORIZO AJO BIG CERDY DE BANDEJA",
     "marca": "EMBUTIDOS BIGCERDY",
     "precio": 10.16,
     "stock": 5,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 151,
+    "id": 1789655333877,
     "producto": "CHORIZO PICANTE BIG CERDY DE BANDEJA",
     "marca": "EMBUTIDOS BIGCERDY",
     "precio": 10.16,
-    "stock": 4,
-    "modulo": "MobilVendor"
+    "stock": 3,
+    "modulo": ""
   },
   {
-    "id": 152,
+    "id": 1789655333690,
     "producto": "CIGARRILLOS CONSUL",
     "marca": "DISTRIBUIDORA BIGOTT",
     "precio": 1.33,
-    "stock": 1544,
-    "modulo": "Modulo B"
+    "stock": 603,
+    "modulo": ""
   },
   {
-    "id": 153,
+    "id": 1789655333684,
     "producto": "CLORO KRIS FLORES 1 LT",
     "marca": "KRIS",
     "precio": 1.26,
-    "stock": 268,
-    "modulo": "Ambos Modulos"
+    "stock": 256,
+    "modulo": ""
   },
   {
-    "id": 154,
+    "id": 1789655333559,
     "producto": "CLORO KRIS NATURAL 1 LITRO",
     "marca": "KRIS",
     "precio": 1.26,
-    "stock": 3528,
-    "modulo": "Modulo B"
+    "stock": 2390,
+    "modulo": ""
   },
   {
-    "id": 155,
+    "id": 1789655333956,
     "producto": "CLORO KRIS NATURAL 500 ML",
     "marca": "KRIS",
     "precio": 0.83,
-    "stock": 272,
-    "modulo": "Modulo B"
+    "stock": 206,
+    "modulo": ""
   },
   {
-    "id": 156,
+    "id": 1789655333795,
     "producto": "COCOSETTE® MAXI 12(18X50G) VE",
     "marca": "NESTLE",
     "precio": 0.84,
-    "stock": 12768,
-    "modulo": "Ambos Modulos"
+    "stock": 9423,
+    "modulo": ""
   },
   {
-    "id": 157,
+    "id": 1789655333523,
     "producto": "COCOSETTE® MAXI MULTIPACK 60(1X200G) VE",
     "marca": "NESTLE",
     "precio": 0.85,
-    "stock": 1480,
-    "modulo": "MobilVendor"
+    "stock": 668,
+    "modulo": ""
   },
   {
-    "id": 158,
+    "id": 1789655333825,
+    "producto": "COFFEE-MATE POLVO12X453.5G XP",
+    "marca": "NESTLE",
+    "precio": 8.78,
+    "stock": 36,
+    "modulo": ""
+  },
+  {
+    "id": 1789655333281,
     "producto": "COMBO 3 SALSAS AJO SOYA INGLESA 300CM3",
     "marca": "DEL CAMPO",
     "precio": 4.24,
     "stock": 1,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 159,
+    "id": 1789655333595,
     "producto": "COTUFAS P/MICRO MANT 91GR X 24",
     "marca": "REPRESENTACIONES DIPROPAL",
     "precio": 1.34,
-    "stock": 219,
-    "modulo": "MobilVendor"
+    "stock": 174,
+    "modulo": ""
   },
   {
-    "id": 160,
+    "id": 1789655334078,
     "producto": "COTUFAS P/MICRO NAT 91GR X 24",
     "marca": "REPRESENTACIONES DIPROPAL",
     "precio": 1.34,
-    "stock": 147,
-    "modulo": "MobilVendor"
+    "stock": 141,
+    "modulo": ""
   },
   {
-    "id": 161,
+    "id": 1789655334236,
     "producto": "CREMA CHANTILLY MASTER TOP 1L",
     "marca": "LOGISTICA N&A",
     "precio": 6.08,
-    "stock": 12,
-    "modulo": "MobilVendor"
+    "stock": 1331,
+    "modulo": ""
   },
   {
-    "id": 162,
+    "id": 1789655333532,
     "producto": "CREMA CHANTILLY POLVO BOLSA 400G TIGO",
     "marca": "TIGO",
     "precio": 5.11,
     "stock": 1,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 163,
+    "id": 1789655333784,
+    "producto": "CREMA CHANTILLY SUCREAM",
+    "marca": "LOGISTICA N&A",
+    "precio": 5.24,
+    "stock": 4,
+    "modulo": ""
+  },
+  {
+    "id": 1789655333735,
     "producto": "CREMA DE PEINAR STEFANY AGUACATE 240G",
     "marca": "COSMETICOS LARENSE",
     "precio": 1.9,
-    "stock": 33,
-    "modulo": "Modulo B"
+    "stock": 18,
+    "modulo": ""
   },
   {
-    "id": 164,
+    "id": 1789655333559,
     "producto": "CREMA DE PEINAR STEFANY ROMERO 240G",
     "marca": "COSMETICOS LARENSE",
     "precio": 1.9,
-    "stock": 34,
-    "modulo": "Modulo B"
+    "stock": 21,
+    "modulo": ""
   },
   {
-    "id": 165,
+    "id": 1789655333633,
     "producto": "CREMA DENTAL ALIDENT GEL AZUL 100G",
     "marca": "ALIVE",
     "precio": 1.67,
-    "stock": 372,
-    "modulo": "Modulo B"
+    "stock": 360,
+    "modulo": ""
   },
   {
-    "id": 166,
+    "id": 1789655334276,
     "producto": "CREMA DENTAL ALIDENT GEL VERDE 100G",
     "marca": "ALIVE",
     "precio": 1.69,
-    "stock": 396,
-    "modulo": "Modulo B"
+    "stock": 384,
+    "modulo": ""
   },
   {
-    "id": 167,
+    "id": 1789655333581,
     "producto": "CREMA KEN PRESTO CHANTILLY 1L",
     "marca": "KEMCO",
     "precio": 6,
     "stock": 4,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 168,
+    "id": 1789655334163,
     "producto": "CREMA P/COCINAR 1LT (MASTER TOP) 1L",
     "marca": "LOGISTICA N&A",
     "precio": 4.38,
-    "stock": 698,
-    "modulo": "Ambos Modulos"
+    "stock": 326,
+    "modulo": ""
   },
   {
-    "id": 169,
+    "id": 1789655334172,
     "producto": "CREYON LEVO 24 COLORES",
     "marca": "LEVO",
     "precio": 4,
     "stock": 47,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 170,
+    "id": 1789655334211,
     "producto": "CRI CRI® 16(5X123G) VE",
     "marca": "NESTLE",
     "precio": 4.12,
-    "stock": 591,
-    "modulo": "MobilVendor"
+    "stock": 370,
+    "modulo": ""
   },
   {
-    "id": 171,
+    "id": 1789655334049,
     "producto": "CRI CRI® 16(9X60G) VE",
     "marca": "NESTLE",
     "precio": 2.38,
-    "stock": 576,
-    "modulo": "MobilVendor"
+    "stock": 1404,
+    "modulo": ""
   },
   {
-    "id": 172,
+    "id": 1789655333472,
     "producto": "CRI CRI® 24(12X27G) VE",
     "marca": "NESTLE",
     "precio": 1.23,
-    "stock": 4118,
-    "modulo": "MobilVendor"
+    "stock": 2214,
+    "modulo": ""
   },
   {
-    "id": 173,
+    "id": 1789655333960,
     "producto": "CROSTATINA CHOCOLATE 300G X 6 UND",
     "marca": "ONCE-ONCE",
     "precio": 5.44,
-    "stock": 5,
-    "modulo": "MobilVendor"
+    "stock": 3,
+    "modulo": ""
   },
   {
-    "id": 174,
-    "producto": "CROSTATINA GUAYABA PAQ 6 X 240GR",
-    "marca": "ONCE-ONCE",
-    "precio": 5.17,
-    "stock": 2,
-    "modulo": "MobilVendor"
-  },
-  {
-    "id": 175,
+    "id": 1789655333623,
     "producto": "CRUST CHOCOLATE DE LECHE 30GR",
     "marca": "CRUSTISSIMO",
     "precio": 8.19,
     "stock": 8,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 176,
+    "id": 1789655334236,
     "producto": "CRUST PAN ARABE BLANCO 5 UNDS",
     "marca": "CRUSTISSIMO",
     "precio": 1.06,
-    "stock": 20,
-    "modulo": "MobilVendor"
+    "stock": 19,
+    "modulo": ""
   },
   {
-    "id": 177,
+    "id": 1789655333567,
     "producto": "CRYSTAL WRAP TRANSPARENTE 23MTS X 30CM",
     "marca": "RAYMOND FOIL",
     "precio": 1.25,
     "stock": 233,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 178,
+    "id": 1789655333489,
     "producto": "CURAS CUREBAND PREMIUM KIDS F 20UND",
     "marca": "ALIMENTOS CAPITAL 58",
     "precio": 1.97,
     "stock": 5,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 179,
+    "id": 1789655333959,
     "producto": "CURAS CUREBAND PREMIUM KIDS M 20UND",
     "marca": "ALIMENTOS CAPITAL 58",
     "precio": 1.97,
     "stock": 77,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 180,
+    "id": 1789655333305,
     "producto": "CURAS CUREBAND VENDITAS STANDARD 100UND",
     "marca": "ALIMENTOS CAPITAL 58",
     "precio": 2.42,
     "stock": 6,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 181,
+    "id": 1789655334202,
     "producto": "CURAS CUREBAND VENDITAS STANDARD 30UND",
     "marca": "ALIMENTOS CAPITAL 58",
     "precio": 1.3,
-    "stock": 97,
-    "modulo": "Modulo B"
+    "stock": 98,
+    "modulo": ""
   },
   {
-    "id": 182,
+    "id": 1789655333894,
     "producto": "DE TODITO RESUELTO PLUS 110G",
     "marca": "PEPSICO",
     "precio": 2.14,
-    "stock": 183,
-    "modulo": "Ambos Modulos"
+    "stock": 241,
+    "modulo": ""
   },
   {
-    "id": 183,
+    "id": 1789655333819,
     "producto": "DE TODITO RESUELTO PLUS 360G",
     "marca": "PEPSICO",
     "precio": 5.61,
-    "stock": 10,
-    "modulo": "MobilVendor"
+    "stock": 4,
+    "modulo": ""
   },
   {
-    "id": 184,
+    "id": 1789655334131,
     "producto": "DE TODITO RESUELTO PLUS 40G X 12UND",
     "marca": "PEPSICO",
     "precio": 0.83,
-    "stock": 294,
-    "modulo": "MobilVendor"
+    "stock": 1431,
+    "modulo": ""
   },
   {
-    "id": 185,
+    "id": 1789655334159,
     "producto": "DELICIAS MARIA 612G 6X18",
     "marca": "GALLETAS PUIG",
     "precio": 13.25,
-    "stock": 45,
-    "modulo": "MobilVendor"
+    "stock": 41,
+    "modulo": ""
   },
   {
-    "id": 186,
-    "producto": "DELICIAS PASTA BECHAMEL SACHET 24X50G PE",
-    "marca": "NESTLE",
-    "precio": 1.3,
-    "stock": 23,
-    "modulo": "MobilVendor"
-  },
-  {
-    "id": 187,
+    "id": 1789655333382,
     "producto": "DETERGENTE AVE 1.5KG",
     "marca": "PRODUCTOS ARABES",
     "precio": 5.74,
     "stock": 4,
-    "modulo": "Ambos Modulos"
+    "modulo": ""
   },
   {
-    "id": 188,
+    "id": 1789655333466,
     "producto": "DETERGENTE BLANQUEADOR ALIVE 1KG",
     "marca": "ALIVE",
     "precio": 2.7,
-    "stock": 147,
-    "modulo": "Modulo B"
+    "stock": 60,
+    "modulo": ""
   },
   {
-    "id": 189,
-    "producto": "DETERGENTE BLANQUEADOR ALIVE 500GRS",
-    "marca": "ALIVE",
-    "precio": 1.35,
-    "stock": 272,
-    "modulo": "Modulo B"
-  },
-  {
-    "id": 190,
-    "producto": "DETERGENTE CON SUAVIZANTE 500GRS ALIVE",
-    "marca": "ALIVE",
-    "precio": 1.35,
-    "stock": 307,
-    "modulo": "Modulo B"
-  },
-  {
-    "id": 191,
-    "producto": "DETERGENTE CON SUAVIZANTE ALIVE 1KG",
-    "marca": "ALIVE",
-    "precio": 2.7,
-    "stock": 147,
-    "modulo": "Modulo B"
-  },
-  {
-    "id": 192,
-    "producto": "DETERGENTE FLORAL ALIVE 500GRS",
-    "marca": "ALIVE",
-    "precio": 1.35,
-    "stock": 165,
-    "modulo": "Modulo B"
-  },
-  {
-    "id": 193,
-    "producto": "DETERGENTE LIMON ALIVE 1KG",
-    "marca": "ALIVE",
-    "precio": 2.59,
-    "stock": 75,
-    "modulo": "Modulo B"
-  },
-  {
-    "id": 194,
+    "id": 1789655334040,
     "producto": "DETERGENTE TODO TIPO DE ROPA ALIVE 1KG",
     "marca": "ALIVE",
     "precio": 2.7,
-    "stock": 256,
-    "modulo": "Ambos Modulos"
+    "stock": 107,
+    "modulo": ""
   },
   {
-    "id": 195,
+    "id": 1789655334182,
     "producto": "DETERGENTE TODO TIPO DE ROPA ALIVE 500G",
     "marca": "ALIVE",
     "precio": 1.35,
-    "stock": 547,
-    "modulo": "Modulo B"
+    "stock": 241,
+    "modulo": ""
   },
   {
-    "id": 196,
+    "id": 1789655334263,
+    "producto": "DORITOS COOL RANCH 140GR",
+    "marca": "PEPSICO",
+    "precio": 2.55,
+    "stock": 308,
+    "modulo": ""
+  },
+  {
+    "id": 1789655333991,
+    "producto": "DORITOS DINAMITA FLAMING HOT 12 X40GRS",
+    "marca": "PEPSICO",
+    "precio": 0.89,
+    "stock": 102,
+    "modulo": ""
+  },
+  {
+    "id": 1789655334206,
     "producto": "DORITOS DINAMITA FLAMING HOT 150G",
     "marca": "PEPSICO",
     "precio": 2.55,
-    "stock": 12,
-    "modulo": "MobilVendor"
+    "stock": 233,
+    "modulo": ""
   },
   {
-    "id": 197,
+    "id": 1789655333605,
     "producto": "DORITOS DINAMITA LT 150G",
     "marca": "PEPSICO",
     "precio": 2.55,
-    "stock": 587,
-    "modulo": "MobilVendor"
+    "stock": 573,
+    "modulo": ""
   },
   {
-    "id": 198,
+    "id": 1789655333471,
     "producto": "DORITOS FLAMING HOT 140 GRS",
     "marca": "PEPSICO",
     "precio": 2.55,
-    "stock": 445,
-    "modulo": "Ambos Modulos"
+    "stock": 339,
+    "modulo": ""
   },
   {
-    "id": 199,
+    "id": 1789655333889,
     "producto": "DORITOS MEGA QUESO 150 GRS",
     "marca": "PEPSICO",
     "precio": 2.55,
-    "stock": 1075,
-    "modulo": "Ambos Modulos"
+    "stock": 2115,
+    "modulo": ""
   },
   {
-    "id": 200,
+    "id": 1789655333755,
     "producto": "DORITOS MEGA QUESO 420 GRS",
     "marca": "PEPSICO",
     "precio": 6.29,
-    "stock": 53,
-    "modulo": "MobilVendor"
+    "stock": 43,
+    "modulo": ""
   },
   {
-    "id": 201,
+    "id": 1789655334139,
     "producto": "DORITOS MEGA QUESO 45 GR X 12 UND",
     "marca": "PEPSICO",
     "precio": 0.9,
-    "stock": 4778,
-    "modulo": "Ambos Modulos"
+    "stock": 4152,
+    "modulo": ""
   },
   {
-    "id": 202,
+    "id": 1789655333814,
     "producto": "DRINK COLA PET 1.5LTS 6UND",
     "marca": "INDUSTRIAS JAU",
     "precio": 5.15,
-    "stock": 52,
-    "modulo": "Modulo B"
+    "stock": 46,
+    "modulo": ""
   },
   {
-    "id": 203,
+    "id": 1789655333838,
     "producto": "DRINK COLA PET 400 ML 15UND",
     "marca": "INDUSTRIAS JAU",
     "precio": 5.2,
-    "stock": 110,
-    "modulo": "Modulo B"
+    "stock": 111,
+    "modulo": ""
   },
   {
-    "id": 204,
+    "id": 1789655333467,
     "producto": "DUNGA LECHE DISPLAY 12 X 35 GR",
     "marca": "ST. MORITZ",
     "precio": 15.12,
     "stock": 7,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 205,
+    "id": 1789655334172,
     "producto": "DUNGA MALTA DISPLAY 12 X 35G",
     "marca": "ST. MORITZ",
     "precio": 15.12,
     "stock": 14,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 206,
+    "id": 1789655333721,
     "producto": "EL DRAGO CHULETA AHUMADA",
     "marca": "FRIOPORKING (EL DRAGO)",
     "precio": 7.1,
     "stock": 0,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 207,
+    "id": 1789655333823,
     "producto": "EL DRAGO JAMON COCIDO DE PIERNA STD",
     "marca": "FRIOPORKING (EL DRAGO)",
     "precio": 5.06,
-    "stock": 255,
-    "modulo": "Modulo B"
+    "stock": 216,
+    "modulo": ""
   },
   {
-    "id": 208,
+    "id": 1789655334061,
     "producto": "EL DRAGO MORTADELA TAPARA",
     "marca": "FRIOPORKING (EL DRAGO)",
     "precio": 8.42,
     "stock": 4,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 209,
+    "id": 1789655333759,
     "producto": "EL DRAGO PECHUGA COCIDA SUPERIOR PAVO",
     "marca": "FRIOPORKING (EL DRAGO)",
     "precio": 5.94,
     "stock": 1,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 210,
+    "id": 1789655333998,
     "producto": "EL DRAGO TOCINETA AHUMADA C/V",
     "marca": "FRIOPORKING (EL DRAGO)",
     "precio": 10.23,
-    "stock": 13,
-    "modulo": "Ambos Modulos"
+    "stock": 1,
+    "modulo": ""
   },
   {
-    "id": 211,
+    "id": 1789655333950,
     "producto": "ELITE CHOC. TUB 100G X 24",
     "marca": "GALLETAS PUIG",
     "precio": 1.08,
     "stock": 14,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 212,
+    "id": 1789655334243,
     "producto": "ENCENDEDORES BIC GRANDE UND",
     "marca": "DISTRIBUIDORA BIGOTT",
     "precio": 1.56,
-    "stock": 4268,
-    "modulo": "Modulo B"
+    "stock": 4256,
+    "modulo": ""
   },
   {
-    "id": 213,
+    "id": 1789655334010,
     "producto": "ENCENDEDORES BIC PEQUEÑO UND",
     "marca": "DISTRIBUIDORA BIGOTT",
     "precio": 1.09,
-    "stock": 868,
-    "modulo": "Modulo B"
+    "stock": 826,
+    "modulo": ""
   },
   {
-    "id": 214,
+    "id": 1789655333511,
     "producto": "ENCENDEDORES BIC UND",
     "marca": "DISTRIBUIDORA BIGOTT",
     "precio": 1.19,
-    "stock": 938,
-    "modulo": "Modulo B"
+    "stock": 922,
+    "modulo": ""
   },
   {
-    "id": 215,
+    "id": 1789655333791,
     "producto": "ENERGIZER BAT ALK 48XAAAX2",
     "marca": "DIMASSI",
     "precio": 2.09,
-    "stock": 69,
-    "modulo": "MobilVendor"
+    "stock": 57,
+    "modulo": ""
   },
   {
-    "id": 216,
+    "id": 1789655333454,
     "producto": "ENERGIZER BAT ALK 48XAAX2",
     "marca": "DIMASSI",
     "precio": 2.09,
-    "stock": 26,
-    "modulo": "MobilVendor"
+    "stock": 14,
+    "modulo": ""
   },
   {
-    "id": 217,
+    "id": 1789655334151,
     "producto": "ENERGIZER BAT ALK RISTRA 20X12XAAX1",
     "marca": "DIMASSI",
     "precio": 12.17,
-    "stock": 9,
-    "modulo": "MobilVendor"
+    "stock": 8,
+    "modulo": ""
   },
   {
-    "id": 218,
+    "id": 1789655334302,
     "producto": "ESPONJA FIBRA CLASICA TIRA X 6 UND",
     "marca": "KIMORA",
     "precio": 1.91,
     "stock": 67,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 219,
+    "id": 1789655333728,
     "producto": "FLAQUITO DISPLAY 12 X 30G",
     "marca": "ST. MORITZ",
     "precio": 6.82,
-    "stock": 169,
-    "modulo": "Modulo B"
+    "stock": 161,
+    "modulo": ""
   },
   {
-    "id": 220,
+    "id": 1789655333960,
     "producto": "FLAQUITO NEVADO DISPLAY 12 X 30G",
     "marca": "ST. MORITZ",
     "precio": 6.82,
-    "stock": 19,
-    "modulo": "Modulo B"
+    "stock": 18,
+    "modulo": ""
   },
   {
-    "id": 221,
+    "id": 1789655333836,
     "producto": "FRESINA ESTUCHE DE 18X10 GRS - FRESA",
     "marca": "CARAMELOS GULI",
     "precio": 6.41,
     "stock": 16,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 222,
+    "id": 1789655334315,
     "producto": "FRESINA EXHIBIDORA 10X10 GRS",
     "marca": "CARAMELOS GULI",
     "precio": 3.57,
-    "stock": 13,
-    "modulo": "MobilVendor"
+    "stock": 12,
+    "modulo": ""
   },
   {
-    "id": 223,
+    "id": 1789655334098,
     "producto": "FRIENDS PD REGULAR S/P X40UND",
     "marca": "PHARSANA",
     "precio": 1.32,
     "stock": 45,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 224,
+    "id": 1789655333554,
+    "producto": "FRUGY DURAZNO PET 1.5 LTS 12 UND",
+    "marca": "INDUSTRIAS JAU",
+    "precio": 9.77,
+    "stock": 403,
+    "modulo": ""
+  },
+  {
+    "id": 1789655333965,
     "producto": "FRUGY DURAZNO PET 250ML 15UND",
     "marca": "INDUSTRIAS JAU",
     "precio": 6.11,
-    "stock": 260,
-    "modulo": "Modulo B"
+    "stock": 255,
+    "modulo": ""
   },
   {
-    "id": 225,
+    "id": 1789655334065,
     "producto": "FRUGY DURAZNO PET 500ML 12UND",
     "marca": "INDUSTRIAS JAU",
     "precio": 6.55,
-    "stock": 148,
-    "modulo": "Modulo B"
+    "stock": 122,
+    "modulo": ""
   },
   {
-    "id": 226,
+    "id": 1789655333864,
+    "producto": "FRUGY LIMON COCO PET 1.5 LTS 6 UND",
+    "marca": "INDUSTRIAS JAU",
+    "precio": 4.88,
+    "stock": 119,
+    "modulo": ""
+  },
+  {
+    "id": 1789655334237,
+    "producto": "FRUGY MANZANA PET 1.5 LTS 12 UND",
+    "marca": "INDUSTRIAS JAU",
+    "precio": 9.77,
+    "stock": 461,
+    "modulo": ""
+  },
+  {
+    "id": 1789655333673,
     "producto": "FRUGY MANZANA PET 250ML 15UND",
     "marca": "INDUSTRIAS JAU",
     "precio": 6.22,
-    "stock": 237,
-    "modulo": "Modulo B"
+    "stock": 231,
+    "modulo": ""
   },
   {
-    "id": 227,
+    "id": 1789655334190,
     "producto": "FRUGY MANZANA PET 500ML 12UND",
     "marca": "INDUSTRIAS JAU",
     "precio": 6.55,
-    "stock": 193,
-    "modulo": "Modulo B"
+    "stock": 178,
+    "modulo": ""
   },
   {
-    "id": 228,
+    "id": 1789655333815,
+    "producto": "FRUGY NARANJA PET 1.5 LTS 12 UND",
+    "marca": "INDUSTRIAS JAU",
+    "precio": 9.68,
+    "stock": 293,
+    "modulo": ""
+  },
+  {
+    "id": 1789655333868,
     "producto": "FRUGY NARANJA PET 250 ML 15UND",
     "marca": "INDUSTRIAS JAU",
     "precio": 6.22,
-    "stock": 253,
-    "modulo": "Modulo B"
+    "stock": 251,
+    "modulo": ""
   },
   {
-    "id": 229,
-    "producto": "FRUGY NARANJA PET 500ML 12UND",
-    "marca": "INDUSTRIAS JAU",
-    "precio": 6.55,
-    "stock": 1,
-    "modulo": "Modulo B"
-  },
-  {
-    "id": 230,
+    "id": 1789655333685,
     "producto": "FRUGY PERA PET 1.5 LTS 12 UND",
     "marca": "INDUSTRIAS JAU",
-    "precio": 9.81,
-    "stock": 1,
-    "modulo": "Modulo B"
+    "precio": 9.77,
+    "stock": 411,
+    "modulo": ""
   },
   {
-    "id": 231,
+    "id": 1789655333809,
     "producto": "FRUGY PERA PET 250ML 15UND",
     "marca": "INDUSTRIAS JAU",
     "precio": 6.22,
-    "stock": 459,
-    "modulo": "Modulo B"
+    "stock": 455,
+    "modulo": ""
   },
   {
-    "id": 232,
+    "id": 1789655333405,
     "producto": "FRUGY PERA PET 500ML 12 UND",
     "marca": "INDUSTRIAS JAU",
     "precio": 6.55,
-    "stock": 173,
-    "modulo": "Modulo B"
+    "stock": 159,
+    "modulo": ""
   },
   {
-    "id": 233,
-    "producto": "FRUGY SURTIDO PET 500ML 12UND",
+    "id": 1789655334044,
+    "producto": "FRUGY SURTIDO 1.5L",
     "marca": "INDUSTRIAS JAU",
-    "precio": 6.55,
-    "stock": 6,
-    "modulo": "Modulo B"
+    "precio": 9.81,
+    "stock": 2,
+    "modulo": ""
   },
   {
-    "id": 234,
+    "id": 1789655334308,
     "producto": "GABY QUESO CREMA PANELON 10KG",
     "marca": "LACTALIS",
     "precio": 112.36,
-    "stock": 28,
-    "modulo": "MobilVendor"
+    "stock": 19,
+    "modulo": ""
   },
   {
-    "id": 235,
+    "id": 1789655334217,
     "producto": "GALAK CHOCOLATE BLANCO 16(5X130G) VE",
     "marca": "NESTLE",
     "precio": 4.11,
-    "stock": 736,
-    "modulo": "MobilVendor"
+    "stock": 685,
+    "modulo": ""
   },
   {
-    "id": 236,
+    "id": 1789655333389,
     "producto": "GALAK CHOCOLATE BLANCO 24(12X30G) VE",
     "marca": "NESTLE",
     "precio": 1.23,
-    "stock": 2774,
-    "modulo": "MobilVendor"
+    "stock": 5074,
+    "modulo": ""
   },
   {
-    "id": 237,
+    "id": 1789655334333,
     "producto": "GALAK TUBITO MILK 32(30X16G)",
     "marca": "NESTLE",
     "precio": 0.45,
-    "stock": 482,
-    "modulo": "MobilVendor"
+    "stock": 2099,
+    "modulo": ""
   },
   {
-    "id": 238,
+    "id": 1789655334146,
     "producto": "GALLETAS BONDY CHOCOLATE 24 X(6 X 40G)",
     "marca": "REPRESENTACIONES DIPROPAL",
     "precio": 2.42,
-    "stock": 10,
-    "modulo": "MobilVendor"
+    "stock": 9,
+    "modulo": ""
   },
   {
-    "id": 239,
+    "id": 1789655334031,
     "producto": "GALLETAS BONDY COCO 24X (6 X 40GR)",
     "marca": "REPRESENTACIONES DIPROPAL",
     "precio": 2.42,
-    "stock": 14,
-    "modulo": "MobilVendor"
+    "stock": 13,
+    "modulo": ""
   },
   {
-    "id": 240,
+    "id": 1789655333881,
     "producto": "GALLETAS BONDY VAINILLA 24 X (6 X 40GR)",
     "marca": "REPRESENTACIONES DIPROPAL",
     "precio": 2.42,
     "stock": 42,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 241,
+    "id": 1789655333639,
     "producto": "GALLETAS DULCES CON SABOR A NARANJA 90G FENIX",
     "marca": "DH INDUSTRIAS",
     "precio": 0.46,
     "stock": 3,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 242,
+    "id": 1789655333766,
     "producto": "GALLETAS MARIELITAS CHIPS 384GRS X 16UND",
     "marca": "ONCE-ONCE",
     "precio": 6.12,
-    "stock": 24,
-    "modulo": "MobilVendor"
+    "stock": 21,
+    "modulo": ""
   },
   {
-    "id": 243,
+    "id": 1789655334229,
     "producto": "GALLETAS MARIELITAS CHIPS 96GRS",
     "marca": "ONCE-ONCE",
     "precio": 1.6,
-    "stock": 27,
-    "modulo": "MobilVendor"
+    "stock": 19,
+    "modulo": ""
   },
   {
-    "id": 244,
+    "id": 1789655333509,
     "producto": "GALLETAS PECAS EXHIBIDORA 12X32 GRS",
     "marca": "TANRICO",
-    "precio": 6.77,
-    "stock": 5,
-    "modulo": "Modulo B"
+    "precio": 6,
+    "stock": 29,
+    "modulo": ""
   },
   {
-    "id": 245,
+    "id": 1789655334290,
     "producto": "GALLETAS SALO OREGANO 145 GR",
     "marca": "GALLETAS SALO",
     "precio": 1.23,
     "stock": 26,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 246,
+    "id": 1789655334123,
     "producto": "GALLETAS SALO ORIGINAL 165 GR",
     "marca": "GALLETAS SALO",
     "precio": 1.23,
     "stock": 5,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 247,
+    "id": 1789655333741,
     "producto": "GEL ARNICA ROLL ON 90 GR",
     "marca": "COSMETICOS LARENSE",
     "precio": 2.05,
-    "stock": 47,
-    "modulo": "Modulo B"
+    "stock": 44,
+    "modulo": ""
   },
   {
-    "id": 248,
+    "id": 1789655333618,
     "producto": "GEL INTIMO STEFANY 180 CM3",
     "marca": "COSMETICOS LARENSE",
     "precio": 1.79,
     "stock": 43,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 249,
+    "id": 1789655334329,
     "producto": "GEL MENTOLADO ARNICA 130G",
     "marca": "COSMETICOS LARENSE",
     "precio": 1.73,
-    "stock": 33,
-    "modulo": "Modulo B"
+    "stock": 24,
+    "modulo": ""
   },
   {
-    "id": 250,
+    "id": 1789655334030,
     "producto": "GEL MENTOLADO ARNICA 250 GR",
     "marca": "COSMETICOS LARENSE",
     "precio": 2.64,
-    "stock": 67,
-    "modulo": "Modulo B"
+    "stock": 63,
+    "modulo": ""
   },
   {
-    "id": 251,
+    "id": 1789655333816,
     "producto": "GEL MENTOLADO AZUL STEFANY 130 GR",
     "marca": "COSMETICOS LARENSE",
     "precio": 1.73,
     "stock": 44,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 252,
+    "id": 1789655334253,
     "producto": "GEL MENTOLADO AZUL STEFANY 250 GR",
     "marca": "COSMETICOS LARENSE",
     "precio": 2.64,
     "stock": 24,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 253,
+    "id": 1789655334020,
     "producto": "GEL MENTOLADO ROJO STEFANY 130 GR",
     "marca": "COSMETICOS LARENSE",
     "precio": 1.73,
     "stock": 43,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 254,
+    "id": 1789655333943,
     "producto": "GEL MENTOLADO VERDE STEFANY 130 GR",
     "marca": "COSMETICOS LARENSE",
     "precio": 1.73,
     "stock": 47,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 255,
+    "id": 1789655334055,
     "producto": "GEL MENTOLADO VERDE STEFANY 250 GR",
     "marca": "COSMETICOS LARENSE",
     "precio": 2.64,
     "stock": 24,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 256,
+    "id": 1789655333405,
     "producto": "GELATINA CEREZA MONTALBAN 90GR",
     "marca": "MONTALBAN",
     "precio": 1.22,
-    "stock": 148,
-    "modulo": "MobilVendor"
+    "stock": 124,
+    "modulo": ""
   },
   {
-    "id": 257,
+    "id": 1789655334326,
     "producto": "GELATINA FRESA MONTALBAN 90GR",
     "marca": "MONTALBAN",
     "precio": 1.55,
     "stock": 1,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 258,
+    "id": 1789655334356,
     "producto": "GELATINA KOLITA MONTALBAN 90G",
     "marca": "MONTALBAN",
     "precio": 1.22,
-    "stock": 353,
-    "modulo": "MobilVendor"
+    "stock": 341,
+    "modulo": ""
   },
   {
-    "id": 259,
+    "id": 1789655333983,
     "producto": "GELATINA MANZANA VERDE MONTALBAN 90G",
     "marca": "MONTALBAN",
     "precio": 1.22,
     "stock": 2,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 260,
+    "id": 1789655333730,
     "producto": "GELATINA NARANJA MONTALBAN 90GR",
     "marca": "MONTALBAN",
     "precio": 1.22,
     "stock": 553,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 261,
+    "id": 1789655333822,
     "producto": "GELATINA SABOR A CEREZA KIERO 10X96",
     "marca": "PROCESADORA NATURALYST",
     "precio": 1.86,
     "stock": 213,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 262,
+    "id": 1789655334137,
     "producto": "GELATINA SABOR A FRAMBUESA KIERO 10X96G",
     "marca": "PROCESADORA NATURALYST",
     "precio": 1.86,
     "stock": 208,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 263,
+    "id": 1789655334031,
     "producto": "GELATINA SABOR A FRESA KIERO 10X96G",
     "marca": "PROCESADORA NATURALYST",
     "precio": 1.86,
-    "stock": 212,
-    "modulo": "MobilVendor"
+    "stock": 200,
+    "modulo": ""
   },
   {
-    "id": 264,
+    "id": 1789655333949,
     "producto": "GELATINA UVA MONTALBAN 90GR",
     "marca": "MONTALBAN",
     "precio": 1.22,
     "stock": 211,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 265,
+    "id": 1789655334066,
     "producto": "GERBER 1AET MANZANA16X100G XP",
     "marca": "NESTLE",
     "precio": 1.81,
-    "stock": 99,
-    "modulo": "MobilVendor"
+    "stock": 93,
+    "modulo": ""
   },
   {
-    "id": 266,
+    "id": 1789655333767,
     "producto": "GERBER 1AET PERA POUCH 16X100G XP",
     "marca": "NESTLE",
     "precio": 1.81,
     "stock": 179,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 267,
+    "id": 1789655333700,
     "producto": "GERBER 2AET PURE MANZANA 24X113G EC",
     "marca": "NESTLE",
     "precio": 1.53,
-    "stock": 1,
-    "modulo": "MobilVendor"
+    "stock": 118,
+    "modulo": ""
   },
   {
-    "id": 268,
+    "id": 1789655334210,
     "producto": "GERBER 2AET PURE PERA 24X113G N1 EC",
     "marca": "NESTLE",
     "precio": 1.53,
-    "stock": 13,
-    "modulo": "MobilVendor"
+    "stock": 124,
+    "modulo": ""
   },
   {
-    "id": 269,
+    "id": 1789655334101,
     "producto": "GERBER 2AET PURE PLATANO 24X113G N1 EC",
     "marca": "NESTLE",
     "precio": 1.52,
     "stock": 80,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 270,
+    "id": 1789655334017,
+    "producto": "GLUP COLA NEGRA CAJA 12 UND 1 LTS",
+    "marca": "GLUP",
+    "precio": 9.32,
+    "stock": 173,
+    "modulo": ""
+  },
+  {
+    "id": 1789655333406,
     "producto": "GLUP COLA NEGRA CAJA 15 UND 400ML",
     "marca": "GLUP",
     "precio": 6.16,
-    "stock": 106,
-    "modulo": "Modulo B"
+    "stock": 24,
+    "modulo": ""
   },
   {
-    "id": 271,
+    "id": 1789655333866,
+    "producto": "GLUP COLA NEGRA CAJA 6 UND 2 LTS",
+    "marca": "GLUP",
+    "precio": 6.99,
+    "stock": 126,
+    "modulo": ""
+  },
+  {
+    "id": 1789655334348,
     "producto": "GLUP FRESH CAJA 12 UND 1 LTS",
     "marca": "GLUP",
     "precio": 8.26,
-    "stock": 17,
-    "modulo": "Modulo B"
+    "stock": 28,
+    "modulo": ""
   },
   {
-    "id": 272,
+    "id": 1789655333691,
     "producto": "GLUP FRESH CAJA 15 UND 400ML",
     "marca": "GLUP",
     "precio": 6.16,
-    "stock": 128,
-    "modulo": "Modulo B"
+    "stock": 91,
+    "modulo": ""
   },
   {
-    "id": 273,
+    "id": 1789655334373,
+    "producto": "GLUP FRESH CAJA 6 UND 2 LTS",
+    "marca": "GLUP",
+    "precio": 5.55,
+    "stock": 47,
+    "modulo": ""
+  },
+  {
+    "id": 1789655333731,
     "producto": "GLUP KOLITA CAJA 12 UND 1 LTS",
     "marca": "GLUP",
     "precio": 8.26,
-    "stock": 19,
-    "modulo": "Modulo B"
+    "stock": 5,
+    "modulo": ""
   },
   {
-    "id": 274,
+    "id": 1789655333765,
+    "producto": "GLUP KOLITA CAJA 6 UND 2 LTS",
+    "marca": "GLUP",
+    "precio": 5.55,
+    "stock": 63,
+    "modulo": ""
+  },
+  {
+    "id": 1789655333850,
+    "producto": "GLUP MANZANA ROJA CAJA 12 UND 1 LTS",
+    "marca": "GLUP",
+    "precio": 8.26,
+    "stock": 33,
+    "modulo": ""
+  },
+  {
+    "id": 1789655333995,
+    "producto": "GLUP MANZANA ROJA CAJA 6 UND 2 LTS",
+    "marca": "GLUP",
+    "precio": 5.55,
+    "stock": 69,
+    "modulo": ""
+  },
+  {
+    "id": 1789655334159,
     "producto": "GLUP MANZANA ROJA PET 12UND X 1LT",
     "marca": "GLUP",
     "precio": 10.01,
-    "stock": 1,
-    "modulo": "MobilVendor"
+    "stock": 2,
+    "modulo": ""
   },
   {
-    "id": 275,
+    "id": 1789655333927,
     "producto": "GLUP MANZANA VERDE 6UND X 2 LTS",
     "marca": "GLUP",
     "precio": 5.55,
-    "stock": 6,
-    "modulo": "Modulo B"
+    "stock": 31,
+    "modulo": ""
   },
   {
-    "id": 276,
+    "id": 1789655334060,
     "producto": "GLUP NARANJA CAJA 6 UND 2 LTS",
     "marca": "GLUP",
     "precio": 5.55,
-    "stock": 13,
-    "modulo": "Modulo B"
+    "stock": 4,
+    "modulo": ""
   },
   {
-    "id": 277,
-    "producto": "GLUP PIÑA PET 12UND X 1LT",
+    "id": 1789655333429,
+    "producto": "GLUP PIÑA CAJA 6 UND 2 LTS",
     "marca": "GLUP",
-    "precio": 12.21,
-    "stock": 1,
-    "modulo": "MobilVendor"
+    "precio": 5.55,
+    "stock": 32,
+    "modulo": ""
   },
   {
-    "id": 278,
+    "id": 1789655333507,
     "producto": "GLUP UVA CAJA 12 UND 1 LTS",
     "marca": "GLUP",
     "precio": 8.26,
-    "stock": 3,
-    "modulo": "Modulo B"
+    "stock": 74,
+    "modulo": ""
   },
   {
-    "id": 279,
-    "producto": "GOLDEN KOLA 1L 6 UND",
-    "marca": "PEPSI-COLA",
-    "precio": 5.74,
-    "stock": 2,
-    "modulo": "MobilVendor"
+    "id": 1789655333975,
+    "producto": "GLUP UVA CAJA 6 UND 2 LTS",
+    "marca": "GLUP",
+    "precio": 5.55,
+    "stock": 70,
+    "modulo": ""
   },
   {
-    "id": 280,
-    "producto": "GOLDEN KOLA PET 1,5L X 6UN",
-    "marca": "PEPSI-COLA",
-    "precio": 4.95,
-    "stock": 7,
-    "modulo": "Modulo B"
-  },
-  {
-    "id": 281,
-    "producto": "GOLDEN MANZANA PET 1,5L X 6UN",
-    "marca": "PEPSI-COLA",
-    "precio": 4.95,
-    "stock": 5,
-    "modulo": "Modulo B"
-  },
-  {
-    "id": 282,
+    "id": 1789655334293,
     "producto": "GOMITAS GUSI AL RESCATE 100 GRS",
     "marca": "GOMBY",
     "precio": 0.93,
     "stock": 88,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 283,
+    "id": 1789655334074,
     "producto": "GOMITAS OTTO SALVAVIDAS F/V 100 GRS",
     "marca": "GOMBY",
     "precio": 0.93,
     "stock": 106,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 284,
+    "id": 1789655333680,
+    "producto": "GOMITAS OTTO SALVAVIDAS MANZANA 100 GRS",
+    "marca": "GOMBY",
+    "precio": 0.93,
+    "stock": 2,
+    "modulo": ""
+  },
+  {
+    "id": 1789655333762,
     "producto": "GOMITAS OTTO SALVAVIDAS NARANJA 100 GRS",
     "marca": "GOMBY",
     "precio": 0.93,
     "stock": 42,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 285,
+    "id": 1789655334239,
     "producto": "GOMITAS ROCO ESPACIAL 100 GRS",
     "marca": "GOMBY",
     "precio": 0.93,
-    "stock": 85,
-    "modulo": "Modulo B"
+    "stock": 87,
+    "modulo": ""
   },
   {
-    "id": 286,
+    "id": 1789655333974,
     "producto": "GOMITAS TIBU Y SU PANDILLA 100 GRS",
     "marca": "GOMBY",
     "precio": 0.93,
-    "stock": 117,
-    "modulo": "Modulo B"
+    "stock": 119,
+    "modulo": ""
   },
   {
-    "id": 287,
+    "id": 1789655333947,
     "producto": "GRAGEADO DE ALMENDRAS LECHE BOLSA 40GR",
     "marca": "ST. MORITZ",
     "precio": 2.2,
     "stock": 1,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 288,
+    "id": 1789655333614,
     "producto": "GRANOLA A GRANEL PASAS Y MIEL 5KG",
     "marca": "TANRICO",
     "precio": 70.2,
     "stock": 1,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 289,
+    "id": 1789655333720,
     "producto": "GRANOLA DE CHOCOLATE A GRANEL 5 KG",
     "marca": "TANRICO",
     "precio": 70.2,
     "stock": 1,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 290,
+    "id": 1789655334316,
     "producto": "GRASA VEGETAL ACEITE MARAVILLA VATEL PRO 18LT",
     "marca": "GRUPO MIMESA",
     "precio": 70.57,
     "stock": 4,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 291,
+    "id": 1789655333726,
     "producto": "GRISSINIS DE AJONJOLI 100GRS DH",
     "marca": "DH INDUSTRIAS",
     "precio": 1.08,
     "stock": 8,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 292,
+    "id": 1789655334187,
     "producto": "GRISSINIS DE PARMESANO 100GRS DH",
     "marca": "DH INDUSTRIAS",
     "precio": 1.08,
     "stock": 16,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 293,
+    "id": 1789655333769,
     "producto": "GUISANTES AREL 227 GR X 24 UNI",
     "marca": "REPRESENTACIONES DIPROPAL",
     "precio": 1.35,
-    "stock": 13,
-    "modulo": "MobilVendor"
+    "stock": 1,
+    "modulo": ""
   },
   {
-    "id": 294,
+    "id": 1789655333546,
     "producto": "GUISANTES EN LATA 830G TIGO",
     "marca": "TIGO",
     "precio": 3.36,
     "stock": 1,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 295,
+    "id": 1789655333980,
+    "producto": "HARINA AVEIRO PREMIUM SACO 45KG",
+    "marca": "MOCASA",
+    "precio": 45.08,
+    "stock": 25,
+    "modulo": ""
+  },
+  {
+    "id": 1789655334003,
     "producto": "HARINA BLANCA FLOR LEUDANTE 20X1KG",
     "marca": "GRUPO MIMESA",
     "precio": 1.09,
-    "stock": 381,
-    "modulo": "MobilVendor"
+    "stock": 301,
+    "modulo": ""
   },
   {
-    "id": 296,
+    "id": 1789655333526,
     "producto": "HARINA BLANCA FLOR TODO USO 1 KG (E)",
     "marca": "GRUPO MIMESA",
     "precio": 1,
     "stock": 5,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 297,
+    "id": 1789655333678,
     "producto": "HARINA DE MAIZ PANTERA 900GRS",
     "marca": "PANTERA",
     "precio": 1.11,
     "stock": 1,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 298,
+    "id": 1789655333902,
     "producto": "HARINA DE TRIGO BLANCA FLOR LEUDANTE 500GR",
     "marca": "GRUPO MIMESA",
     "precio": 0.67,
     "stock": 286,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 299,
+    "id": 1789655333783,
+    "producto": "HARINA DE TRIGO POLAR SACO 45KG",
+    "marca": "MONACA",
+    "precio": 42,
+    "stock": 42,
+    "modulo": ""
+  },
+  {
+    "id": 1789655334376,
     "producto": "HARINA DE TRIGO TODO USO BLANCA FLOR 500GR",
     "marca": "GRUPO MIMESA",
     "precio": 0.62,
     "stock": 392,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 300,
+    "id": 1789655333448,
     "producto": "HARINA INTEGRAL AVEIRO SACO 20KG",
     "marca": "MOCASA",
     "precio": 27.6,
     "stock": 3,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 301,
+    "id": 1789655333688,
+    "producto": "HARINA JUANA CLASICA 900GRS",
+    "marca": "MONACA",
+    "precio": 0.96,
+    "stock": 8,
+    "modulo": ""
+  },
+  {
+    "id": 1789655333711,
     "producto": "HARINA PANADERA RDN 45 KG REY DEL NORTE (E)",
     "marca": "GRUPO MIMESA",
     "precio": 41.93,
-    "stock": 4,
-    "modulo": "MobilVendor"
+    "stock": 3,
+    "modulo": ""
   },
   {
-    "id": 302,
+    "id": 1789655333613,
     "producto": "HARINA ROBIN HOOD LEUDANTE 900G",
     "marca": "MONACA",
     "precio": 0.98,
-    "stock": 298,
-    "modulo": "MobilVendor"
+    "stock": 107,
+    "modulo": ""
   },
   {
-    "id": 303,
+    "id": 1789655334058,
     "producto": "HARINA ROBIN HOOD TODO USO 900G",
     "marca": "MONACA",
     "precio": 0.9,
-    "stock": 154,
-    "modulo": "MobilVendor"
+    "stock": 14,
+    "modulo": ""
   },
   {
-    "id": 304,
+    "id": 1789655334388,
     "producto": "HEAD & SHOULDERS SHAMPOO 2EN1180CC SUAVE Y MANEJ",
     "marca": "P&G",
     "precio": 5.9,
-    "stock": 75,
-    "modulo": "MobilVendor"
+    "stock": 72,
+    "modulo": ""
   },
   {
-    "id": 305,
+    "id": 1789655334367,
     "producto": "HEAD & SHOULDERS SHAMPOO LIMP RENOV 180CC",
     "marca": "P&G",
     "precio": 5.9,
-    "stock": 62,
-    "modulo": "MobilVendor"
+    "stock": 61,
+    "modulo": ""
   },
   {
-    "id": 306,
+    "id": 1789655333588,
     "producto": "HIG SEDITA ULTRACONFORT 215H",
     "marca": "PAVECA",
     "precio": 0.67,
-    "stock": 6907,
-    "modulo": "MobilVendor"
+    "stock": 6230,
+    "modulo": ""
   },
   {
-    "id": 307,
+    "id": 1789655333508,
     "producto": "HIG SEDITA ULTRACONFORT 300H",
     "marca": "PAVECA",
     "precio": 1.05,
-    "stock": 1056,
-    "modulo": "MobilVendor"
+    "stock": 1044,
+    "modulo": ""
   },
   {
-    "id": 308,
+    "id": 1789655333593,
     "producto": "HIG SEDITA ULTRACONFORT 400H",
     "marca": "PAVECA",
     "precio": 1.36,
-    "stock": 834,
-    "modulo": "MobilVendor"
+    "stock": 738,
+    "modulo": ""
   },
   {
-    "id": 309,
+    "id": 1789655334329,
     "producto": "HOJILLAS DE PLATINO Y CROMO BIC 25UND",
     "marca": "DISTRIBUIDORA BIGOTT",
     "precio": 12.17,
     "stock": 90,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 310,
+    "id": 1789655334253,
     "producto": "HORSE POWER 390CM3SIN SAL ALOE",
     "marca": "COSMETICOS LARENSE",
     "precio": 2.03,
     "stock": 43,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 311,
+    "id": 1789655333618,
     "producto": "HORSE POWER EQUINO 390CC",
     "marca": "COSMETICOS LARENSE",
     "precio": 2.1,
     "stock": 47,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 312,
+    "id": 1789655333449,
     "producto": "HORSE POWER NARANJA 390CM3 SIN SAL",
     "marca": "COSMETICOS LARENSE",
     "precio": 2.03,
     "stock": 41,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 313,
+    "id": 1789655333463,
     "producto": "HORSE POWER SIN SAL CON CEBOLLA 390CC",
     "marca": "COSMETICOS LARENSE",
     "precio": 2.26,
-    "stock": 41,
-    "modulo": "Modulo B"
+    "stock": 40,
+    "modulo": ""
   },
   {
-    "id": 314,
+    "id": 1789655333924,
     "producto": "HS SHAMPOO 2EN1 SUAVE Y MANEJ 375CCX12UN",
     "marca": "P&G",
     "precio": 9.8,
     "stock": 36,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 315,
+    "id": 1789655333897,
     "producto": "HUESITO AVENA UNT40X200ML",
     "marca": "CARABOBO",
     "precio": 1,
-    "stock": 122,
-    "modulo": "MobilVendor"
+    "stock": 82,
+    "modulo": ""
   },
   {
-    "id": 316,
+    "id": 1789655334287,
     "producto": "HUESITO FRESA UHT 40X200",
     "marca": "CARABOBO",
     "precio": 1,
-    "stock": 582,
-    "modulo": "MobilVendor"
+    "stock": 530,
+    "modulo": ""
   },
   {
-    "id": 317,
+    "id": 1789655334264,
     "producto": "HUESITO VAINILLA UHT 40X200ML",
     "marca": "CARABOBO",
     "precio": 1,
-    "stock": 435,
-    "modulo": "MobilVendor"
+    "stock": 395,
+    "modulo": ""
   },
   {
-    "id": 318,
+    "id": 1789655334348,
     "producto": "HUGGIES PAÑAL TRIPLE PROTECCION SINGLE PACK XG 25 UND",
     "marca": "DIMASSI",
     "precio": 9.58,
     "stock": 6,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 319,
+    "id": 1789655334280,
     "producto": "HUGGIES PAÑAL TRIPLE PROTECCION TALLA G 20UND",
     "marca": "DIMASSI",
     "precio": 5.6,
-    "stock": 32,
-    "modulo": "MobilVendor"
+    "stock": 31,
+    "modulo": ""
   },
   {
-    "id": 320,
+    "id": 1789655333468,
     "producto": "HUGGIES PAÑAL TRIPLE PROTECCION TALLA XG 20 UND",
     "marca": "DIMASSI",
     "precio": 6.83,
-    "stock": 44,
-    "modulo": "MobilVendor"
+    "stock": 42,
+    "modulo": ""
   },
   {
-    "id": 321,
+    "id": 1789655333459,
     "producto": "HUGGIES PAÑAL TRIPLE PROTECCION TALLA XXG 20 UND",
     "marca": "DIMASSI",
     "precio": 7.43,
-    "stock": 10,
-    "modulo": "MobilVendor"
+    "stock": 5,
+    "modulo": ""
   },
   {
-    "id": 322,
+    "id": 1789655334069,
     "producto": "JABON ANITA ALMOND 80G",
     "marca": "ALIVE",
     "precio": 1.07,
-    "stock": 131,
-    "modulo": "Modulo B"
+    "stock": 100,
+    "modulo": ""
   },
   {
-    "id": 323,
+    "id": 1789655334321,
     "producto": "JABON ANITA AVOCADO 125G",
     "marca": "ALIVE",
     "precio": 1.66,
-    "stock": 154,
-    "modulo": "Modulo B"
+    "stock": 144,
+    "modulo": ""
   },
   {
-    "id": 324,
+    "id": 1789655334392,
     "producto": "JABON ANITA AVOCADO 80G",
     "marca": "ALIVE",
     "precio": 1.07,
-    "stock": 169,
-    "modulo": "Modulo B"
+    "stock": 147,
+    "modulo": ""
   },
   {
-    "id": 325,
+    "id": 1789655333516,
     "producto": "JABON ANITA PEARL EXTRACT 80G",
     "marca": "ALIVE",
     "precio": 1.07,
-    "stock": 173,
-    "modulo": "Modulo B"
+    "stock": 151,
+    "modulo": ""
   },
   {
-    "id": 326,
+    "id": 1789655333480,
     "producto": "JABON HARMONY FRESA 75G",
     "marca": "ALIVE",
     "precio": 0.72,
-    "stock": 36,
-    "modulo": "Modulo B"
+    "stock": 32,
+    "modulo": ""
   },
   {
-    "id": 327,
+    "id": 1789655333885,
     "producto": "JABON HARMONY LIMON AMARILLO 70G",
     "marca": "ALIVE",
     "precio": 0.72,
-    "stock": 44,
-    "modulo": "Modulo B"
+    "stock": 40,
+    "modulo": ""
   },
   {
-    "id": 328,
+    "id": 1789655333771,
     "producto": "JABON HARMONY LIMON VERDE 70G",
     "marca": "ALIVE",
     "precio": 0.72,
-    "stock": 41,
-    "modulo": "Modulo B"
+    "stock": 37,
+    "modulo": ""
   },
   {
-    "id": 329,
+    "id": 1789655333468,
     "producto": "JABON HARMONY MANZANA 75G",
     "marca": "ALIVE",
     "precio": 0.72,
-    "stock": 38,
-    "modulo": "Modulo B"
+    "stock": 34,
+    "modulo": ""
   },
   {
-    "id": 330,
+    "id": 1789655333605,
     "producto": "JABON HARMONY NARANJA 70G",
     "marca": "ALIVE",
     "precio": 0.72,
-    "stock": 52,
-    "modulo": "Modulo B"
+    "stock": 48,
+    "modulo": ""
   },
   {
-    "id": 331,
+    "id": 1789655333710,
     "producto": "JABON HARMONY UVA 70G",
     "marca": "ALIVE",
     "precio": 0.72,
-    "stock": 56,
-    "modulo": "Modulo B"
+    "stock": 52,
+    "modulo": ""
   },
   {
-    "id": 332,
+    "id": 1789655333753,
     "producto": "JABON MEDICARE AZUL 90G",
     "marca": "ALIVE",
     "precio": 1.32,
-    "stock": 30,
-    "modulo": "Modulo B"
+    "stock": 24,
+    "modulo": ""
   },
   {
-    "id": 333,
+    "id": 1789655334022,
     "producto": "JABON MEDICARE NARANJA 90G",
     "marca": "ALIVE",
     "precio": 1.32,
-    "stock": 47,
-    "modulo": "Ambos Modulos"
+    "stock": 39,
+    "modulo": ""
   },
   {
-    "id": 334,
+    "id": 1789655333505,
     "producto": "JACKS CHICHARRON PARRILLERO 85GRS",
     "marca": "PEPSICO",
     "precio": 3.28,
-    "stock": 36,
-    "modulo": "MobilVendor"
+    "stock": 10,
+    "modulo": ""
   },
   {
-    "id": 335,
+    "id": 1789655333546,
     "producto": "JAMON ENDIABLADO PL 60GR",
     "marca": "PLUMROSE",
     "precio": 1.59,
-    "stock": 39,
-    "modulo": "MobilVendor"
+    "stock": 3,
+    "modulo": ""
   },
   {
-    "id": 336,
+    "id": 1789655334327,
     "producto": "JAMON ENDIABLADO PLUMROSE 110GR",
     "marca": "PLUMROSE",
     "precio": 2.63,
-    "stock": 178,
-    "modulo": "MobilVendor"
+    "stock": 157,
+    "modulo": ""
   },
   {
-    "id": 337,
-    "producto": "JUGO DURAZNO 0.4LTS LALO",
-    "marca": "LALO",
-    "precio": 0.91,
-    "stock": 5,
-    "modulo": "Modulo B"
-  },
-  {
-    "id": 338,
-    "producto": "JUGO MANZANA 0.4LTS LALO",
-    "marca": "LALO",
-    "precio": 0.91,
-    "stock": 5,
-    "modulo": "Modulo B"
-  },
-  {
-    "id": 339,
+    "id": 1789655333921,
     "producto": "JUGO SABOR NARANJA FRESKO 12/330ML",
     "marca": "CANAIMA",
     "precio": 5.59,
     "stock": 98,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 340,
+    "id": 1789655334088,
     "producto": "JUGO SABOR NARANJA FRESKO 6/1500",
     "marca": "CANAIMA",
     "precio": 5.59,
     "stock": 90,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 341,
+    "id": 1789655334321,
     "producto": "JUSTY DURAZNO CAJA 12 UND 1.5 LTS",
     "marca": "GLUP",
     "precio": 11.69,
-    "stock": 27,
-    "modulo": "Modulo B"
+    "stock": 1,
+    "modulo": ""
   },
   {
-    "id": 342,
+    "id": 1789655333945,
+    "producto": "JUSTY MANZANA CAJA 15 UND 400 ML",
+    "marca": "GLUP",
+    "precio": 5.32,
+    "stock": 57,
+    "modulo": ""
+  },
+  {
+    "id": 1789655334254,
     "producto": "JUSTY NARANJA CAJA 12 UND 1.5 LTS",
     "marca": "GLUP",
     "precio": 11.69,
     "stock": 1,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 343,
+    "id": 1789655333602,
     "producto": "JUSTY NARANJA CAJA 15 UND 400 ML",
     "marca": "GLUP",
     "precio": 6.05,
     "stock": 2,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 344,
-    "producto": "JUSTY PERA CAJA 12 UND 1.5 LTS",
-    "marca": "GLUP",
-    "precio": 11.69,
-    "stock": 2,
-    "modulo": "Modulo B"
-  },
-  {
-    "id": 345,
+    "id": 1789655334121,
     "producto": "KATY WHITE DISPLAY 768G 6X24",
     "marca": "GALLETAS PUIG",
     "precio": 14.96,
-    "stock": 32,
-    "modulo": "MobilVendor"
+    "stock": 31,
+    "modulo": ""
   },
   {
-    "id": 346,
+    "id": 1789655333896,
     "producto": "KETCHUP SALSA PAMPERO 397GR",
     "marca": "ALIMENTOS POLAR",
     "precio": 2.26,
     "stock": 1,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 347,
+    "id": 1789655334395,
     "producto": "KIERO KETCHUP SALSA DE TOMATE 198G",
     "marca": "PROCESADORA NATURALYST",
     "precio": 1.09,
-    "stock": 1891,
-    "modulo": "MobilVendor"
+    "stock": 1873,
+    "modulo": ""
   },
   {
-    "id": 348,
+    "id": 1789655334187,
     "producto": "KIERO KETCHUP SALSA DE TOMATE 397G",
     "marca": "PROCESADORA NATURALYST",
     "precio": 1.63,
-    "stock": 1498,
-    "modulo": "MobilVendor"
+    "stock": 1437,
+    "modulo": ""
   },
   {
-    "id": 349,
+    "id": 1789655333836,
     "producto": "KIERO KETCHUP SALSA DE TOMATE C/PEPINILLOS 380G",
     "marca": "PROCESADORA NATURALYST",
     "precio": 1.64,
-    "stock": 135,
-    "modulo": "MobilVendor"
+    "stock": 123,
+    "modulo": ""
   },
   {
-    "id": 350,
+    "id": 1789655333864,
     "producto": "KIERO KETCHUP SALSA DE TOMATE DOYPACK 190G",
     "marca": "PROCESADORA NATURALYST",
     "precio": 0.93,
     "stock": 1276,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 351,
-    "producto": "KIT KAT 4 FINGERS MILK 4(24X41.5G) XW",
-    "marca": "NESTLE",
-    "precio": 1.58,
-    "stock": 65,
-    "modulo": "MobilVendor"
-  },
-  {
-    "id": 352,
+    "id": 1789655333613,
     "producto": "KITKAT 4FNGR BRANCO 4(24X41,5G) BR",
     "marca": "NESTLE",
     "precio": 1.52,
     "stock": 0,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 353,
-    "producto": "KK 4FINGERS LECHE 8(12X41.5G) VE",
-    "marca": "NESTLE",
-    "precio": 1.29,
-    "stock": 84,
-    "modulo": "MobilVendor"
-  },
-  {
-    "id": 354,
+    "id": 1789655333674,
     "producto": "KKO REPOSTERIA BOLSA 200 GR",
     "marca": "CACAO REAL",
     "precio": 5.05,
     "stock": 96,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 355,
+    "id": 1789655333699,
     "producto": "KKO TAZA BOLSA 200GR",
     "marca": "CACAO REAL",
     "precio": 5.05,
     "stock": 41,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 356,
+    "id": 1789655334326,
     "producto": "KOTEX LINER 50 UND",
     "marca": "DIMASSI",
     "precio": 4.61,
     "stock": 56,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 357,
+    "id": 1789655333521,
     "producto": "KOTEX LINER INDICADOR PH 15 UND",
     "marca": "DIMASSI",
     "precio": 1.75,
     "stock": 60,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 358,
+    "id": 1789655333527,
     "producto": "KOTEX LINER INDICADOR PH 40 UND",
     "marca": "DIMASSI",
     "precio": 2.06,
     "stock": 150,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 359,
+    "id": 1789655333618,
     "producto": "KOTEX PROTECTOR DIARIO 15 UND",
     "marca": "DIMASSI",
     "precio": 1.16,
-    "stock": 192,
-    "modulo": "MobilVendor"
+    "stock": 172,
+    "modulo": ""
   },
   {
-    "id": 360,
+    "id": 1789655333744,
     "producto": "KOTEX TOALLA FEM DISCRETA/ULTRAFINA 10UND",
     "marca": "DIMASSI",
     "precio": 1.64,
-    "stock": 584,
-    "modulo": "MobilVendor"
+    "stock": 583,
+    "modulo": ""
   },
   {
-    "id": 361,
+    "id": 1789655333485,
     "producto": "KOTEX TOALLA FEM ESENCIAL CON ALAS 8UND",
     "marca": "DIMASSI",
     "precio": 1.26,
-    "stock": 205,
-    "modulo": "MobilVendor"
+    "stock": 186,
+    "modulo": ""
   },
   {
-    "id": 362,
+    "id": 1789655334427,
     "producto": "KOTEX TOALLA FEM NOCTURNA 8 UND",
     "marca": "DIMASSI",
     "precio": 2.29,
-    "stock": 67,
-    "modulo": "MobilVendor"
+    "stock": 52,
+    "modulo": ""
   },
   {
-    "id": 363,
+    "id": 1789655334342,
     "producto": "KOTEX TOALLA FEM NORMAL/ULTRAPROTECT 10 UND",
     "marca": "DIMASSI",
     "precio": 1.71,
-    "stock": 458,
-    "modulo": "MobilVendor"
+    "stock": 444,
+    "modulo": ""
   },
   {
-    "id": 364,
+    "id": 1789655334240,
+    "producto": "KRIS LAVA K-SA ANTIBACTERIAL 828 CM3",
+    "marca": "KRIS",
+    "precio": 1.45,
+    "stock": 336,
+    "modulo": ""
+  },
+  {
+    "id": 1789655334356,
     "producto": "KRIS LAVAPLATOS 800 CC",
     "marca": "KRIS",
     "precio": 2.26,
-    "stock": 510,
-    "modulo": "Modulo B"
+    "stock": 490,
+    "modulo": ""
   },
   {
-    "id": 365,
+    "id": 1789655333943,
     "producto": "L PRADO JAMON COCIDO MINI PIERNA 1KG APRO X PZ",
     "marca": "LPRADO",
     "precio": 6.78,
     "stock": 0,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 366,
+    "id": 1789655334262,
     "producto": "LA CAMPESINA FORTIFICADA 40X200G VE",
     "marca": "NESTLE",
     "precio": 3.89,
-    "stock": 622,
-    "modulo": "MobilVendor"
+    "stock": 543,
+    "modulo": ""
   },
   {
-    "id": 367,
+    "id": 1789655333728,
     "producto": "LA CAMPESINA LECPLV C/HIERRO 27X400GVE",
     "marca": "NESTLE",
     "precio": 6.89,
-    "stock": 558,
-    "modulo": "MobilVendor"
+    "stock": 444,
+    "modulo": ""
   },
   {
-    "id": 368,
+    "id": 1789655334304,
     "producto": "LA CAMPESINA LECPLV HIERRO 12X800GVE",
     "marca": "NESTLE",
     "precio": 11.92,
-    "stock": 689,
-    "modulo": "MobilVendor"
+    "stock": 543,
+    "modulo": ""
   },
   {
-    "id": 369,
+    "id": 1789655334139,
     "producto": "LA CAMPESINA NUTRIRINDE SACHET 27X400G",
     "marca": "NESTLE",
     "precio": 4.44,
-    "stock": 207,
-    "modulo": "MobilVendor"
+    "stock": 141,
+    "modulo": ""
   },
   {
-    "id": 370,
+    "id": 1789655334023,
+    "producto": "LA CAMPESINA NUTRIRINDE SACHET 40X200GVE",
+    "marca": "NESTLE",
+    "precio": 2.45,
+    "stock": 120,
+    "modulo": ""
+  },
+  {
+    "id": 1789655334246,
     "producto": "LA PASTOREÑA CREMA DE LECHE UTH 500ML",
     "marca": "LA PASTOREÑA",
     "precio": 4.86,
-    "stock": 50,
-    "modulo": "MobilVendor"
+    "stock": 49,
+    "modulo": ""
   },
   {
-    "id": 371,
+    "id": 1789655333804,
     "producto": "LAPIZ LEVO 12",
     "marca": "LEVO",
     "precio": 1.72,
     "stock": 10,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 372,
+    "id": 1789655334126,
     "producto": "LAS LLAVES DETERGENTE LIMON 400GR",
     "marca": "ALIMENTOS POLAR",
     "precio": 2.08,
     "stock": 2,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 373,
+    "id": 1789655334248,
     "producto": "LAVA K-SA BRISA MARINA 828 ML",
     "marca": "KRIS",
     "precio": 1.45,
-    "stock": 115,
-    "modulo": "Modulo B"
+    "stock": 103,
+    "modulo": ""
   },
   {
-    "id": 374,
+    "id": 1789655334279,
+    "producto": "LAVA K-SA CHERRY 828",
+    "marca": "KRIS",
+    "precio": 1.45,
+    "stock": 323,
+    "modulo": ""
+  },
+  {
+    "id": 1789655334302,
     "producto": "LAVA K-SA FLORAL 828",
     "marca": "KRIS",
     "precio": 1.45,
-    "stock": 6,
-    "modulo": "Modulo B"
+    "stock": 118,
+    "modulo": ""
   },
   {
-    "id": 375,
+    "id": 1789655334459,
     "producto": "LAVA K-SA LIMON 828",
     "marca": "KRIS",
-    "precio": 1.51,
-    "stock": 69,
-    "modulo": "Modulo B"
+    "precio": 1.45,
+    "stock": 129,
+    "modulo": ""
   },
   {
-    "id": 376,
+    "id": 1789655333602,
     "producto": "LAVAPLATOS EN CREMA LIMON 250GRS",
     "marca": "3N",
     "precio": 1.37,
     "stock": 6,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 377,
+    "id": 1789655334077,
     "producto": "LAVAPLATOS KRIS 375CC",
     "marca": "KRIS",
     "precio": 1.83,
-    "stock": 59,
-    "modulo": "Ambos Modulos"
+    "stock": 45,
+    "modulo": ""
   },
   {
-    "id": 378,
+    "id": 1789655333680,
     "producto": "LAVAPLATOS KRIS 500ML",
     "marca": "KRIS",
     "precio": 1.93,
-    "stock": 46,
-    "modulo": "Modulo B"
+    "stock": 30,
+    "modulo": ""
   },
   {
-    "id": 379,
+    "id": 1789655333828,
     "producto": "LAVAPLATOS KRIS LIMON 375CC",
     "marca": "KRIS",
     "precio": 1.91,
-    "stock": 73,
-    "modulo": "Modulo B"
+    "stock": 52,
+    "modulo": ""
   },
   {
-    "id": 380,
+    "id": 1789655334303,
     "producto": "LAVAPLATOS KRIS LIMON 500ML",
     "marca": "KRIS",
     "precio": 2.01,
-    "stock": 23,
-    "modulo": "Modulo B"
+    "stock": 123,
+    "modulo": ""
   },
   {
-    "id": 381,
+    "id": 1789655333915,
     "producto": "LAVAPLATOS KRIS LIMON 800CC",
     "marca": "KRIS",
     "precio": 2.36,
     "stock": 55,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 382,
+    "id": 1789655334136,
     "producto": "LAYS CLASICA 18X80G GRA",
     "marca": "PEPSICO",
     "precio": 2.09,
-    "stock": 76,
-    "modulo": "MobilVendor"
+    "stock": 142,
+    "modulo": ""
   },
   {
-    "id": 383,
-    "producto": "LECHE DESCREM/DESLACTOSADA LA PASTOREÑA 12X1LT",
-    "marca": "LA PASTOREÑA",
-    "precio": 2.43,
-    "stock": 87,
-    "modulo": "MobilVendor"
-  },
-  {
-    "id": 384,
+    "id": 1789655333967,
     "producto": "LECHE DESCREMADA LA PASTOREÑA 12X1LT",
     "marca": "LA PASTOREÑA",
     "precio": 2.21,
-    "stock": 1147,
-    "modulo": "MobilVendor"
+    "stock": 657,
+    "modulo": ""
   },
   {
-    "id": 385,
+    "id": 1789655334501,
     "producto": "LECHE ENTERA ESTERILIZADA 12X1LT",
     "marca": "CARABOBO",
     "precio": 2.4,
-    "stock": 906,
-    "modulo": "MobilVendor"
+    "stock": 158,
+    "modulo": ""
   },
   {
-    "id": 386,
-    "producto": "LECHE ENTERA ESTERILIZADA CARABOBO 200MLX40",
-    "marca": "CARABOBO",
-    "precio": 0.82,
-    "stock": 93,
-    "modulo": "Ambos Modulos"
+    "id": 1789655333512,
+    "producto": "LENTEJAS PANTERA 400GRS",
+    "marca": "PANTERA",
+    "precio": 1.51,
+    "stock": 2,
+    "modulo": ""
   },
   {
-    "id": 387,
-    "producto": "LECHE LA PASTOREÑA COMPLETA UHT 12X1LT",
-    "marca": "LA PASTOREÑA",
-    "precio": 2.21,
-    "stock": 1677,
-    "modulo": "MobilVendor"
-  },
-  {
-    "id": 388,
+    "id": 1789655333555,
     "producto": "LEVADURA SECA INST DORADA MASA DULCE 500GRS",
     "marca": "MOCASA",
     "precio": 4.57,
-    "stock": 188,
-    "modulo": "MobilVendor"
+    "stock": 154,
+    "modulo": ""
   },
   {
-    "id": 389,
+    "id": 1789655333865,
     "producto": "LEVADURA SECA INST MASA SALADA 500GRS",
     "marca": "MOCASA",
     "precio": 4.2,
-    "stock": 138,
-    "modulo": "MobilVendor"
+    "stock": 131,
+    "modulo": ""
   },
   {
-    "id": 390,
+    "id": 1789655334256,
     "producto": "LIPTON CLASSIC GREEN 20BLS",
     "marca": "ALIMENTOS CAPITAL 58",
     "precio": 2.94,
     "stock": 1,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 391,
+    "id": 1789655334266,
     "producto": "LIPTON EARL GREY FRESHPACK 25BLS",
     "marca": "ALIMENTOS CAPITAL 58",
     "precio": 2.94,
     "stock": 1,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 392,
+    "id": 1789655333606,
     "producto": "LIPTON MANGO BLACKCURRANT 20BLS",
     "marca": "ALIMENTOS CAPITAL 58",
     "precio": 2.94,
     "stock": 3,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 393,
+    "id": 1789655333679,
     "producto": "LIPTON TE CHAI 10BLS",
     "marca": "ALIMENTOS CAPITAL 58",
     "precio": 2.06,
     "stock": 2,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 394,
+    "id": 1789655333835,
     "producto": "LIPTON TE VERDE BOOST TIME 10BLS",
     "marca": "ALIMENTOS CAPITAL 58",
     "precio": 2.33,
     "stock": 6,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 395,
+    "id": 1789655334146,
     "producto": "LIPTON YELLOW LABEL 20BLS",
     "marca": "ALIMENTOS CAPITAL 58",
     "precio": 2.94,
     "stock": 3,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 396,
+    "id": 1789655333812,
     "producto": "LPRADO JAMON COCIDO ESTANDAR (PIERNA) 5 KG APROX",
     "marca": "LPRADO",
     "precio": 8.78,
-    "stock": 62,
-    "modulo": "Modulo B"
+    "stock": 56,
+    "modulo": ""
   },
   {
-    "id": 397,
+    "id": 1789655333642,
     "producto": "LPRADO PECHUGA DE PAVO 3.6KG APROX",
     "marca": "LPRADO",
     "precio": 8.65,
     "stock": 40,
-    "modulo": "Ambos Modulos"
+    "modulo": ""
   },
   {
-    "id": 398,
-    "producto": "LUCKY STRIKE COSMIC",
+    "id": 1789655334075,
+    "producto": "LUCKY STRIKE NOVA L 20",
     "marca": "DISTRIBUIDORA BIGOTT",
     "precio": 3.04,
-    "stock": 135,
-    "modulo": "Modulo B"
+    "stock": 30,
+    "modulo": ""
   },
   {
-    "id": 399,
-    "producto": "LUCKY STRIKE RED L20",
-    "marca": "DISTRIBUIDORA BIGOTT",
-    "precio": 2.81,
-    "stock": 16,
-    "modulo": "Modulo B"
-  },
-  {
-    "id": 400,
+    "id": 1789655333998,
     "producto": "MAG ADOBO SACHET 8(48X8G) VE",
     "marca": "NESTLE",
-    "precio": 0.17,
-    "stock": 1020,
-    "modulo": "MobilVendor"
+    "precio": 0.15,
+    "stock": 955,
+    "modulo": ""
   },
   {
-    "id": 401,
+    "id": 1789655334385,
+    "producto": "MAG CALDO DE POLLO SACHET 8(48X8G) VE",
+    "marca": "NESTLE",
+    "precio": 0.16,
+    "stock": 384,
+    "modulo": ""
+  },
+  {
+    "id": 1789655334102,
     "producto": "MAG NATURISIMO SACHET 12(32X8G) VE",
     "marca": "NESTLE",
-    "precio": 0.17,
-    "stock": 1116,
-    "modulo": "MobilVendor"
+    "precio": 0.15,
+    "stock": 1092,
+    "modulo": ""
   },
   {
-    "id": 402,
+    "id": 1789655334307,
     "producto": "MAG SAZONADOR ARROZ POLLO SC 8(48X8G)VE",
     "marca": "NESTLE",
-    "precio": 0.17,
-    "stock": 672,
-    "modulo": "MobilVendor"
+    "precio": 0.15,
+    "stock": 612,
+    "modulo": ""
   },
   {
-    "id": 403,
+    "id": 1789655333923,
     "producto": "MAG SZNTD SACHET 12(32X8G) VE",
     "marca": "NESTLE",
-    "precio": 0.17,
-    "stock": 1032,
-    "modulo": "MobilVendor"
+    "precio": 0.15,
+    "stock": 1008,
+    "modulo": ""
   },
   {
-    "id": 404,
+    "id": 1789655334121,
     "producto": "MAGGI ADOBO BOTTLE 20X200G N1 VE",
     "marca": "NESTLE",
     "precio": 4.04,
-    "stock": 89,
-    "modulo": "MobilVendor"
+    "stock": 81,
+    "modulo": ""
   },
   {
-    "id": 405,
+    "id": 1789655334475,
     "producto": "MAGGI BASE CARNE DESMECHADA 24X50G VE",
     "marca": "NESTLE",
     "precio": 1.02,
     "stock": 4,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 406,
+    "id": 1789655334209,
     "producto": "MAGGI CALDO COSTILLA DMZD 40(36X9G) VE",
     "marca": "NESTLE",
     "precio": 0.2,
-    "stock": 12048,
-    "modulo": "MobilVendor"
+    "stock": 11340,
+    "modulo": ""
   },
   {
-    "id": 407,
+    "id": 1789655333577,
     "producto": "MAGGI CALDO DE POLLO 12X575G VE",
     "marca": "NESTLE",
     "precio": 11.01,
-    "stock": 827,
-    "modulo": "MobilVendor"
+    "stock": 757,
+    "modulo": ""
   },
   {
-    "id": 408,
+    "id": 1789655334111,
     "producto": "MAGGI CALDO DE POLLO 25UND VE",
     "marca": "NESTLE",
     "precio": 4.73,
-    "stock": 80,
-    "modulo": "MobilVendor"
+    "stock": 52,
+    "modulo": ""
   },
   {
-    "id": 409,
+    "id": 1789655333686,
     "producto": "MAGGI CALDO DE POLLO 32X138G VE",
     "marca": "NESTLE",
     "precio": 3.35,
-    "stock": 209,
-    "modulo": "MobilVendor"
+    "stock": 261,
+    "modulo": ""
   },
   {
-    "id": 410,
+    "id": 1789655333669,
     "producto": "MAGGI CALDO DE POLLO 4X2875G VE",
     "marca": "NESTLE",
     "precio": 47.34,
-    "stock": 955,
-    "modulo": "Ambos Modulos"
+    "stock": 978,
+    "modulo": ""
   },
   {
-    "id": 411,
+    "id": 1789655334093,
     "producto": "MAGGI CALDO DE POLLO 6(12X35G) VE",
     "marca": "NESTLE",
     "precio": 0.78,
-    "stock": 1020,
-    "modulo": "MobilVendor"
+    "stock": 934,
+    "modulo": ""
   },
   {
-    "id": 412,
+    "id": 1789655333540,
     "producto": "MAGGI CALDO DE POLLO 6(70X11.5G) VE",
     "marca": "NESTLE",
     "precio": 16.38,
-    "stock": 240,
-    "modulo": "MobilVendor"
+    "stock": 180,
+    "modulo": ""
   },
   {
-    "id": 413,
+    "id": 1789655334212,
     "producto": "MAGGI CALDO GALLINA DSMZDO 40(36X9G) VE",
     "marca": "NESTLE",
     "precio": 0.2,
-    "stock": 8100,
-    "modulo": "MobilVendor"
+    "stock": 7512,
+    "modulo": ""
   },
   {
-    "id": 414,
-    "producto": "MAGGI CALDO POLLO DESH BOT 20X200G VE",
-    "marca": "NESTLE",
-    "precio": 3.4,
-    "stock": 7,
-    "modulo": "MobilVendor"
-  },
-  {
-    "id": 415,
+    "id": 1789655334483,
     "producto": "MAGGI CREMA BROCOLI 12(12X65G) XP",
     "marca": "NESTLE",
     "precio": 1.22,
     "stock": 1,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 416,
+    "id": 1789655333639,
     "producto": "MAGGI MEZCLADESOPASMP6(6X124G)PRPREVE",
     "marca": "NESTLE",
     "precio": 2.42,
     "stock": 5,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 417,
+    "id": 1789655334530,
     "producto": "MAGGI NATURISIMO 6(15X35G) VE",
     "marca": "NESTLE",
     "precio": 0.96,
     "stock": 411,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 418,
+    "id": 1789655333778,
     "producto": "MAGGI NATURISIMO BOTELLA 20X220G VE",
     "marca": "NESTLE",
     "precio": 5.35,
-    "stock": 31,
-    "modulo": "MobilVendor"
+    "stock": 27,
+    "modulo": ""
   },
   {
-    "id": 419,
+    "id": 1789655334402,
     "producto": "MAGGI RICE CUBE 48X92G VE",
     "marca": "NESTLE",
     "precio": 2.33,
-    "stock": 747,
-    "modulo": "MobilVendor"
+    "stock": 639,
+    "modulo": ""
   },
   {
-    "id": 420,
+    "id": 1789655334089,
     "producto": "MAGGI RICE SEASONING 6(15X35G) VE",
     "marca": "NESTLE",
     "precio": 0.8,
-    "stock": 635,
-    "modulo": "MobilVendor"
+    "stock": 614,
+    "modulo": ""
   },
   {
-    "id": 421,
+    "id": 1789655334453,
     "producto": "MAGGI SAZONATODO 6(15X35G) L4",
     "marca": "NESTLE",
     "precio": 0.79,
-    "stock": 463,
-    "modulo": "MobilVendor"
+    "stock": 330,
+    "modulo": ""
   },
   {
-    "id": 422,
+    "id": 1789655334083,
+    "producto": "MAGGI SOPA POLLO ESTRELLITAS 6(12X62G)VE",
+    "marca": "NESTLE",
+    "precio": 1.3,
+    "stock": 432,
+    "modulo": ""
+  },
+  {
+    "id": 1789655333973,
     "producto": "MAIZ COTUFA PANTERA 500GRS",
     "marca": "PANTERA",
     "precio": 1.44,
     "stock": 1,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 423,
+    "id": 1789655333615,
     "producto": "MANI JACKS SALADO 175 GRS",
     "marca": "PEPSICO",
     "precio": 2.64,
-    "stock": 121,
-    "modulo": "MobilVendor"
+    "stock": 64,
+    "modulo": ""
   },
   {
-    "id": 424,
-    "producto": "MANI JACKS SALADO 25 GRS X 24 UND",
-    "marca": "PEPSICO",
-    "precio": 0.83,
-    "stock": 1,
-    "modulo": "MobilVendor"
-  },
-  {
-    "id": 425,
+    "id": 1789655333590,
     "producto": "MANTECA TRESCO 15KG 42LT",
     "marca": "GRUPO MIMESA",
     "precio": 75.78,
     "stock": 3,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 426,
+    "id": 1789655333877,
     "producto": "MANTECA TRESCO 42LT 10KG",
     "marca": "GRUPO MIMESA",
     "precio": 45.57,
     "stock": 5,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 427,
+    "id": 1789655333861,
     "producto": "MANTECA TRESCO LTE 10KG",
     "marca": "GRUPO MIMESA",
     "precio": 49.55,
-    "stock": 7,
-    "modulo": "MobilVendor"
+    "stock": 6,
+    "modulo": ""
   },
   {
-    "id": 428,
+    "id": 1789655333933,
     "producto": "MANTECA TRESCO LTE 15 KG",
     "marca": "GRUPO MIMESA",
     "precio": 65.26,
     "stock": 3,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 429,
+    "id": 1789655333926,
     "producto": "MARGARINA C/S EL PUERTO 500GRS",
     "marca": "INDUSTRIAS CENTENARIO",
     "precio": 2.22,
-    "stock": 27,
-    "modulo": "MobilVendor"
+    "stock": 23,
+    "modulo": ""
   },
   {
-    "id": 430,
+    "id": 1789655334443,
     "producto": "MARGARINA PANADERA 15KG LA NORMANDA ROJA",
     "marca": "NORMANDA",
     "precio": 36.58,
     "stock": 9,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 431,
+    "id": 1789655333576,
     "producto": "MARGARINA REPOSTERA 5KG NORMANDA AZUL",
     "marca": "NORMANDA",
     "precio": 17.7,
-    "stock": 19,
-    "modulo": "Modulo B"
+    "stock": 12,
+    "modulo": ""
   },
   {
-    "id": 432,
+    "id": 1789655333910,
+    "producto": "MARGARINA SIN SAL 5KG",
+    "marca": "GRUPO MIMESA",
+    "precio": 22.38,
+    "stock": 3,
+    "modulo": ""
+  },
+  {
+    "id": 1789655333812,
     "producto": "MARIA SELECTA 250G X 36",
     "marca": "GALLETAS PUIG",
     "precio": 1.54,
-    "stock": 494,
-    "modulo": "MobilVendor"
+    "stock": 408,
+    "modulo": ""
   },
   {
-    "id": 433,
+    "id": 1789655333856,
     "producto": "MARILU CHOC. TUB 216G X 24",
     "marca": "GALLETAS PUIG",
     "precio": 2.27,
-    "stock": 66,
-    "modulo": "MobilVendor"
+    "stock": 50,
+    "modulo": ""
   },
   {
-    "id": 434,
+    "id": 1789655334019,
     "producto": "MARILU CHOCO VAINILLA DISPLAY",
     "marca": "GALLETAS PUIG",
     "precio": 5.4,
-    "stock": 10,
-    "modulo": "MobilVendor"
+    "stock": 8,
+    "modulo": ""
   },
   {
-    "id": 435,
+    "id": 1789655333623,
     "producto": "MARILU CHOCO-VAIN. TUBO 216G",
     "marca": "GALLETAS PUIG",
     "precio": 2.27,
-    "stock": 41,
-    "modulo": "MobilVendor"
+    "stock": 39,
+    "modulo": ""
   },
   {
-    "id": 436,
+    "id": 1789655334508,
     "producto": "MARILU FRESA TUB. 216G X 24",
     "marca": "GALLETAS PUIG",
     "precio": 2.27,
     "stock": 40,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 437,
+    "id": 1789655334370,
     "producto": "MARILU VAIN. TUB. 216G X 24",
     "marca": "GALLETAS PUIG",
     "precio": 2.28,
-    "stock": 28,
-    "modulo": "MobilVendor"
+    "stock": 27,
+    "modulo": ""
   },
   {
-    "id": 438,
+    "id": 1789655334493,
     "producto": "MARILU VAINILLA DISPLAY 18G X 24",
     "marca": "GALLETAS PUIG",
     "precio": 5.4,
-    "stock": 25,
-    "modulo": "MobilVendor"
+    "stock": 23,
+    "modulo": ""
   },
   {
-    "id": 439,
+    "id": 1789655334220,
     "producto": "MASCARILLA CAPILAR STEFANY ARGAN 240 GR",
     "marca": "COSMETICOS LARENSE",
     "precio": 2.64,
     "stock": 48,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 440,
+    "id": 1789655334008,
     "producto": "MASCARILLA CAPILAR STEFANY KARITE 240 GR",
     "marca": "COSMETICOS LARENSE",
     "precio": 2.64,
     "stock": 48,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 441,
+    "id": 1789655333848,
     "producto": "MASCARILLA CAPILAR STEFANY KERATINA 240 GR",
     "marca": "COSMETICOS LARENSE",
     "precio": 2.64,
     "stock": 45,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 442,
+    "id": 1789655333810,
     "producto": "MAVESA MARGARINA 250 GR",
     "marca": "ALIMENTOS POLAR",
     "precio": 1.77,
     "stock": 2,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 443,
+    "id": 1789655333961,
     "producto": "MAVESA MARGARINA 500G",
     "marca": "ALIMENTOS POLAR",
     "precio": 3.17,
     "stock": 1,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 444,
+    "id": 1789655333827,
     "producto": "MAYONESA LAM 385 GR (E)",
     "marca": "SUPER ECONOMICA",
     "precio": 2.41,
     "stock": 1,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 445,
+    "id": 1789655333653,
     "producto": "MELOCOTONES EN MITADES EN ALMIBAR 3KG",
     "marca": "RIOJANA",
     "precio": 13.5,
-    "stock": 329,
-    "modulo": "MobilVendor"
+    "stock": 404,
+    "modulo": ""
   },
   {
-    "id": 446,
-    "producto": "MENTICAS ESTUCHE 18X20 GRS - MENTA",
-    "marca": "CARAMELOS GULI",
-    "precio": 7.46,
-    "stock": 1,
-    "modulo": "MobilVendor"
-  },
-  {
-    "id": 447,
+    "id": 1789655334422,
     "producto": "MENTITAS 18GRS X 168UND DISPLAY",
     "marca": "GOMBY",
     "precio": 6.62,
     "stock": 59,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 448,
+    "id": 1789655334432,
     "producto": "MERMELADA DE DURAZNO KIERO 24 X 230G",
     "marca": "PROCESADORA NATURALYST",
     "precio": 2.55,
     "stock": 117,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 449,
+    "id": 1789655334219,
     "producto": "MERMELADA DE GUAYABA KIERO 24 X 230G",
     "marca": "PROCESADORA NATURALYST",
     "precio": 2.55,
     "stock": 117,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 450,
+    "id": 1789655333707,
     "producto": "MERMELADA DE MORA KIERO 230G",
     "marca": "PROCESADORA NATURALYST",
     "precio": 2.55,
-    "stock": 132,
-    "modulo": "MobilVendor"
+    "stock": 131,
+    "modulo": ""
   },
   {
-    "id": 451,
+    "id": 1789655334559,
     "producto": "MEZCLA PARA PREPARAR BROWNIE 400GRS",
     "marca": "WEPA",
     "precio": 3.06,
     "stock": 11,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 452,
+    "id": 1789655333880,
     "producto": "MI VACA LECHE DESCREMADA UHT 12X1LT CBOBO",
     "marca": "CARABOBO",
     "precio": 2.54,
     "stock": 60,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 453,
+    "id": 1789655334090,
     "producto": "MINI MARIA B LONCHERA 180G X 16",
     "marca": "GALLETAS PUIG",
     "precio": 1.91,
-    "stock": 40,
-    "modulo": "MobilVendor"
+    "stock": 34,
+    "modulo": ""
   },
   {
-    "id": 454,
+    "id": 1789655333995,
     "producto": "MINI MARIA BOLSA 200G X 16",
     "marca": "GALLETAS PUIG",
     "precio": 1.74,
-    "stock": 17,
-    "modulo": "MobilVendor"
+    "stock": 1,
+    "modulo": ""
   },
   {
-    "id": 455,
+    "id": 1789655334227,
     "producto": "MINI MARILU CH. 100G X 24",
     "marca": "GALLETAS PUIG",
     "precio": 1.25,
     "stock": 22,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 456,
+    "id": 1789655334254,
     "producto": "MINI MARILU VA. 100G X 24",
     "marca": "GALLETAS PUIG",
     "precio": 1.25,
     "stock": 68,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 457,
+    "id": 1789655334528,
     "producto": "MONTALBAN \"0\" CALORÍAS 400GR",
     "marca": "MONTALBAN",
     "precio": 15.09,
-    "stock": 63,
-    "modulo": "MobilVendor"
+    "stock": 55,
+    "modulo": ""
   },
   {
-    "id": 458,
+    "id": 1789655333824,
     "producto": "MONTALBAN AZÚCAR GLASS X4,5 KG",
     "marca": "MONTALBAN",
     "precio": 11.57,
-    "stock": 7,
-    "modulo": "MobilVendor"
+    "stock": 3,
+    "modulo": ""
   },
   {
-    "id": 459,
+    "id": 1789655334514,
     "producto": "MONTALBAN AZÚCAR GLASS X900GR",
     "marca": "MONTALBAN",
     "precio": 4.3,
     "stock": 36,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 460,
+    "id": 1789655334505,
+    "producto": "MONTALBAN AZÚCAR MORENA X1KG",
+    "marca": "MONTALBAN",
+    "precio": 2.62,
+    "stock": 4,
+    "modulo": ""
+  },
+  {
+    "id": 1789655334167,
+    "producto": "MONTALBAN AZÚCAR PLAS 20X1KG",
+    "marca": "MONTALBAN",
+    "precio": 30,
+    "stock": 172,
+    "modulo": ""
+  },
+  {
+    "id": 1789655334379,
     "producto": "MONTALBAN CAFETÍN 200X4GR",
     "marca": "MONTALBAN",
     "precio": 2.19,
-    "stock": 593,
-    "modulo": "MobilVendor"
+    "stock": 426,
+    "modulo": ""
   },
   {
-    "id": 461,
-    "producto": "MONTALBAN PAPELON DURAZNO 500GRS",
-    "marca": "MONTALBAN",
-    "precio": 3.28,
-    "stock": 146,
-    "modulo": "MobilVendor"
-  },
-  {
-    "id": 462,
-    "producto": "MONTALBAN PAPELON NATURAL 500GR",
-    "marca": "MONTALBAN",
-    "precio": 2.08,
-    "stock": 55,
-    "modulo": "MobilVendor"
-  },
-  {
-    "id": 463,
+    "id": 1789655334162,
     "producto": "MONTALBAN PAPELÓN DURAZNO 115GR",
     "marca": "MONTALBAN",
     "precio": 0.87,
     "stock": 30,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 464,
+    "id": 1789655334532,
+    "producto": "MONTALBAN PAPELON DURAZNO 500GRS",
+    "marca": "MONTALBAN",
+    "precio": 3.28,
+    "stock": 146,
+    "modulo": ""
+  },
+  {
+    "id": 1789655334167,
     "producto": "MONTALBAN PAPELÓN LIMÓN/HIERB 115GR",
     "marca": "MONTALBAN",
     "precio": 0.68,
     "stock": 4,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 465,
+    "id": 1789655334457,
+    "producto": "MONTALBAN PAPELON NATURAL 500GR",
+    "marca": "MONTALBAN",
+    "precio": 2.08,
+    "stock": 55,
+    "modulo": ""
+  },
+  {
+    "id": 1789655333652,
     "producto": "MONTALBAN PUDIN CHOCOLATE 90GR",
     "marca": "MONTALBAN",
     "precio": 1.38,
     "stock": 548,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 466,
+    "id": 1789655333762,
     "producto": "MONTALBAN PUDIN FRESA 90GR",
     "marca": "MONTALBAN",
     "precio": 1.35,
     "stock": 507,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 467,
+    "id": 1789655334367,
     "producto": "MONTALBAN PUDIN VAINILLA 90GR",
     "marca": "MONTALBAN",
     "precio": 1.35,
     "stock": 480,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 468,
+    "id": 1789655334511,
     "producto": "MORDISQUITO CHOCOLATE 100G X 24",
     "marca": "GALLETAS PUIG",
     "precio": 1.17,
-    "stock": 5,
-    "modulo": "MobilVendor"
+    "stock": 3,
+    "modulo": ""
   },
   {
-    "id": 469,
+    "id": 1789655334143,
     "producto": "MORDISQUITO FRESA 100G X 24",
     "marca": "GALLETAS PUIG",
     "precio": 1.07,
     "stock": 5,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 470,
+    "id": 1789655334016,
     "producto": "MORDISQUITO VAINILLA 100G X 24",
     "marca": "GALLETAS PUIG",
     "precio": 1.07,
     "stock": 3,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 471,
+    "id": 1789655333733,
     "producto": "MORDISQUITO VAINILLA DISPLAY 600G 6X24",
     "marca": "GALLETAS PUIG",
     "precio": 6.53,
     "stock": 8,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 472,
+    "id": 1789655333926,
     "producto": "MORTADELA ESPECIAL AHUMADA BIGCERDY PZA APROX 2KG",
     "marca": "EMBUTIDOS BIGCERDY",
     "precio": 6.97,
-    "stock": 76,
-    "modulo": "MobilVendor"
+    "stock": 64,
+    "modulo": ""
   },
   {
-    "id": 473,
+    "id": 1789655334271,
     "producto": "MORTADELA ESPECIAL REB PESO APROX 2.3KG DEL CORRAL",
     "marca": "PROAGRO",
     "precio": 2.69,
     "stock": 4,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 474,
+    "id": 1789655333915,
     "producto": "MOSTAZA PREPARADA KAMPIST 24 X 190G",
     "marca": "PROCESADORA NATURALYST",
     "precio": 1.35,
     "stock": 112,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 475,
+    "id": 1789655334320,
     "producto": "MOSTAZA PREPARADA KIERO 24 X 190G",
     "marca": "PROCESADORA NATURALYST",
     "precio": 1.46,
-    "stock": 116,
-    "modulo": "MobilVendor"
+    "stock": 115,
+    "modulo": ""
   },
   {
-    "id": 476,
+    "id": 1789655333705,
     "producto": "MOSTAZA PREPARADA KIERO DOYPACK 24 X 200G",
     "marca": "PROCESADORA NATURALYST",
     "precio": 1.29,
     "stock": 120,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 477,
+    "id": 1789655334324,
     "producto": "NAN 3OPTIPROINFANT FORMULAHMO12X800GN1XP#",
     "marca": "NESTLE",
     "precio": 16.02,
     "stock": 2,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 478,
+    "id": 1789655333788,
     "producto": "NARANJADA KAITO 3X200ML",
     "marca": "PROCESADORA NATURALYST",
     "precio": 2.48,
     "stock": 115,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 479,
+    "id": 1789655334592,
     "producto": "NATUCHIPS AJO PEREJIL 140G",
     "marca": "PEPSICO",
     "precio": 2.94,
-    "stock": 48,
-    "modulo": "MobilVendor"
+    "stock": 45,
+    "modulo": ""
   },
   {
-    "id": 480,
+    "id": 1789655334508,
     "producto": "NDG GENIOSOP FERRED4 120V XP",
     "marca": "NESTLE",
     "precio": 179.22,
     "stock": 2,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 481,
+    "id": 1789655334369,
     "producto": "NECTAR DE DURAZNO KAITO 3X200ML",
     "marca": "PROCESADORA NATURALYST",
     "precio": 2.23,
-    "stock": 90,
-    "modulo": "MobilVendor"
+    "stock": 87,
+    "modulo": ""
   },
   {
-    "id": 482,
+    "id": 1789655333793,
     "producto": "NECTAR DE DURAZNO LA PASTOREÑA 1LT",
     "marca": "LA PASTOREÑA",
     "precio": 2.1,
     "stock": 1,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 483,
+    "id": 1789655333752,
     "producto": "NECTAR DE MANZANA KAITO 3X200 ML",
     "marca": "PROCESADORA NATURALYST",
     "precio": 2.23,
-    "stock": 89,
-    "modulo": "MobilVendor"
+    "stock": 85,
+    "modulo": ""
   },
   {
-    "id": 484,
+    "id": 1789655334598,
     "producto": "NECTAR DE PERA KAITO 3X200ML",
     "marca": "PROCESADORA NATURALYST",
     "precio": 2.23,
-    "stock": 96,
-    "modulo": "MobilVendor"
+    "stock": 81,
+    "modulo": ""
   },
   {
-    "id": 485,
+    "id": 1789655333984,
+    "producto": "NESCAFE CLASSIC DECAF TARRO 6X100G VE",
+    "marca": "NESTLE",
+    "precio": 8.48,
+    "stock": 30,
+    "modulo": ""
+  },
+  {
+    "id": 1789655333644,
     "producto": "NESCAFE CON LECHE 12X300G BR",
     "marca": "NESTLE",
     "precio": 10.24,
-    "stock": 24,
-    "modulo": "MobilVendor"
+    "stock": 12,
+    "modulo": ""
   },
   {
-    "id": 486,
+    "id": 1789655334505,
     "producto": "NESCAFE GOLD FIRMA TARRO 12X100G N5 AR",
     "marca": "NESTLE",
     "precio": 11.12,
-    "stock": 12,
-    "modulo": "MobilVendor"
+    "stock": 66,
+    "modulo": ""
   },
   {
-    "id": 487,
+    "id": 1789655333916,
     "producto": "NESCAFE TRADICION 25(12X10G) VE",
     "marca": "NESTLE",
     "precio": 0.85,
-    "stock": 930,
-    "modulo": "MobilVendor"
+    "stock": 924,
+    "modulo": ""
   },
   {
-    "id": 488,
+    "id": 1789655334442,
     "producto": "NESCAFE TRADICIÓN DAWN JAR 12X170G CO",
     "marca": "NESTLE",
     "precio": 14.33,
-    "stock": 95,
-    "modulo": "MobilVendor"
+    "stock": 81,
+    "modulo": ""
   },
   {
-    "id": 489,
+    "id": 1789655334029,
     "producto": "NESCAFE TRADICIÓN DAWN JAR 18X85G CO",
     "marca": "NESTLE",
     "precio": 7.2,
-    "stock": 13,
-    "modulo": "MobilVendor"
+    "stock": 4,
+    "modulo": ""
   },
   {
-    "id": 490,
+    "id": 1789655333746,
     "producto": "NESTEA DURAZNO 12X240G VE",
     "marca": "NESTLE",
     "precio": 3.64,
-    "stock": 41,
-    "modulo": "MobilVendor"
+    "stock": 24,
+    "modulo": ""
   },
   {
-    "id": 491,
+    "id": 1789655334456,
     "producto": "NESTEA DURAZNO 8X1KG N1 VE",
     "marca": "NESTLE PROFESSIONAL",
     "precio": 15.31,
-    "stock": 76,
-    "modulo": "MobilVendor"
+    "stock": 58,
+    "modulo": ""
   },
   {
-    "id": 492,
+    "id": 1789655333751,
     "producto": "NESTEA DURAZNO BOLSA 450 GR",
     "marca": "NESTLE",
     "precio": 7.02,
-    "stock": 111,
-    "modulo": "MobilVendor"
+    "stock": 107,
+    "modulo": ""
   },
   {
-    "id": 493,
+    "id": 1789655333893,
     "producto": "NESTEA DURAZNO DUOPACK 6(6X180G) VE",
     "marca": "NESTLE",
     "precio": 2.77,
     "stock": 36,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 494,
+    "id": 1789655334497,
     "producto": "NESTEA DURAZNO SOBRES 90 GR",
     "marca": "NESTLE",
     "precio": 1.54,
-    "stock": 2073,
-    "modulo": "MobilVendor"
+    "stock": 1732,
+    "modulo": ""
   },
   {
-    "id": 495,
+    "id": 1789655334378,
     "producto": "NESTEA LIMON 12X240G VE",
     "marca": "NESTLE",
     "precio": 3.64,
-    "stock": 77,
-    "modulo": "MobilVendor"
+    "stock": 29,
+    "modulo": ""
   },
   {
-    "id": 496,
+    "id": 1789655334215,
+    "producto": "NESTEA LIMÓN 8X1KG N1 VE",
+    "marca": "NESTLE PROFESSIONAL",
+    "precio": 15.31,
+    "stock": 55,
+    "modulo": ""
+  },
+  {
+    "id": 1789655333966,
     "producto": "NESTEA LIMON 8X520G VE",
     "marca": "NESTLE",
     "precio": 7.02,
     "stock": 55,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 497,
-    "producto": "NESTEA LIMÓN 8X1KG N1 VE",
-    "marca": "NESTLE PROFESSIONAL",
-    "precio": 15.31,
-    "stock": 72,
-    "modulo": "MobilVendor"
-  },
-  {
-    "id": 498,
+    "id": 1789655334357,
     "producto": "NESTEA LIMÓN BOLSA 450 GR",
     "marca": "NESTLE",
     "precio": 7.02,
-    "stock": 77,
-    "modulo": "MobilVendor"
+    "stock": 76,
+    "modulo": ""
   },
   {
-    "id": 499,
+    "id": 1789655334124,
     "producto": "NESTEA LIMÓN SOBRES 90 GR",
     "marca": "NESTLE",
     "precio": 1.54,
-    "stock": 1577,
-    "modulo": "MobilVendor"
+    "stock": 1284,
+    "modulo": ""
   },
   {
-    "id": 500,
+    "id": 1789655334437,
     "producto": "NESTEA PARCHITA 6(12X90G) VE",
     "marca": "NESTLE",
     "precio": 1.54,
-    "stock": 159,
-    "modulo": "MobilVendor"
+    "stock": 427,
+    "modulo": ""
   },
   {
-    "id": 501,
+    "id": 1789655333795,
     "producto": "NESTEA PARCHITA 8X450G VE",
     "marca": "NESTLE",
     "precio": 7.02,
     "stock": 26,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 502,
+    "id": 1789655334398,
+    "producto": "NESTLE CREMA DE LECHE 300G",
+    "marca": "NESTLE",
+    "precio": 3.94,
+    "stock": 849,
+    "modulo": ""
+  },
+  {
+    "id": 1789655334195,
     "producto": "NESTLE ESPECIALIDADES BOMBOM 30X251G XR",
     "marca": "NESTLE",
     "precio": 7.93,
-    "stock": 42,
-    "modulo": "MobilVendor"
+    "stock": 37,
+    "modulo": ""
   },
   {
-    "id": 503,
+    "id": 1789655333918,
     "producto": "NESTLE LECHE CONDENSADA 395G (E)",
     "marca": "NESTLE",
     "precio": 3.56,
-    "stock": 425,
-    "modulo": "MobilVendor"
+    "stock": 1003,
+    "modulo": ""
   },
   {
-    "id": 504,
+    "id": 1789655333888,
     "producto": "NESTLE OSCURO 75 ANIVERSARIO (10X100G)",
     "marca": "NESTLE",
     "precio": 39.01,
     "stock": 3,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 505,
-    "producto": "NESTLE SAVOY DUO CHOCOLATE (16X5X130G) VE",
-    "marca": "NESTLE",
-    "precio": 4.12,
-    "stock": 1,
-    "modulo": "MobilVendor"
-  },
-  {
-    "id": 506,
+    "id": 1789655334455,
     "producto": "NESTLE-SAVOY 75 ANIVERSARIO 12(10X100G) VE",
     "marca": "NESTLE",
     "precio": 3.36,
-    "stock": 440,
-    "modulo": "MobilVendor"
+    "stock": 410,
+    "modulo": ""
   },
   {
-    "id": 507,
+    "id": 1789655333693,
     "producto": "NESTLE-SAVOY BEBIDA ACHOC NPRO 6X1.6KGVE",
     "marca": "NESTLE PROFESSIONAL",
     "precio": 49.44,
     "stock": 1,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 508,
+    "id": 1789655334131,
     "producto": "NESTOGENO 1 L COMFORTISFILATA24X400GN5CO",
     "marca": "NESTLE",
     "precio": 11.5,
     "stock": 16,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 509,
+    "id": 1789655334381,
     "producto": "NESTOGENO 2 L COMFORTISFILATA24X400GN4CO",
     "marca": "NESTLE",
     "precio": 10.69,
     "stock": 48,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 510,
+    "id": 1789655334372,
     "producto": "NESTSVY DARK 75 ANIVERSARIO 12(10X100G) VE",
     "marca": "NESTLE",
     "precio": 3.36,
-    "stock": 80,
-    "modulo": "MobilVendor"
+    "stock": 240,
+    "modulo": ""
   },
   {
-    "id": 511,
+    "id": 1789655333904,
     "producto": "NESTUM BFDBACL PROB CI CHOC 24X270G N3XU",
     "marca": "NESTLE",
     "precio": 4.53,
     "stock": 25,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 512,
+    "id": 1789655334539,
     "producto": "NESTUM FE+ 3 CEREALES SACHET 80X50G VE",
     "marca": "NESTLE",
     "precio": 1.08,
-    "stock": 784,
-    "modulo": "MobilVendor"
+    "stock": 712,
+    "modulo": ""
   },
   {
-    "id": 513,
+    "id": 1789655333701,
     "producto": "NESTUM PBIO1 IRON+ 3 CEREALS 24X225G VE",
     "marca": "NESTLE",
     "precio": 4.12,
-    "stock": 1110,
-    "modulo": "MobilVendor"
+    "stock": 941,
+    "modulo": ""
   },
   {
-    "id": 514,
+    "id": 1789655334326,
     "producto": "NESTUM PBIO1 IRON+RICECORNBAG 24X225G VE",
     "marca": "NESTLE",
     "precio": 4.12,
-    "stock": 68,
-    "modulo": "MobilVendor"
+    "stock": 63,
+    "modulo": ""
   },
   {
-    "id": 515,
+    "id": 1789655334045,
     "producto": "NESTUM PREBIO 1 FE+ RI BAG 24X225G VE",
     "marca": "NESTLE",
     "precio": 4.12,
-    "stock": 120,
-    "modulo": "MobilVendor"
+    "stock": 117,
+    "modulo": ""
   },
   {
-    "id": 516,
+    "id": 1789655333666,
     "producto": "NESTUM PREBIO 1 FE+ WHEATHONEY24X225G VE",
     "marca": "NESTLE",
     "precio": 4.12,
-    "stock": 233,
-    "modulo": "MobilVendor"
+    "stock": 266,
+    "modulo": ""
   },
   {
-    "id": 517,
+    "id": 1789655333914,
     "producto": "NIDO FORTICRECE SACHET 12X800G VE #",
     "marca": "NESTLE",
     "precio": 14.89,
     "stock": 184,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 518,
+    "id": 1789655333775,
     "producto": "ORAL B CREMA DENTAL 100% 120 GR",
     "marca": "P&G",
     "precio": 4.58,
     "stock": 2,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 519,
+    "id": 1789655334436,
     "producto": "PALAS RECOGEDOR PLASTICAS DE MANO PEQUEÑA",
     "marca": "GARBI",
     "precio": 0.97,
-    "stock": 46,
-    "modulo": "Modulo B"
+    "stock": 42,
+    "modulo": ""
   },
   {
-    "id": 520,
+    "id": 1789655334587,
     "producto": "PALL MALL P20",
     "marca": "DISTRIBUIDORA BIGOTT",
     "precio": 0.76,
-    "stock": 260,
-    "modulo": "Modulo B"
+    "stock": 20,
+    "modulo": ""
   },
   {
-    "id": 521,
+    "id": 1789655334471,
     "producto": "PAMPERS PAÑALES CONFORT SEC G",
     "marca": "P&G",
     "precio": 8.12,
     "stock": 4,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 522,
+    "id": 1789655334022,
     "producto": "PAN AREPITAS DULCES 500GR",
     "marca": "ALIMENTOS POLAR",
     "precio": 2.81,
     "stock": 11,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 523,
-    "producto": "PAN DE SANDWICH AIKAS BLANCO 420 GR",
-    "marca": "CRUSTISSIMO",
-    "precio": 1.07,
-    "stock": 32,
-    "modulo": "MobilVendor"
-  },
-  {
-    "id": 524,
+    "id": 1789655334460,
     "producto": "PAN SEMILLAS NUTRITIVAS 500G",
     "marca": "ALIMENTOS POLAR",
     "precio": 2.81,
     "stock": 2,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 525,
+    "id": 1789655333736,
     "producto": "PANQUE CHOCOLATE PAQUETE 390G X 6",
     "marca": "ONCE-ONCE",
     "precio": 5.45,
-    "stock": 61,
-    "modulo": "MobilVendor"
+    "stock": 15,
+    "modulo": ""
   },
   {
-    "id": 526,
+    "id": 1789655334611,
     "producto": "PANQUE COCO 390G X 6",
     "marca": "ONCE-ONCE",
     "precio": 5.04,
-    "stock": 68,
-    "modulo": "MobilVendor"
+    "stock": 54,
+    "modulo": ""
   },
   {
-    "id": 527,
+    "id": 1789655334444,
     "producto": "PANQUE MINI CHOCOLATE 30G X 6",
     "marca": "ONCE-ONCE",
     "precio": 2.78,
-    "stock": 23,
-    "modulo": "MobilVendor"
+    "stock": 21,
+    "modulo": ""
   },
   {
-    "id": 528,
+    "id": 1789655334119,
     "producto": "PANQUE MINI VAINILLA PAQUETE 6X30GR",
     "marca": "ONCE-ONCE",
     "precio": 2.59,
-    "stock": 105,
-    "modulo": "MobilVendor"
+    "stock": 104,
+    "modulo": ""
   },
   {
-    "id": 529,
+    "id": 1789655333936,
     "producto": "PANQUE VAINILLA PAQUETE 390G X 6",
     "marca": "ONCE-ONCE",
     "precio": 5.03,
-    "stock": 83,
-    "modulo": "MobilVendor"
+    "stock": 58,
+    "modulo": ""
   },
   {
-    "id": 530,
+    "id": 1789655334101,
     "producto": "PANTENE ACOND BAMBU 400CC 12UND",
     "marca": "P&G",
     "precio": 9.35,
     "stock": 52,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 531,
+    "id": 1789655334562,
     "producto": "PANTENE ACOND RESTAURACION 400CC",
     "marca": "P&G",
     "precio": 9.35,
-    "stock": 40,
-    "modulo": "MobilVendor"
+    "stock": 39,
+    "modulo": ""
   },
   {
-    "id": 532,
+    "id": 1789655334411,
     "producto": "PAPEL DE ALUMINIO UNICO 6MTS X 30CM",
     "marca": "RAYMOND FOIL",
     "precio": 1.2,
-    "stock": 200,
-    "modulo": "Modulo B"
+    "stock": 172,
+    "modulo": ""
   },
   {
-    "id": 533,
+    "id": 1789655334134,
     "producto": "PAPEL HIG ROSAL PLUS 180H 4X12",
     "marca": "PAVECA",
     "precio": 0.78,
-    "stock": 1194,
-    "modulo": "MobilVendor"
+    "stock": 1098,
+    "modulo": ""
   },
   {
-    "id": 534,
+    "id": 1789655334124,
     "producto": "PAPEL HIG ROSAL PLUS 215H 4X12",
     "marca": "PAVECA",
     "precio": 0.92,
-    "stock": 891,
-    "modulo": "MobilVendor"
+    "stock": 868,
+    "modulo": ""
   },
   {
-    "id": 535,
+    "id": 1789655334293,
     "producto": "PAPEL HIG ROSAL PLUS 300 H 4PZ",
     "marca": "PAVECA",
     "precio": 1.68,
-    "stock": 40,
-    "modulo": "MobilVendor"
+    "stock": 30,
+    "modulo": ""
   },
   {
-    "id": 536,
+    "id": 1789655334654,
     "producto": "PAPEL HIG ROSAL PLUS 400H 2P ACOLCHA",
     "marca": "PAVECA",
     "precio": 2.23,
     "stock": 6,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 537,
+    "id": 1789655333742,
     "producto": "PAPEL HIG ROSAL PLUS 600H 12X4",
     "marca": "PAVECA",
     "precio": 3.22,
     "stock": 1,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 538,
+    "id": 1789655334610,
     "producto": "PAPEL HIGIENICO ALISOF 215H 4ROLLOS",
     "marca": "ALIVE",
     "precio": 1.03,
-    "stock": 934,
-    "modulo": "Modulo B"
+    "stock": 931,
+    "modulo": ""
   },
   {
-    "id": 539,
+    "id": 1789655333981,
     "producto": "PARAMO AGUA POTABLE PET 24X330ML",
     "marca": "CARABOBO",
     "precio": 8.27,
     "stock": 2,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 540,
-    "producto": "PARISIENNE CREMA 25% UHT 40X200ML",
-    "marca": "CARABOBO",
-    "precio": 2.53,
-    "stock": 2,
-    "modulo": "MobilVendor"
-  },
-  {
-    "id": 541,
+    "id": 1789655334192,
     "producto": "PASSION NOIR 56% DISPLAY 12X32 GR",
     "marca": "ST. MORITZ",
     "precio": 17.28,
-    "stock": 15,
-    "modulo": "Modulo B"
+    "stock": 13,
+    "modulo": ""
   },
   {
-    "id": 542,
+    "id": 1789655333683,
     "producto": "PASSION NOIR 70% DISPLAY 12X32 GR",
     "marca": "ST. MORITZ",
     "precio": 17.28,
-    "stock": 25,
-    "modulo": "Modulo B"
+    "stock": 22,
+    "modulo": ""
   },
   {
-    "id": 543,
+    "id": 1789655334215,
     "producto": "PASTA DE TOMATE DOBLE CONCENTRADA KIERO DOYPACK 200G",
     "marca": "PROCESADORA NATURALYST",
     "precio": 1.5,
-    "stock": 44,
-    "modulo": "MobilVendor"
+    "stock": 39,
+    "modulo": ""
   },
   {
-    "id": 544,
+    "id": 1789655333898,
     "producto": "PASTA DE TOMATE LATA 350G TIGO",
     "marca": "TIGO",
     "precio": 2.3,
     "stock": 6,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 545,
+    "id": 1789655333824,
     "producto": "PASTA DE TOMATE SIMPLE KAMPIST 12 X 500G",
     "marca": "PROCESADORA NATURALYST",
     "precio": 3.74,
     "stock": 24,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 546,
+    "id": 1789655334323,
     "producto": "PASTAS SINDONI CARACOL 500G X 12",
     "marca": "REPRESENTACIONES DIPROPAL",
     "precio": 0.95,
-    "stock": 107,
-    "modulo": "MobilVendor"
+    "stock": 80,
+    "modulo": ""
   },
   {
-    "id": 547,
+    "id": 1789655334099,
     "producto": "PASTAS SINDONI DITALINI 1KG X 12",
     "marca": "REPRESENTACIONES DIPROPAL",
     "precio": 1.76,
     "stock": 127,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 548,
+    "id": 1789655334113,
     "producto": "PASTAS SINDONI ESPIRAL 1KG X 12",
     "marca": "REPRESENTACIONES DIPROPAL",
     "precio": 1.76,
     "stock": 404,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 549,
+    "id": 1789655334412,
     "producto": "PASTAS SINDONI ESPIRAL 500GR X 12",
     "marca": "REPRESENTACIONES DIPROPAL",
     "precio": 0.95,
     "stock": 165,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 550,
+    "id": 1789655333766,
     "producto": "PASTAS SINDONI MACARRON 500GR X 12",
     "marca": "REPRESENTACIONES DIPROPAL",
     "precio": 0.95,
     "stock": 46,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 551,
+    "id": 1789655333779,
     "producto": "PASTAS SINDONI PLUMA 500GR X 12",
     "marca": "REPRESENTACIONES DIPROPAL",
     "precio": 0.95,
-    "stock": 25,
-    "modulo": "MobilVendor"
+    "stock": 11,
+    "modulo": ""
   },
   {
-    "id": 552,
+    "id": 1789655334372,
     "producto": "PASTAS SINDONI PLUMITA 1KG X 12",
     "marca": "REPRESENTACIONES DIPROPAL",
     "precio": 1.76,
-    "stock": 38,
-    "modulo": "MobilVendor"
+    "stock": 33,
+    "modulo": ""
   },
   {
-    "id": 553,
+    "id": 1789655333748,
     "producto": "PASTICHO NORMAL RONCO 1/4 KG (E)",
     "marca": "GRUPO MIMESA",
-    "precio": 1.2,
-    "stock": 77,
-    "modulo": "MobilVendor"
+    "precio": 1.21,
+    "stock": 209,
+    "modulo": ""
   },
   {
-    "id": 554,
+    "id": 1789655334414,
     "producto": "PASTOREÑA LECHE DESCREMADA 1LT X 12UNI",
     "marca": "LA PASTOREÑA",
     "precio": 2.37,
     "stock": 47,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 555,
+    "id": 1789655334189,
     "producto": "PECAS DISPLAY 192GRS",
     "marca": "TANRICO",
     "precio": 3.34,
     "stock": 23,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 556,
+    "id": 1789655334183,
     "producto": "PEGA LOCA BIC UND",
     "marca": "DISTRIBUIDORA BIGOTT",
     "precio": 1.01,
     "stock": 1396,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 557,
+    "id": 1789655334558,
     "producto": "PEPITO 180 GR",
     "marca": "PEPSICO",
     "precio": 2.35,
-    "stock": 4,
-    "modulo": "MobilVendor"
+    "stock": 31,
+    "modulo": ""
   },
   {
-    "id": 558,
+    "id": 1789655334654,
     "producto": "PEPITO 25 GRAMOS X 12 UND",
     "marca": "PEPSICO",
     "precio": 0.57,
-    "stock": 877,
-    "modulo": "Ambos Modulos"
+    "stock": 1782,
+    "modulo": ""
   },
   {
-    "id": 559,
+    "id": 1789655334670,
     "producto": "PEPITO 80 GRS",
     "marca": "PEPSICO",
     "precio": 1.11,
-    "stock": 65,
-    "modulo": "MobilVendor"
+    "stock": 1641,
+    "modulo": ""
   },
   {
-    "id": 560,
+    "id": 1789655334416,
     "producto": "PEPITO 80GRS",
     "marca": "PEPSICO",
     "precio": 1.11,
-    "stock": 360,
-    "modulo": "Modulo B"
+    "stock": 340,
+    "modulo": ""
   },
   {
-    "id": 561,
+    "id": 1789655334483,
     "producto": "PEPITO MUNDO MARINO 12X25GR",
     "marca": "PEPSICO",
     "precio": 0.57,
-    "stock": 273,
-    "modulo": "MobilVendor"
+    "stock": 669,
+    "modulo": ""
   },
   {
-    "id": 562,
-    "producto": "PEPITO MUNDO MARINO 80G",
-    "marca": "PEPSICO",
-    "precio": 1.1,
-    "stock": 120,
-    "modulo": "MobilVendor"
-  },
-  {
-    "id": 563,
+    "id": 1789655333804,
     "producto": "PEPITONA SALSA PICANTE LOS ROQUES 170G",
     "marca": "BUENAVENTURA",
     "precio": 1.68,
-    "stock": 251,
-    "modulo": "MobilVendor"
+    "stock": 209,
+    "modulo": ""
   },
   {
-    "id": 564,
+    "id": 1789655334653,
     "producto": "PEPPERONI BIGCERDY PZA APROX 800GRS",
     "marca": "EMBUTIDOS BIGCERDY",
     "precio": 9.67,
     "stock": 32,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 565,
-    "producto": "PEPSI RET 350 ML X 24UN",
-    "marca": "PEPSI-COLA",
-    "precio": 0.56,
-    "stock": 1,
-    "modulo": "MobilVendor"
-  },
-  {
-    "id": 566,
+    "id": 1789655334457,
     "producto": "PEROS DETERGENTE EN POLVO LAVANDA 450G",
     "marca": "DIMASSI",
     "precio": 1.24,
     "stock": 150,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 567,
+    "id": 1789655333998,
     "producto": "PEROS DETERGENTE EN POLVO LAVANDA 900G",
     "marca": "DIMASSI",
     "precio": 2.2,
     "stock": 21,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 568,
+    "id": 1789655334086,
     "producto": "PEROS DETERGENTE EN POLVO LIMON 450G",
     "marca": "DIMASSI",
     "precio": 1.24,
     "stock": 157,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 569,
+    "id": 1789655334020,
     "producto": "PEROS DETERGENTE EN POLVO LIMON 900G",
     "marca": "DIMASSI",
     "precio": 2.2,
     "stock": 36,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 570,
+    "id": 1789655334027,
     "producto": "PEROS DETERGENTE EN POLVO ROSAS 450G",
     "marca": "DIMASSI",
     "precio": 1.24,
     "stock": 157,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 571,
+    "id": 1789655333921,
     "producto": "PEROS DETERGENTE EN POLVO TROPICAL 450G",
     "marca": "DIMASSI",
     "precio": 1.24,
     "stock": 160,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 572,
+    "id": 1789655334487,
     "producto": "PEROS DETERGENTE EN POLVO TROPICAL 900G",
     "marca": "DIMASSI",
     "precio": 2.2,
-    "stock": 36,
-    "modulo": "MobilVendor"
+    "stock": 26,
+    "modulo": ""
   },
   {
-    "id": 573,
+    "id": 1789655334077,
     "producto": "PEROS LAVAPLATOS LIQUIDO LIMON 500G",
     "marca": "DIMASSI",
     "precio": 2.05,
     "stock": 1,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 574,
+    "id": 1789655333696,
     "producto": "PEROS LAVAPLATOS LIQUIDO LIMON 750G",
     "marca": "DIMASSI",
     "precio": 3.06,
-    "stock": 24,
-    "modulo": "MobilVendor"
+    "stock": 21,
+    "modulo": ""
   },
   {
-    "id": 575,
+    "id": 1789655333830,
     "producto": "PIZZA RICA QUESO MOZZARELLA",
     "marca": "LACTEOS DANNY",
     "precio": 10.62,
-    "stock": 234,
-    "modulo": "Modulo B"
+    "stock": 14,
+    "modulo": ""
   },
   {
-    "id": 576,
+    "id": 1789655334135,
     "producto": "PLATANITOS SAL 250G",
     "marca": "PEPSICO",
     "precio": 4.16,
-    "stock": 17,
-    "modulo": "MobilVendor"
+    "stock": 11,
+    "modulo": ""
   },
   {
-    "id": 577,
+    "id": 1789655334690,
     "producto": "PLATANO MADURITO 150 GRS",
     "marca": "PEPSICO",
     "precio": 4.15,
-    "stock": 23,
-    "modulo": "MobilVendor"
+    "stock": 76,
+    "modulo": ""
   },
   {
-    "id": 578,
+    "id": 1789655334329,
     "producto": "PLATANO NATURAL 150 GRS",
     "marca": "PEPSICO",
     "precio": 2.94,
-    "stock": 24,
-    "modulo": "MobilVendor"
+    "stock": 79,
+    "modulo": ""
   },
   {
-    "id": 579,
+    "id": 1789655334237,
     "producto": "PLATANO NATURAL 42 GR X 12 UND",
     "marca": "PEPSICO",
     "precio": 0.97,
-    "stock": 168,
-    "modulo": "MobilVendor"
+    "stock": 720,
+    "modulo": ""
   },
   {
-    "id": 580,
+    "id": 1789655334337,
     "producto": "PLATANO NATURAL 80 GRS",
     "marca": "PEPSICO",
     "precio": 1.67,
-    "stock": 126,
-    "modulo": "Ambos Modulos"
+    "stock": 117,
+    "modulo": ""
   },
   {
-    "id": 581,
+    "id": 1789655334371,
     "producto": "PLATANO ONDULADO 145 GRS",
     "marca": "PEPSICO",
     "precio": 3.06,
-    "stock": 16,
-    "modulo": "MobilVendor"
+    "stock": 15,
+    "modulo": ""
   },
   {
-    "id": 582,
+    "id": 1789655334094,
     "producto": "PNGPNG CHOCOLATE 16(16X30G) VE",
     "marca": "NESTLE",
     "precio": 1.29,
-    "stock": 960,
-    "modulo": "MobilVendor"
+    "stock": 720,
+    "modulo": ""
   },
   {
-    "id": 583,
+    "id": 1789655334244,
     "producto": "PONQUECITOS 600G X 24UND",
     "marca": "ONCE-ONCE",
     "precio": 10.38,
     "stock": 3,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 584,
+    "id": 1789655334521,
     "producto": "PONQUECITOS 8 X 200GR",
     "marca": "ONCE-ONCE",
     "precio": 3.76,
-    "stock": 34,
-    "modulo": "MobilVendor"
+    "stock": 23,
+    "modulo": ""
   },
   {
-    "id": 585,
+    "id": 1789655334104,
     "producto": "PONQUECITOS RIFEL MARMOL 24 X (6 X 30GR)",
     "marca": "REPRESENTACIONES DIPROPAL",
     "precio": 3.83,
-    "stock": 32,
-    "modulo": "MobilVendor"
+    "stock": 28,
+    "modulo": ""
   },
   {
-    "id": 586,
+    "id": 1789655333710,
     "producto": "PONQUECITOS RIFEL VAINILLA 24 X(6 X 30GR)",
     "marca": "REPRESENTACIONES DIPROPAL",
     "precio": 3.83,
     "stock": 42,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 587,
+    "id": 1789655334118,
     "producto": "POP 35",
     "marca": "BIC",
     "precio": 0,
     "stock": 959,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 588,
+    "id": 1789655333736,
     "producto": "POWER X SABOR ORIGINAL CAJA 15 UND 400ML",
     "marca": "GLUP",
     "precio": 5.42,
-    "stock": 59,
-    "modulo": "Modulo B"
+    "stock": 57,
+    "modulo": ""
   },
   {
-    "id": 589,
+    "id": 1789655334588,
     "producto": "PREPARADO DE MAYONESA KIERO 24 X 180G",
     "marca": "PROCESADORA NATURALYST",
     "precio": 0.78,
-    "stock": 474,
-    "modulo": "MobilVendor"
+    "stock": 473,
+    "modulo": ""
   },
   {
-    "id": 590,
+    "id": 1789655334066,
     "producto": "PRIMOR ARROZ CLASICO SUPERIOR 900GRS",
     "marca": "ALIMENTOS POLAR",
     "precio": 1.75,
     "stock": 2,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 591,
+    "id": 1789655334105,
     "producto": "PRIMOR EXTRA ESPECIAL DEDALES 1 KG (E)",
     "marca": "ALIMENTOS POLAR",
     "precio": 2.16,
     "stock": 37,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 592,
+    "id": 1789655334603,
     "producto": "PRIMOR EXTRA ESPECIAL PLUMITAS 1 KG (E)",
     "marca": "ALIMENTOS POLAR",
     "precio": 2.16,
     "stock": 52,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 593,
+    "id": 1789655333833,
     "producto": "PRIMOR EXTRA ESPECIAL TORNILLOS 1KG (E)",
     "marca": "ALIMENTOS POLAR",
     "precio": 2.16,
     "stock": 8,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 594,
+    "id": 1789655334474,
     "producto": "PRIMOR PASTA CORTA DEDALES 500GR",
     "marca": "ALIMENTOS POLAR",
     "precio": 1.19,
-    "stock": 38,
-    "modulo": "MobilVendor"
+    "stock": 35,
+    "modulo": ""
   },
   {
-    "id": 595,
+    "id": 1789655334683,
     "producto": "PRIMOR PASTA L SPAGUETTI 1K (E)",
     "marca": "ALIMENTOS POLAR",
     "precio": 2.16,
     "stock": 38,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 596,
+    "id": 1789655333931,
     "producto": "PRIMOR PASTA LARGA ESPAGUETT 500 GR (E)",
     "marca": "ALIMENTOS POLAR",
     "precio": 1.09,
     "stock": 54,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 597,
+    "id": 1789655333969,
     "producto": "PROTECTOR DIARIO ALIVE 20PCS",
     "marca": "ALIVE",
     "precio": 1.38,
-    "stock": 585,
-    "modulo": "Modulo B"
+    "stock": 555,
+    "modulo": ""
   },
   {
-    "id": 598,
+    "id": 1789655334147,
     "producto": "PTN CREMA PEINAR COLAGENO 300CC",
     "marca": "P&G",
     "precio": 8.05,
     "stock": 54,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 599,
+    "id": 1789655334067,
     "producto": "QUESO AMARILLO LACTEOS DANNY",
     "marca": "LACTEOS DANNY",
     "precio": 11.26,
     "stock": 9,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 600,
+    "id": 1789655334460,
     "producto": "QUESO AMARILLO SEMIDURO TIPO GOUDA PARDITO",
     "marca": "CASA BLANCA",
     "precio": 13.2,
-    "stock": 183,
-    "modulo": "Ambos Modulos"
+    "stock": 118,
+    "modulo": ""
   },
   {
-    "id": 601,
+    "id": 1789655333932,
     "producto": "QUESO CREMA 10 KG SAN MIGUEL",
     "marca": "SAN MIGUEL",
     "precio": 93.3,
-    "stock": 6,
-    "modulo": "Modulo B"
+    "stock": 4,
+    "modulo": ""
   },
   {
-    "id": 602,
+    "id": 1789655334098,
     "producto": "QUESO CREMA UPACA 5KG",
     "marca": "UPACA",
     "precio": 63.8,
     "stock": 18,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 603,
+    "id": 1789655333838,
+    "producto": "QUESO DURO MERIDEÑO",
+    "marca": "LACTEOS DANNY",
+    "precio": 6.36,
+    "stock": 4,
+    "modulo": ""
+  },
+  {
+    "id": 1789655333824,
+    "producto": "QUESO EL CIERVO 140G",
+    "marca": "LACTALIS",
+    "precio": 1.63,
+    "stock": 89,
+    "modulo": ""
+  },
+  {
+    "id": 1789655334230,
+    "producto": "QUESO ESPECIAL LOS FRAILES PZA 2.5KG APROX",
+    "marca": "FLOR DE ARAGUA",
+    "precio": 17.16,
+    "stock": 54,
+    "modulo": ""
+  },
+  {
+    "id": 1789655334243,
     "producto": "QUESO MANCHEGO CASTILLA PZA 2.8KG",
     "marca": "FLOR DE ARAGUA",
     "precio": 40.9,
     "stock": 15,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 604,
+    "id": 1789655334695,
     "producto": "QUESO MONTESANO RALLADO BOLSA 5KG",
     "marca": "FLOR DE ARAGUA",
     "precio": 32.49,
     "stock": 30,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 605,
+    "id": 1789655333766,
+    "producto": "QUESO MUNSTER LOS FRAILES PZA 2.5KG",
+    "marca": "FLOR DE ARAGUA",
+    "precio": 22.03,
+    "stock": 78,
+    "modulo": ""
+  },
+  {
+    "id": 1789655333814,
     "producto": "QUESO PARMESANO MONTESANO PZA 2.57KG",
     "marca": "FLOR DE ARAGUA",
     "precio": 31.78,
-    "stock": 13,
-    "modulo": "MobilVendor"
+    "stock": 7,
+    "modulo": ""
   },
   {
-    "id": 606,
+    "id": 1789655334460,
     "producto": "QUESO PASTEURIZADO LACTEOS DANNY",
     "marca": "LACTEOS DANNY",
     "precio": 11.44,
     "stock": 28,
-    "modulo": "Ambos Modulos"
+    "modulo": ""
   },
   {
-    "id": 607,
+    "id": 1789655334435,
     "producto": "QUESO PASTEURIZADO PARDITO",
     "marca": "CASA BLANCA",
     "precio": 10.8,
-    "stock": 233,
-    "modulo": "Modulo B"
+    "stock": 226,
+    "modulo": ""
   },
   {
-    "id": 608,
+    "id": 1789655334094,
     "producto": "QUESO PECORINO C/P RALLADO TOSCANO BOLSA 5KG",
     "marca": "FLOR DE ARAGUA",
     "precio": 33,
     "stock": 10,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 609,
+    "id": 1789655334113,
     "producto": "QUESO PECORINO C/P TOSCANO PZA 1.6KG",
     "marca": "FLOR DE ARAGUA",
     "precio": 33.11,
     "stock": 4,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 610,
+    "id": 1789655333943,
     "producto": "QUESO PECORINO MONTESANO PZA 2KG",
     "marca": "FLOR DE ARAGUA",
     "precio": 30.23,
     "stock": 11,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 611,
+    "id": 1789655334209,
     "producto": "QUESO PECORINO RALLADO TOSCANO BOLSA 100GRS",
     "marca": "FLOR DE ARAGUA",
     "precio": 3.88,
-    "stock": 109,
-    "modulo": "MobilVendor"
+    "stock": 88,
+    "modulo": ""
   },
   {
-    "id": 612,
+    "id": 1789655333738,
     "producto": "QUESO PECORINO RALLADO TOSCANO BOLSA 5KG",
     "marca": "FLOR DE ARAGUA",
     "precio": 38.13,
     "stock": 70,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 613,
+    "id": 1789655334300,
     "producto": "QUESO PECORINO S/P CUÑA 240GRS APROX",
     "marca": "LACTALIS",
     "precio": 31.17,
     "stock": 0,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 614,
+    "id": 1789655334440,
     "producto": "QUESO PECORINO S/P TOSCANO PZA 1.6KG",
     "marca": "FLOR DE ARAGUA",
-    "precio": 37.54,
-    "stock": 2,
-    "modulo": "MobilVendor"
+    "precio": 32.09,
+    "stock": 23,
+    "modulo": ""
   },
   {
-    "id": 615,
+    "id": 1789655334143,
     "producto": "RAQUETY PICANTE 12X18GR",
     "marca": "PEPSICO",
     "precio": 0.43,
-    "stock": 945,
-    "modulo": "MobilVendor"
+    "stock": 654,
+    "modulo": ""
   },
   {
-    "id": 616,
-    "producto": "RAQUETY PICANTE 36 GR",
+    "id": 1789655334353,
+    "producto": "RAQUETY QUESO 12X18GR",
     "marca": "PEPSICO",
-    "precio": 0.77,
-    "stock": 140,
-    "modulo": "MobilVendor"
+    "precio": 0.43,
+    "stock": 959,
+    "modulo": ""
   },
   {
-    "id": 617,
+    "id": 1789655333945,
     "producto": "RAQUETY QUESO 36G",
     "marca": "PEPSICO",
     "precio": 0.77,
-    "stock": 591,
-    "modulo": "MobilVendor"
+    "stock": 594,
+    "modulo": ""
   },
   {
-    "id": 618,
+    "id": 1789655334330,
     "producto": "RASTRILLO PLASTICO 19 UÑAS",
     "marca": "GARBI",
     "precio": 1.35,
     "stock": 29,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 619,
+    "id": 1789655334556,
     "producto": "RELLENITOS RIFEL VAIN/CHOCOLAT 24 X(6 X 35G)",
     "marca": "REPRESENTACIONES DIPROPAL",
     "precio": 4.3,
-    "stock": 48,
-    "modulo": "MobilVendor"
+    "stock": 42,
+    "modulo": ""
   },
   {
-    "id": 620,
+    "id": 1789655334173,
     "producto": "REPOSTERIA CHOCOLATE BLANCO TAB 1KG",
     "marca": "ST. MORITZ",
     "precio": 17.64,
     "stock": 9,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 621,
+    "id": 1789655334130,
     "producto": "REPOSTERIA CHOCOLATE LECHE TAB 1KG",
     "marca": "ST. MORITZ",
     "precio": 17.64,
     "stock": 8,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 622,
+    "id": 1789655334630,
     "producto": "REPOSTERIA COBERTURA BITTER TAB 1KG",
     "marca": "ST. MORITZ",
     "precio": 15.48,
     "stock": 10,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 623,
+    "id": 1789655334299,
     "producto": "REPOSTERIA COBERTURA BLANCA TAB 1KG",
     "marca": "ST. MORITZ",
     "precio": 15.48,
     "stock": 10,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 624,
+    "id": 1789655334163,
     "producto": "REPOSTERIA COBERTURA LECHE TAB 1KG",
     "marca": "ST. MORITZ",
     "precio": 15.48,
     "stock": 10,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 625,
+    "id": 1789655334524,
     "producto": "REPOSTERIA GOTAS 3500 CHOCOLATE BITTER 500GR",
     "marca": "ST. MORITZ",
     "precio": 9.54,
     "stock": 8,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 626,
+    "id": 1789655333995,
     "producto": "REPOSTERIA GOTAS 3500 CHOCOLATE LECHE 500GR",
     "marca": "ST. MORITZ",
     "precio": 8.82,
     "stock": 4,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 627,
+    "id": 1789655333954,
     "producto": "REPOSTERIA GOTAS 3500 COBERTURA BITTER 500GR",
     "marca": "ST. MORITZ",
     "precio": 7.74,
     "stock": 7,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 628,
+    "id": 1789655334648,
     "producto": "REPOSTERIA GOTAS 3500 COBERTURA LECHE 500GR",
     "marca": "ST. MORITZ",
     "precio": 7.74,
     "stock": 8,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 629,
+    "id": 1789655333834,
     "producto": "REPOSTERIA LLUVIA DE CHOCOLATE BOLSA 1KG",
     "marca": "ST. MORITZ",
     "precio": 10.56,
     "stock": 9,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 630,
+    "id": 1789655334590,
     "producto": "REXONA DEO MEN TUBO CLINICAL 30G",
     "marca": "DIMASSI",
     "precio": 2.07,
-    "stock": 28,
-    "modulo": "MobilVendor"
+    "stock": 15,
+    "modulo": ""
   },
   {
-    "id": 631,
+    "id": 1789655333919,
     "producto": "RICA CHICHA FORTIFICADO SOBRE 24X400GR",
     "marca": "NESTLE",
     "precio": 4.52,
     "stock": 56,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 632,
+    "id": 1789655334237,
     "producto": "RIKITI CHOCO MANI (12X30G)",
     "marca": "NESTLE",
     "precio": 1.23,
-    "stock": 2856,
-    "modulo": "MobilVendor"
+    "stock": 6548,
+    "modulo": ""
   },
   {
-    "id": 633,
+    "id": 1789655333834,
     "producto": "RIKITI CHOCO MANI (5X130G)",
     "marca": "NESTLE",
     "precio": 4.12,
-    "stock": 151,
-    "modulo": "MobilVendor"
+    "stock": 250,
+    "modulo": ""
   },
   {
-    "id": 634,
+    "id": 1789655333925,
     "producto": "RONCO C JET CARACOL 500G",
     "marca": "GRUPO MIMESA",
     "precio": 0.98,
-    "stock": 396,
-    "modulo": "MobilVendor"
+    "stock": 367,
+    "modulo": ""
   },
   {
-    "id": 635,
+    "id": 1789655333814,
     "producto": "RONCO E CODO JET 500GR SIN CORRUGADO",
     "marca": "GRUPO MIMESA",
     "precio": 0.98,
-    "stock": 63,
-    "modulo": "MobilVendor"
+    "stock": 51,
+    "modulo": ""
   },
   {
-    "id": 636,
+    "id": 1789655334733,
     "producto": "RONCO E RIGATON JET 500GR SIN CORRUGADO (E)",
     "marca": "GRUPO MIMESA",
     "precio": 0.98,
-    "stock": 24,
-    "modulo": "MobilVendor"
+    "stock": 4,
+    "modulo": ""
   },
   {
-    "id": 637,
+    "id": 1789655334285,
     "producto": "RONCO PREMIUM DEDAL 1KG (E)",
     "marca": "GRUPO MIMESA",
     "precio": 1.96,
-    "stock": 34,
-    "modulo": "MobilVendor"
+    "stock": 133,
+    "modulo": ""
   },
   {
-    "id": 638,
+    "id": 1789655334005,
     "producto": "RONCO PREMIUM LINGUINI 1KG (E)",
     "marca": "GRUPO MIMESA",
     "precio": 2.04,
-    "stock": 7,
-    "modulo": "MobilVendor"
+    "stock": 113,
+    "modulo": ""
   },
   {
-    "id": 639,
+    "id": 1789655334405,
     "producto": "RONCO PREMIUM PLUMA 1KG",
     "marca": "GRUPO MIMESA",
     "precio": 1.92,
-    "stock": 58,
-    "modulo": "MobilVendor"
+    "stock": 33,
+    "modulo": ""
   },
   {
-    "id": 640,
+    "id": 1789655334617,
+    "producto": "RONCO PREMIUM TORNILLO 1KG (E)",
+    "marca": "GRUPO MIMESA",
+    "precio": 1.96,
+    "stock": 99,
+    "modulo": ""
+  },
+  {
+    "id": 1789655334383,
+    "producto": "RONCO PREMIUM VERMICELLI 1KG (E)",
+    "marca": "GRUPO MIMESA",
+    "precio": 1.92,
+    "stock": 108,
+    "modulo": ""
+  },
+  {
+    "id": 1789655333949,
     "producto": "RONCO VERMICELLI JET 500GR (E)",
     "marca": "GRUPO MIMESA",
     "precio": 0.98,
-    "stock": 66,
-    "modulo": "MobilVendor"
+    "stock": 22,
+    "modulo": ""
   },
   {
-    "id": 641,
+    "id": 1789655334209,
+    "producto": "RUFFLES ORIGINAL 125 GRS",
+    "marca": "PEPSICO",
+    "precio": 3.33,
+    "stock": 314,
+    "modulo": ""
+  },
+  {
+    "id": 1789655334720,
+    "producto": "RUFFLES ORIGINAL 300 GRS",
+    "marca": "PEPSICO",
+    "precio": 6.85,
+    "stock": 8,
+    "modulo": ""
+  },
+  {
+    "id": 1789655334367,
+    "producto": "RUFFLES ORIGINAL 36GR X 12 UND",
+    "marca": "PEPSICO",
+    "precio": 1,
+    "stock": 384,
+    "modulo": ""
+  },
+  {
+    "id": 1789655334492,
     "producto": "RUFFLES QUESO 125 GRS",
     "marca": "PEPSICO",
     "precio": 3.33,
-    "stock": 602,
-    "modulo": "MobilVendor"
+    "stock": 463,
+    "modulo": ""
   },
   {
-    "id": 642,
-    "producto": "RUFFLES QUESO 300 GRS",
+    "id": 1789655334157,
+    "producto": "RUFFLES QUESO 36GR X 12 UND",
     "marca": "PEPSICO",
-    "precio": 6.98,
-    "stock": 1,
-    "modulo": "MobilVendor"
+    "precio": 0.99,
+    "stock": 903,
+    "modulo": ""
   },
   {
-    "id": 643,
+    "id": 1789655333865,
     "producto": "SALAMI C PEPPERONI",
     "marca": "LPRADO",
     "precio": 8.89,
     "stock": 0,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 644,
+    "id": 1789655334274,
     "producto": "SALCHICHA WIENER TALLA L 7 UND",
     "marca": "LPRADO",
     "precio": 2.64,
     "stock": 10,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 645,
+    "id": 1789655334002,
     "producto": "SALCHICHA WIENER TALLA M 11 UND",
     "marca": "LPRADO",
     "precio": 2.72,
-    "stock": 2,
-    "modulo": "Modulo B"
+    "stock": 1,
+    "modulo": ""
   },
   {
-    "id": 646,
+    "id": 1789655333972,
     "producto": "SALCHIPRADO VIENA DE 22 UND",
     "marca": "LPRADO",
     "precio": 4.49,
     "stock": 11,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 647,
+    "id": 1789655334028,
     "producto": "SALSA A BASE DE TOMATE KAMPIST 385G",
     "marca": "PROCESADORA NATURALYST",
     "precio": 1.34,
-    "stock": 2266,
-    "modulo": "MobilVendor"
+    "stock": 2263,
+    "modulo": ""
   },
   {
-    "id": 648,
+    "id": 1789655334576,
     "producto": "SALSA A BASE DE TOMATE KAMPIST 4 X 4.2 KG",
     "marca": "PROCESADORA NATURALYST",
     "precio": 13.2,
-    "stock": 20,
-    "modulo": "MobilVendor"
+    "stock": 19,
+    "modulo": ""
   },
   {
-    "id": 649,
+    "id": 1789655334431,
     "producto": "SALSA AMATRICIANA KIERO 24 X 340G",
     "marca": "PROCESADORA NATURALYST",
     "precio": 1.78,
-    "stock": 120,
-    "modulo": "MobilVendor"
+    "stock": 119,
+    "modulo": ""
   },
   {
-    "id": 650,
+    "id": 1789655333973,
     "producto": "SALSA ARRABIATA KIERO 24 X 340G",
     "marca": "PROCESADORA NATURALYST",
     "precio": 1.67,
     "stock": 120,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 651,
+    "id": 1789655334764,
     "producto": "SALSA BARBACOA BOTELLA 3.3KG TIGO",
     "marca": "TIGO",
     "precio": 18.83,
     "stock": 3,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 652,
+    "id": 1789655333793,
     "producto": "SALSA BASILICO KIERO 24 X 340G",
     "marca": "PROCESADORA NATURALYST",
     "precio": 1.67,
     "stock": 120,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 653,
+    "id": 1789655334505,
     "producto": "SALSA BBQ PICANTE KIERO DOYPACK 230G",
     "marca": "PROCESADORA NATURALYST",
     "precio": 2.23,
-    "stock": 34,
-    "modulo": "MobilVendor"
+    "stock": 26,
+    "modulo": ""
   },
   {
-    "id": 654,
+    "id": 1789655334027,
     "producto": "SALSA BOLOGNESA KIERO 12 X 500G",
     "marca": "PROCESADORA NATURALYST",
     "precio": 2.7,
     "stock": 23,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 655,
+    "id": 1789655334182,
     "producto": "SALSA BOLOGNESA KIERO 340G",
     "marca": "PROCESADORA NATURALYST",
     "precio": 1.7,
-    "stock": 203,
-    "modulo": "MobilVendor"
+    "stock": 194,
+    "modulo": ""
   },
   {
-    "id": 656,
+    "id": 1789655334213,
     "producto": "SALSA DE AJO KAMPIST 150CC",
     "marca": "PROCESADORA NATURALYST",
     "precio": 0.84,
     "stock": 1,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 657,
+    "id": 1789655333859,
     "producto": "SALSA DE AJO KIERO 150CC",
     "marca": "PROCESADORA NATURALYST",
     "precio": 1.14,
-    "stock": 87,
-    "modulo": "MobilVendor"
+    "stock": 83,
+    "modulo": ""
   },
   {
-    "id": 658,
+    "id": 1789655334610,
     "producto": "SALSA DE AJO KIERO 2 X 3.8 LTS",
     "marca": "PROCESADORA NATURALYST",
     "precio": 8.85,
     "stock": 10,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 659,
+    "id": 1789655334639,
     "producto": "SALSA DE SOYA KIERO 150CC",
     "marca": "PROCESADORA NATURALYST",
     "precio": 1.11,
     "stock": 1,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 660,
+    "id": 1789655334609,
     "producto": "SALSA NAPOLITANA KIERO 12 X 500G",
     "marca": "PROCESADORA NATURALYST",
     "precio": 2.7,
-    "stock": 24,
-    "modulo": "MobilVendor"
+    "stock": 23,
+    "modulo": ""
   },
   {
-    "id": 661,
+    "id": 1789655333997,
     "producto": "SALSA NAPOLITANA KIERO 24 X 340G",
     "marca": "PROCESADORA NATURALYST",
     "precio": 1.51,
-    "stock": 120,
-    "modulo": "MobilVendor"
+    "stock": 115,
+    "modulo": ""
   },
   {
-    "id": 662,
+    "id": 1789655334771,
     "producto": "SALSA PARA GUISO KIERO 340G",
     "marca": "PROCESADORA NATURALYST",
     "precio": 1.51,
-    "stock": 184,
-    "modulo": "MobilVendor"
+    "stock": 168,
+    "modulo": ""
   },
   {
-    "id": 663,
+    "id": 1789655334394,
     "producto": "SALSA PARA PIZZA KIERO 12 X 500G",
     "marca": "PROCESADORA NATURALYST",
     "precio": 2.7,
-    "stock": 24,
-    "modulo": "MobilVendor"
+    "stock": 12,
+    "modulo": ""
   },
   {
-    "id": 664,
+    "id": 1789655334339,
     "producto": "SALSA PARA PIZZA KIERO 340G",
     "marca": "PROCESADORA NATURALYST",
     "precio": 1.47,
-    "stock": 65,
-    "modulo": "MobilVendor"
+    "stock": 61,
+    "modulo": ""
   },
   {
-    "id": 665,
+    "id": 1789655334572,
     "producto": "SALSA PEPPERONI KIERO 24 X 340G",
     "marca": "PROCESADORA NATURALYST",
     "precio": 1.67,
     "stock": 120,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 666,
+    "id": 1789655334153,
     "producto": "SALSAS PARA CONDIMENTAR TRIPACK KIERO 150CC",
     "marca": "PROCESADORA NATURALYST",
     "precio": 3.38,
-    "stock": 211,
-    "modulo": "MobilVendor"
+    "stock": 206,
+    "modulo": ""
   },
   {
-    "id": 667,
+    "id": 1789655334766,
     "producto": "SAMBA GALLETA FRESA 8X560G VE",
     "marca": "NESTLE",
     "precio": 19.02,
-    "stock": 106,
-    "modulo": "MobilVendor"
+    "stock": 141,
+    "modulo": ""
   },
   {
-    "id": 668,
+    "id": 1789655334672,
     "producto": "SAMBA® CHOCOLATE DISPLAY 16(20X32G)",
     "marca": "NESTLE",
     "precio": 0.9,
-    "stock": 5040,
-    "modulo": "MobilVendor"
+    "stock": 3790,
+    "modulo": ""
   },
   {
-    "id": 669,
+    "id": 1789655334727,
     "producto": "SAMBA® FRESA DISPLAY 16(20X32G) VE",
     "marca": "NESTLE",
     "precio": 0.9,
-    "stock": 8535,
-    "modulo": "Ambos Modulos"
+    "stock": 6353,
+    "modulo": ""
   },
   {
-    "id": 670,
+    "id": 1789655334008,
     "producto": "SAO JOSE SACO AZUCAR 50 KG",
     "marca": "SAO JOSE",
     "precio": 81.6,
     "stock": 6,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 671,
+    "id": 1789655334351,
     "producto": "SARDINA ACEITE VEGETAL EL ANCLA 170G",
     "marca": "BUENAVENTURA",
     "precio": 0.64,
-    "stock": 113,
-    "modulo": "Ambos Modulos"
+    "stock": 57,
+    "modulo": ""
   },
   {
-    "id": 672,
+    "id": 1789655334158,
     "producto": "SARDINA ACEITE VEGETAL LOS ROQUES 170G",
     "marca": "BUENAVENTURA",
     "precio": 0.67,
-    "stock": 660,
-    "modulo": "MobilVendor"
+    "stock": 578,
+    "modulo": ""
   },
   {
-    "id": 673,
+    "id": 1789655334466,
     "producto": "SARDINA EN SALSA DE TOMATE PTO ALEGRE 170G",
     "marca": "BUENAVENTURA",
     "precio": 0.6,
-    "stock": 438,
-    "modulo": "MobilVendor"
+    "stock": 232,
+    "modulo": ""
   },
   {
-    "id": 674,
+    "id": 1789655334544,
     "producto": "SARDINA SALSA DE TOMATE EL ANCLA 170G",
     "marca": "BUENAVENTURA",
     "precio": 0.64,
-    "stock": 81,
-    "modulo": "MobilVendor"
+    "stock": 21,
+    "modulo": ""
   },
   {
-    "id": 675,
+    "id": 1789655334137,
     "producto": "SARDINA SALSA DE TOMATE LOS ROQUES LITO 170G",
     "marca": "BUENAVENTURA",
     "precio": 0.67,
-    "stock": 461,
-    "modulo": "MobilVendor"
+    "stock": 373,
+    "modulo": ""
   },
   {
-    "id": 676,
+    "id": 1789655334154,
     "producto": "SARDINAS AREL S/TOMATE 24 X 170GR",
     "marca": "REPRESENTACIONES DIPROPAL",
     "precio": 0.8,
     "stock": 903,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 677,
+    "id": 1789655334604,
+    "producto": "SAVOY CHOCOLATE CON LECHE 32(10X15G) VE",
+    "marca": "NESTLE",
+    "precio": 0.65,
+    "stock": 510,
+    "modulo": ""
+  },
+  {
+    "id": 1789655334175,
+    "producto": "SAVOY DELIGHT 16(6X100G) VE",
+    "marca": "NESTLE",
+    "precio": 5.38,
+    "stock": 90,
+    "modulo": ""
+  },
+  {
+    "id": 1789655333985,
     "producto": "SAVOY POSTRES 40% DE CACAO (4X200G) VE",
     "marca": "NESTLE",
     "precio": 5.93,
-    "stock": 288,
-    "modulo": "MobilVendor"
+    "stock": 236,
+    "modulo": ""
   },
   {
-    "id": 678,
+    "id": 1789655333985,
     "producto": "SAVOY POSTRES 55% DE CACAO (4X200G) VE",
     "marca": "NESTLE",
     "precio": 5.93,
-    "stock": 352,
-    "modulo": "MobilVendor"
+    "stock": 252,
+    "modulo": ""
   },
   {
-    "id": 679,
+    "id": 1789655333874,
     "producto": "SAVOY® CARRÉ AVELLANAS 12(10X100G)",
     "marca": "NESTLE",
     "precio": 4.72,
-    "stock": 850,
-    "modulo": "MobilVendor"
+    "stock": 600,
+    "modulo": ""
   },
   {
-    "id": 680,
+    "id": 1789655334786,
     "producto": "SAVOY® CARRÉ MINI AVELLANAS 16(16X25G)",
     "marca": "NESTLE",
     "precio": 1.36,
-    "stock": 376,
-    "modulo": "MobilVendor"
+    "stock": 3800,
+    "modulo": ""
   },
   {
-    "id": 681,
+    "id": 1789655334490,
     "producto": "SAVOY® LECHE (5X130G)",
     "marca": "NESTLE",
     "precio": 4.12,
-    "stock": 751,
-    "modulo": "MobilVendor"
+    "stock": 495,
+    "modulo": ""
   },
   {
-    "id": 682,
+    "id": 1789655334144,
     "producto": "SAVOY® LECHE 16(9X70G) VE",
     "marca": "NESTLE",
     "precio": 2.51,
-    "stock": 1413,
-    "modulo": "MobilVendor"
+    "stock": 1494,
+    "modulo": ""
   },
   {
-    "id": 683,
+    "id": 1789655334350,
     "producto": "SAVOY® LECHE 24(12X30G) VE",
     "marca": "NESTLE",
     "precio": 1.23,
-    "stock": 7836,
-    "modulo": "Ambos Modulos"
+    "stock": 6746,
+    "modulo": ""
   },
   {
-    "id": 684,
+    "id": 1789655334371,
     "producto": "SDLA ATUN EN AGUA 48X170G",
     "marca": "ALIMENTOS DIFRESCA",
     "precio": 2.93,
     "stock": 1,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 685,
+    "id": 1789655334090,
     "producto": "SERVILLETA Z PEQUEÑA POLY 250H X20",
     "marca": "PAVECA",
     "precio": 1.44,
-    "stock": 711,
-    "modulo": "MobilVendor"
+    "stock": 627,
+    "modulo": ""
   },
   {
-    "id": 686,
+    "id": 1789655333818,
     "producto": "SERVILLETAS Z GRANDE 1P POLY 16X160",
     "marca": "PAVECA",
     "precio": 1.69,
     "stock": 3,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 687,
+    "id": 1789655334456,
     "producto": "SERVILLETAS Z PEQUEÑA 1P POLY 20X160",
     "marca": "PAVECA",
     "precio": 0.88,
-    "stock": 2314,
-    "modulo": "MobilVendor"
+    "stock": 2148,
+    "modulo": ""
   },
   {
-    "id": 688,
+    "id": 1789655333867,
     "producto": "SODA ENRIQ. PUIG 240G X 24",
     "marca": "GALLETAS PUIG",
     "precio": 1.78,
-    "stock": 281,
-    "modulo": "MobilVendor"
+    "stock": 191,
+    "modulo": ""
   },
   {
-    "id": 689,
+    "id": 1789655334588,
     "producto": "SODA PUIG INTEGRAL 290G 24X10",
     "marca": "GALLETAS PUIG",
     "precio": 2.01,
-    "stock": 25,
-    "modulo": "MobilVendor"
+    "stock": 23,
+    "modulo": ""
   },
   {
-    "id": 690,
+    "id": 1789655334153,
+    "producto": "SOPA DE POLLO C/ FIDEOS NF 62GR",
+    "marca": "NESTLE",
+    "precio": 1.31,
+    "stock": 12642,
+    "modulo": ""
+  },
+  {
+    "id": 1789655334331,
+    "producto": "SOPA DE POLLO C/ARROZ 62G NF",
+    "marca": "NESTLE",
+    "precio": 1.31,
+    "stock": 708,
+    "modulo": ""
+  },
+  {
+    "id": 1789655334439,
     "producto": "SPLASH HOMBRE Y MUJER",
     "marca": "3N",
     "precio": 4.24,
     "stock": 5,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 691,
+    "id": 1789655334000,
     "producto": "STADIUM DISPLAY 15 X 25GR",
     "marca": "ST. MORITZ",
     "precio": 7.53,
-    "stock": 19,
-    "modulo": "Modulo B"
+    "stock": 15,
+    "modulo": ""
   },
   {
-    "id": 692,
+    "id": 1789655334445,
     "producto": "SUNNY CHOCO FLAKES 250 GR",
     "marca": "SUNNY FLAKES",
     "precio": 2.56,
-    "stock": 216,
-    "modulo": "Modulo B"
+    "stock": 198,
+    "modulo": ""
   },
   {
-    "id": 693,
+    "id": 1789655334669,
     "producto": "SUNNY FLAKES 230 GR",
     "marca": "SUNNY FLAKES",
     "precio": 2.17,
-    "stock": 451,
-    "modulo": "Modulo B"
+    "stock": 445,
+    "modulo": ""
   },
   {
-    "id": 694,
+    "id": 1789655334597,
     "producto": "SUNNY SUGAR FLAKES 250 GR",
     "marca": "SUNNY FLAKES",
     "precio": 2.29,
-    "stock": 454,
-    "modulo": "Modulo B"
+    "stock": 445,
+    "modulo": ""
   },
   {
-    "id": 695,
+    "id": 1789655334359,
     "producto": "SUPER B LAVAPLATOS 500GR",
     "marca": "CORVARA HOLDINGS",
     "precio": 1.39,
     "stock": 1,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 696,
+    "id": 1789655333932,
     "producto": "SUSY® CHOCOLATE MAXI 12(18X50G) VE",
     "marca": "NESTLE",
     "precio": 0.84,
-    "stock": 11094,
-    "modulo": "MobilVendor"
+    "stock": 6450,
+    "modulo": ""
   },
   {
-    "id": 697,
+    "id": 1789655334766,
     "producto": "SUSY® MAXI MULTIPACK 60(1X200G) VE",
     "marca": "NESTLE",
     "precio": 0.89,
-    "stock": 799,
-    "modulo": "MobilVendor"
+    "stock": 275,
+    "modulo": ""
   },
   {
-    "id": 698,
+    "id": 1789655334594,
     "producto": "SVELTY COLAGENO LDP SOFTPACK14X500G CL",
     "marca": "NESTLE",
     "precio": 17.93,
     "stock": 14,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 699,
+    "id": 1789655334690,
     "producto": "SVELTY LECHE DESCREMADA 18X400G VE",
     "marca": "NESTLE",
     "precio": 8.94,
     "stock": 35,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 700,
+    "id": 1789655333985,
     "producto": "SVELTY LECHE SEMIDESCREMADA 18X400G VE #",
     "marca": "NESTLE",
     "precio": 8.53,
     "stock": 2,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 701,
+    "id": 1789655334006,
     "producto": "TABACOS DON PAQUITO 50UND",
     "marca": "HAI SANGO",
     "precio": 10.6,
-    "stock": 156,
-    "modulo": "Modulo B"
+    "stock": 155,
+    "modulo": ""
   },
   {
-    "id": 702,
+    "id": 1789655334131,
     "producto": "TAMY CHOCOLATE SUIZO 110 GR",
     "marca": "TANRICO",
     "precio": 1.4,
     "stock": 24,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 703,
+    "id": 1789655334692,
     "producto": "TAMY COCO CARIBE 110 GR",
     "marca": "TANRICO",
     "precio": 1.4,
     "stock": 24,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 704,
+    "id": 1789655334175,
     "producto": "TAMY FRESA TOVAR 110 GR",
     "marca": "TANRICO",
     "precio": 1.2,
     "stock": 20,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 705,
+    "id": 1789655334714,
     "producto": "TAMY GUAYABA CARONI 110 GR",
     "marca": "TANRICO",
     "precio": 1.2,
     "stock": 22,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 706,
-    "producto": "TE DE MANZANILLA MC 20GRS 20UND",
-    "marca": "HERMANOS FIGUEIRA",
-    "precio": 3.22,
-    "stock": 1,
-    "modulo": "Modulo B"
+    "id": 1789655334069,
+    "producto": "TE FRUTEA CANAIMA SABOR DURAZNO 12/ 330 ML",
+    "marca": "CANAIMA",
+    "precio": 4.83,
+    "stock": 67,
+    "modulo": ""
   },
   {
-    "id": 707,
+    "id": 1789655334561,
+    "producto": "TE FRUTEA CANAIMA SABOR DURAZNO 12/600 ML",
+    "marca": "CANAIMA",
+    "precio": 6.81,
+    "stock": 39,
+    "modulo": ""
+  },
+  {
+    "id": 1789655334162,
+    "producto": "TE FRUTEA CANAIMA SABOR DURAZNO 6/1500ML",
+    "marca": "CANAIMA",
+    "precio": 5.08,
+    "stock": 121,
+    "modulo": ""
+  },
+  {
+    "id": 1789655334211,
+    "producto": "TE FRUTEA CANAIMA SABOR LIMON 12/ 330 ML",
+    "marca": "CANAIMA",
+    "precio": 4.83,
+    "stock": 30,
+    "modulo": ""
+  },
+  {
+    "id": 1789655334611,
+    "producto": "TE FRUTEA CANAIMA SABOR LIMON 12/600 ML",
+    "marca": "CANAIMA",
+    "precio": 6.81,
+    "stock": 12,
+    "modulo": ""
+  },
+  {
+    "id": 1789655334588,
+    "producto": "TE FRUTEA CANAIMA SABOR LIMON 6/1500ML",
+    "marca": "CANAIMA",
+    "precio": 5.07,
+    "stock": 64,
+    "modulo": ""
+  },
+  {
+    "id": 1789655334360,
     "producto": "TE INFUSION MANZANILLA MIEL 20 SOBRES",
     "marca": "CORVARA HOLDINGS",
     "precio": 2.55,
-    "stock": 49,
-    "modulo": "Modulo B"
+    "stock": 51,
+    "modulo": ""
   },
   {
-    "id": 708,
+    "id": 1789655334510,
     "producto": "TOALLA ALIVE 245MM DIURNO",
     "marca": "ALIVE",
     "precio": 1.3,
-    "stock": 617,
-    "modulo": "Modulo B"
+    "stock": 573,
+    "modulo": ""
   },
   {
-    "id": 709,
+    "id": 1789655334772,
     "producto": "TOALLA ALIVE 290MM NOCTURNO",
     "marca": "ALIVE",
     "precio": 1.56,
-    "stock": 269,
-    "modulo": "Modulo B"
+    "stock": 167,
+    "modulo": ""
   },
   {
-    "id": 710,
+    "id": 1789655333959,
     "producto": "TOALLA WANITA USO DIARIO 240MM",
     "marca": "ALIVE",
     "precio": 1.14,
-    "stock": 104,
-    "modulo": "Modulo B"
+    "stock": 91,
+    "modulo": ""
   },
   {
-    "id": 711,
+    "id": 1789655333886,
     "producto": "TOALLAS HUMEDAS ALIVE AZUL 50UND",
     "marca": "ALIVE",
     "precio": 1.77,
     "stock": 106,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 712,
+    "id": 1789655334269,
     "producto": "TOALLAS S FRIENDS PD MANZANILLA S/P 40 UNID",
     "marca": "PHARSANA",
     "precio": 1.87,
     "stock": 302,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 713,
+    "id": 1789655334199,
     "producto": "TOALLIN DON TOALLIN 50H 2P",
     "marca": "PAVECA",
     "precio": 0.74,
-    "stock": 1189,
-    "modulo": "MobilVendor"
+    "stock": 1107,
+    "modulo": ""
   },
   {
-    "id": 714,
+    "id": 1789655334241,
     "producto": "TOALLIN ROSAL 160H 2P MULTIUSO NAV",
     "marca": "PAVECA",
     "precio": 2.29,
-    "stock": 9,
-    "modulo": "MobilVendor"
+    "stock": 5,
+    "modulo": ""
   },
   {
-    "id": 715,
+    "id": 1789655334306,
     "producto": "TOALLIN ROSAL 80H 2P MULTIUSO",
     "marca": "PAVECA",
     "precio": 1.25,
-    "stock": 1000,
-    "modulo": "MobilVendor"
+    "stock": 944,
+    "modulo": ""
   },
   {
-    "id": 716,
+    "id": 1789655334243,
     "producto": "TOALLIN ROSAL 90H XL 2P MULTIUSO",
     "marca": "PAVECA",
     "precio": 2.04,
-    "stock": 365,
-    "modulo": "MobilVendor"
+    "stock": 361,
+    "modulo": ""
   },
   {
-    "id": 717,
+    "id": 1789655334134,
     "producto": "TOCINETA AHUMADA BIGCERDY SIN PIEL PZA APROX 10KG",
     "marca": "EMBUTIDOS BIGCERDY",
     "precio": 11.16,
     "stock": 0,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 718,
+    "id": 1789655334625,
     "producto": "TOCINETA DE CERDO PRADO TIPO A",
     "marca": "LPRADO",
     "precio": 16.3,
     "stock": 0,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 719,
+    "id": 1789655334511,
     "producto": "TODO USO CHOCOLATE BITTER DISPLAY 6X100G 36%",
     "marca": "ST. MORITZ",
     "precio": 14.89,
     "stock": 10,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 720,
+    "id": 1789655334271,
     "producto": "TODO USO CHOCOLATE EXTRA BITTER DISPLAY 6X100G 56%",
     "marca": "ST. MORITZ",
     "precio": 14.89,
     "stock": 27,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 721,
+    "id": 1789655334114,
     "producto": "TODO USO CHOCOLATE LECHE DISPLAY 6X100G",
     "marca": "ST. MORITZ",
     "precio": 14.89,
     "stock": 9,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 722,
+    "id": 1789655333907,
+    "producto": "TORONTO CHOCOLATE DARK 48X125G VE",
+    "marca": "NESTLE",
+    "precio": 7.61,
+    "stock": 141,
+    "modulo": ""
+  },
+  {
+    "id": 1789655334345,
+    "producto": "TORONTO LATA MIX NEVADO OSCURO 12X324G VE",
+    "marca": "NESTLE",
+    "precio": 22.56,
+    "stock": 11,
+    "modulo": ""
+  },
+  {
+    "id": 1789655334062,
     "producto": "TORONTO NEVADO BOLSA 48X125G VE",
     "marca": "NESTLE",
     "precio": 7.44,
-    "stock": 142,
-    "modulo": "MobilVendor"
+    "stock": 139,
+    "modulo": ""
   },
   {
-    "id": 723,
+    "id": 1789655333899,
     "producto": "TORONTO® BOLSA 48(1X125G) VE",
     "marca": "NESTLE",
     "precio": 7.85,
-    "stock": 458,
-    "modulo": "MobilVendor"
+    "stock": 405,
+    "modulo": ""
   },
   {
-    "id": 724,
+    "id": 1789655334519,
     "producto": "TORONTO® DISPLAY 24(36X9G) VE",
     "marca": "NESTLE",
     "precio": 20.43,
-    "stock": 300,
-    "modulo": "MobilVendor"
+    "stock": 188,
+    "modulo": ""
   },
   {
-    "id": 725,
+    "id": 1789655334501,
     "producto": "TORTICAS RIFEL VAINILLA 24 X (8 X 35GR)",
     "marca": "REPRESENTACIONES DIPROPAL",
     "precio": 3.7,
-    "stock": 27,
-    "modulo": "MobilVendor"
+    "stock": 26,
+    "modulo": ""
   },
   {
-    "id": 726,
+    "id": 1789655334668,
     "producto": "TORTILLAS JACKS PICANTE 190 GRS",
     "marca": "PEPSICO",
     "precio": 2.28,
-    "stock": 89,
-    "modulo": "MobilVendor"
+    "stock": 60,
+    "modulo": ""
   },
   {
-    "id": 727,
+    "id": 1789655334297,
     "producto": "TOSTITOS 140 GRS",
     "marca": "PEPSICO",
     "precio": 1.45,
-    "stock": 82,
-    "modulo": "MobilVendor"
+    "stock": 167,
+    "modulo": ""
   },
   {
-    "id": 728,
+    "id": 1789655333963,
     "producto": "TOSTITOS DE 400 GRS",
     "marca": "PEPSICO",
     "precio": 3.41,
-    "stock": 11,
-    "modulo": "MobilVendor"
+    "stock": 17,
+    "modulo": ""
   },
   {
-    "id": 729,
+    "id": 1789655334151,
     "producto": "UNIVERSAL UNI20",
     "marca": "DISTRIBUIDORA BIGOTT",
     "precio": 1.61,
-    "stock": 1445,
-    "modulo": "Modulo B"
+    "stock": 4100,
+    "modulo": ""
   },
   {
-    "id": 730,
+    "id": 1789655334417,
     "producto": "UPACA LECHE COM EN POLVO 125G",
     "marca": "UPACA",
     "precio": 1.5,
-    "stock": 1430,
-    "modulo": "Modulo B"
+    "stock": 697,
+    "modulo": ""
   },
   {
-    "id": 731,
-    "producto": "UPACA LECHE COM EN POLVO 400G",
-    "marca": "UPACA",
-    "precio": 4.68,
-    "stock": 3,
-    "modulo": "Modulo B"
-  },
-  {
-    "id": 732,
-    "producto": "UW DIABLITOS AF PROMO 130 AÑOS 115G",
-    "marca": "ALIMENTOS DIFRESCA",
-    "precio": 2.84,
-    "stock": 1,
-    "modulo": "MobilVendor"
-  },
-  {
-    "id": 733,
+    "id": 1789655334574,
     "producto": "UW DIABLITOS AF PROMO 130 AÑOS 54G",
     "marca": "ALIMENTOS DIFRESCA",
     "precio": 1.64,
-    "stock": 216,
-    "modulo": "MobilVendor"
+    "stock": 6,
+    "modulo": ""
   },
   {
-    "id": 734,
+    "id": 1789655334863,
     "producto": "VAPORIZE 30 GR",
     "marca": "COSMETICOS LARENSE",
     "precio": 1.94,
-    "stock": 34,
-    "modulo": "Modulo B"
+    "stock": 31,
+    "modulo": ""
   },
   {
-    "id": 735,
+    "id": 1789655334577,
     "producto": "VASELINA FULL STILO 120 GR",
     "marca": "MISCELANEOS",
     "precio": 1.3,
     "stock": 25,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 736,
+    "id": 1789655333942,
     "producto": "VASELINE LOCION CORP ADV STRENGTH 200ML",
     "marca": "DIMASSI",
     "precio": 2.44,
     "stock": 36,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 737,
+    "id": 1789655334565,
     "producto": "VASELINE LOCION CORP ALOE SOOTHE 200ML",
     "marca": "DIMASSI",
     "precio": 2.44,
     "stock": 36,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 738,
+    "id": 1789655333897,
     "producto": "VASELINE LOCION CORP COCOA RADIANT 200ML",
     "marca": "DIMASSI",
     "precio": 2.44,
     "stock": 36,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 739,
+    "id": 1789655334735,
     "producto": "VATEL ACEITE SOYA 1L",
     "marca": "GRUPO MIMESA",
     "precio": 3.65,
-    "stock": 448,
-    "modulo": "MobilVendor"
+    "stock": 260,
+    "modulo": ""
   },
   {
-    "id": 740,
-    "producto": "VATEL ACEITE VEGETAL 1L (E)",
+    "id": 1789655334741,
+    "producto": "VATEL ACEITE SOYA 500ML (E)",
     "marca": "GRUPO MIMESA",
-    "precio": 3.65,
-    "stock": 206,
-    "modulo": "MobilVendor"
+    "precio": 1.83,
+    "stock": 1092,
+    "modulo": ""
   },
   {
-    "id": 741,
+    "id": 1789655334782,
     "producto": "VATEL PRO GRASA VEGETAL COMPUESTA TOBO 18L",
     "marca": "GRUPO MIMESA",
     "precio": 70.28,
     "stock": 6,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 742,
+    "id": 1789655334223,
     "producto": "VATEL PRO OLEINA DE PALMA 18 LT (E)",
     "marca": "GRUPO MIMESA",
     "precio": 78.48,
-    "stock": 4,
-    "modulo": "MobilVendor"
+    "stock": 3,
+    "modulo": ""
   },
   {
-    "id": 743,
+    "id": 1789655334787,
     "producto": "VEGETALES MIXT AREL 227GR X 24 UNI",
     "marca": "REPRESENTACIONES DIPROPAL",
     "precio": 1.44,
     "stock": 174,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 744,
+    "id": 1789655333893,
     "producto": "VEGETALES MIXT AREL 400GR X 24 UNI",
     "marca": "REPRESENTACIONES DIPROPAL",
     "precio": 1.85,
     "stock": 34,
-    "modulo": "MobilVendor"
+    "modulo": ""
   },
   {
-    "id": 745,
+    "id": 1789655334766,
     "producto": "VELA #12 CM MORADA UND",
     "marca": "HAI SANGO",
     "precio": 0.2,
     "stock": 293,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 746,
+    "id": 1789655334484,
     "producto": "VELA #15 CM BLANCA EL MONJE",
     "marca": "HAI SANGO",
     "precio": 0.2,
     "stock": 2136,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 747,
+    "id": 1789655334622,
     "producto": "VELA #15 CM MORADA EL MONJE",
     "marca": "HAI SANGO",
     "precio": 0.2,
     "stock": 315,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 748,
+    "id": 1789655334369,
+    "producto": "VIC",
+    "marca": "BIGOTT",
+    "precio": 16.3,
+    "stock": 9,
+    "modulo": ""
+  },
+  {
+    "id": 1789655334846,
     "producto": "VICEROY",
     "marca": "DISTRIBUIDORA BIGOTT",
     "precio": 1.63,
-    "stock": 304,
-    "modulo": "Modulo B"
+    "stock": 144,
+    "modulo": ""
   },
   {
-    "id": 749,
+    "id": 1789655334481,
     "producto": "WASHUP ESPONJA ACERO INOXIDABLE (X 6UNID)",
     "marca": "CORVARA HOLDINGS",
     "precio": 4.22,
-    "stock": 257,
-    "modulo": "Modulo B"
+    "stock": 255,
+    "modulo": ""
   },
   {
-    "id": 750,
+    "id": 1789655334235,
     "producto": "WASHUP ESPONJA JABONOSA X 10UNID",
     "marca": "CORVARA HOLDINGS",
     "precio": 4.13,
     "stock": 70,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 751,
+    "id": 1789655334511,
     "producto": "WASHUP ESPONJA JABONOSA X 5UNID",
     "marca": "CORVARA HOLDINGS",
     "precio": 2.44,
     "stock": 82,
-    "modulo": "Modulo B"
+    "modulo": ""
   },
   {
-    "id": 752,
+    "id": 1789655334862,
     "producto": "WASHUP ESPONJA SALVA UÑA X 24UNID",
     "marca": "CORVARA HOLDINGS",
     "precio": 19.78,
     "stock": 21,
-    "modulo": "Modulo B"
-  },
-  {
-    "id": 753,
-    "producto": "YOGURT FIRME YOKA NATURAL 150G",
-    "marca": "LACTALIS",
-    "precio": 2.17,
-    "stock": 6,
-    "modulo": "MobilVendor"
-  },
-  {
-    "id": 754,
-    "producto": "YOGURT FIRME YOKA PIÑA 150G",
-    "marca": "LACTALIS",
-    "precio": 2.17,
-    "stock": 26,
-    "modulo": "MobilVendor"
-  },
-  {
-    "id": 755,
-    "producto": "YOGURT LIQUIDO FRIGURT FRESA 750G",
-    "marca": "LACTALIS",
-    "precio": 5.1,
-    "stock": 12,
-    "modulo": "Modulo B"
-  },
-  {
-    "id": 756,
-    "producto": "YOGURT LIQUIDO FRIGURT PIÑA 750G",
-    "marca": "LACTALIS",
-    "precio": 5.1,
-    "stock": 12,
-    "modulo": "Modulo B"
+    "modulo": ""
   }
 ]
