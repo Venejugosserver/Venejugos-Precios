@@ -427,7 +427,7 @@
     "id": 54,
     "producto": "BASE P/COCINAR OSOLE CARNE MECHADA 300 GR",
     "marca": "INVERSIONES GOA 7, C",
-    "precio": 2.0,
+    "precio": 2,
     "stock": 2,
     "modulo": "Modulo B"
   },
@@ -747,7 +747,7 @@
     "id": 94,
     "producto": "CARAMELO REVOLCON 50 UND",
     "marca": "HAI SANGO",
-    "precio": 3.0,
+    "precio": 3,
     "stock": 22,
     "modulo": "Modulo B"
   },
@@ -883,7 +883,7 @@
     "id": 111,
     "producto": "CARBON VEGETAL AL CAMPO X4,5KG",
     "marca": "AL CAMPO",
-    "precio": 13.0,
+    "precio": 13,
     "stock": 14,
     "modulo": "Modulo B"
   },
@@ -1171,7 +1171,7 @@
     "id": 147,
     "producto": "CHOCOLATES BIANCHI SNACKS",
     "marca": "GUDS SUPPLY",
-    "precio": 1.0,
+    "precio": 1,
     "stock": 3,
     "modulo": "MobilVendor"
   },
@@ -1331,7 +1331,7 @@
     "id": 167,
     "producto": "CREMA KEN PRESTO CHANTILLY 1L",
     "marca": "KEMCO",
-    "precio": 6.0,
+    "precio": 6,
     "stock": 4,
     "modulo": "MobilVendor"
   },
@@ -1347,7 +1347,7 @@
     "id": 169,
     "producto": "CREYON LEVO 24 COLORES",
     "marca": "LEVO",
-    "precio": 4.0,
+    "precio": 4,
     "stock": 47,
     "modulo": "Modulo B"
   },
@@ -2363,7 +2363,7 @@
     "id": 296,
     "producto": "HARINA BLANCA FLOR TODO USO 1 KG (E)",
     "marca": "GRUPO MIMESA",
-    "precio": 1.0,
+    "precio": 1,
     "stock": 5,
     "modulo": "MobilVendor"
   },
@@ -2515,7 +2515,7 @@
     "id": 315,
     "producto": "HUESITO AVENA UNT40X200ML",
     "marca": "CARABOBO",
-    "precio": 1.0,
+    "precio": 1,
     "stock": 122,
     "modulo": "MobilVendor"
   },
@@ -2523,7 +2523,7 @@
     "id": 316,
     "producto": "HUESITO FRESA UHT 40X200",
     "marca": "CARABOBO",
-    "precio": 1.0,
+    "precio": 1,
     "stock": 582,
     "modulo": "MobilVendor"
   },
@@ -2531,7 +2531,7 @@
     "id": 317,
     "producto": "HUESITO VAINILLA UHT 40X200ML",
     "marca": "CARABOBO",
-    "precio": 1.0,
+    "precio": 1,
     "stock": 435,
     "modulo": "MobilVendor"
   },
@@ -4691,7 +4691,7 @@
     "id": 587,
     "producto": "POP 35",
     "marca": "BIC",
-    "precio": 0.0,
+    "precio": 0,
     "stock": 959,
     "modulo": "MobilVendor"
   },
@@ -4859,7 +4859,7 @@
     "id": 608,
     "producto": "QUESO PECORINO C/P RALLADO TOSCANO BOLSA 5KG",
     "marca": "FLOR DE ARAGUA",
-    "precio": 33.0,
+    "precio": 33,
     "stock": 10,
     "modulo": "MobilVendor"
   },
